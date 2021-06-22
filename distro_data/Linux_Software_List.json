@@ -1,0 +1,737 @@
+[
+    {
+        "packageName":"Alfresco",
+        "description":"The open source Enterprise Content Management software that handles any type of content, allowing users to easily share and collaborate on content.",
+        "version":""
+    },
+    {
+        "packageName":"Alpine",
+        "description":"A security-oriented, lightweight Linux distribution",
+        "version":""
+    },
+    {
+        "packageName":"Ansible",
+        "description":"Simple, agentless IT automation that anyone can use�",
+        "version":""
+    }
+    ,
+    {
+        "packageName":"AntLR",
+        "description":"ANTLR. (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files. It's widely used to build languages, tools, and frameworks. From a grammar, ANTLR generates a parser that can build and walk parse trees.�",
+        "version":""
+    }
+    ,
+    {
+        "packageName":"Apache ActiveMQ",
+        "description":"Apache ActiveMQ� is the most popular open source, multi-protocol, Java-based messaging server. It supports industry standard protocols so users get the benefits of client choices across a broad range of languages and platforms",
+        "version":""
+    }
+    ,
+    {
+        "packageName":"Apache Camel",
+        "description":"Camel is an Open Source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data.",
+        "version":""
+    },
+    {
+        "packageName":"Apache Cassandra",
+        "description":"The Apache Cassandra database is the right choice when you need scalability and high availability without compromising performance.Manage massive amounts of data, fast, without losing sleep.",
+        "version":""
+    },
+    {
+        "packageName":"Apache Flume",
+        "description":"Flume is a distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data.�",
+        "version":""
+    }
+    ,
+    {
+        "packageName":"Apache Geode",
+        "description":"Build high-speed, data-intensive applications that elastically meet performance requirements at any scale. Take advantage of Apache Geode's unique technology that blends advanced techniques for data replication, partitioning and distributed processing.",
+        "version":""
+    },
+    {
+        "packageName":"Apache HTTP",
+        "description":"The Apache HTTP Server Project is an effort to develop and maintain an open-source HTTP server for modern operating systems including UNIX and Windows. The goal of this project is to provide a secure, efficient and extensible server that provides HTTP services in sync with the current HTTP standards.�",
+        "version":""
+    }
+    ,
+    {
+        "packageName":"Apache Ignite",
+        "description":"Apache Ignite� is a horizontally scalable, fault-tolerant distributed in-memory computing platform for building real-time applications that can process terabytes of data with in-memory speed.�",
+        "version":""
+    }
+    ,
+    {
+        "packageName":"Apache JMeter",
+        "description":"The Apache JMeter� application is open source software, a 100% pure Java application designed to load test functional behavior and measure performance. It was originally designed for testing Web Applications but has since expanded to other test functions.",
+        "version":""
+    }
+    ,
+    {
+        "packageName":"Apache Kafka",
+        "description":"Apache Kafka is an open-source distributed event streaming platform used by thousands of companies for high-performance data pipelines, streaming analytics, data integration, and mission-critical applications.��",
+        "version":""
+    }
+    ,
+    {
+        "packageName":"Apache Maven",
+        "description":"Apache Maven is a software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information�",
+        "version":""
+    }
+    ,
+    {
+        "packageName":"Apache Mesos",
+        "description":"Apache Mesos abstracts CPU, memory, storage, and other compute resources away from machines (physical or virtual), enabling fault-tolerant and elastic distributed systems to easily be built and run effectively.",
+        "version":""
+    },
+    {
+        "packageName":"Apache Solr",
+        "description":"Solr is an open-source search platform which is used to build search applications. It was built on top of Lucene (full text search engine). Solr is enterprise-ready, fast and highly scalable.",
+        "version":""
+    },
+    {
+        "packageName":"Apache Spark",
+        "description":"Apache Spark� is a unified analytics engine for large-scale data processing.�",
+        "version":""
+    }
+    ,
+    {
+        "packageName":"Apache Storm",
+        "description":"Apache Storm is a free and open source distributed realtime computation system. Apache Storm makes it easy to reliably process unbounded streams of data, doing for realtime processing what Hadoop did for batch processing. Apache Storm is simple, can be used with any programming language, and is a lot of fun to use!",
+        "version":""
+    },
+    {
+        "packageName":"Apache Tomcat",
+        "description":"The Apache Tomcat� software is an open source implementation of the Java Servlet, JavaServer Pages, Java Expression Language and Java WebSocket technologies.�",
+        "version":""
+    }
+    ,
+    {
+        "packageName":"Apache Zeppelin",
+        "description":"Apache Zeppelin - Web-based notebook that enables data-driven,  interactive data analytics and collaborative documents with SQL, Scala and more.�",
+        "version":""
+    }
+    ,
+    {
+        "packageName":"Apache ZooKeeper",
+        "description":"ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services.",
+        "version":""
+    },
+    {
+        "packageName":"Apigility",
+        "description":"Apigility is an API builder, designed to simplify the creation and maintenance of useful, easy to consume, and well structured application programming interfaces.�",
+        "version":""
+    }
+    ,
+    {
+        "packageName":"BentoML",
+        "description":"Flexible, high-performance framework for serving, managing, and deploying machine learning models.",
+        "version":""
+    },
+    {
+        "packageName":"Beats",
+        "description":"Beats is a free and open platform for single-purpose data shippers. They send data from hundreds or thousands of machines and systems to Logstash or Elasticsearch.",
+        "version":""
+    },
+    {
+        "packageName":"Caddy",
+        "description":"Open source, HTTP/2-enabled web server written in Go",
+        "version":""
+    },
+    {
+        "packageName":"cAdvisor",
+        "description":"(short for container Advisor) analyzes and exposes resource usage and performance data from running containers",
+        "version":""
+    },
+    {
+        "packageName":"Calico",
+        "description":"Open source networking and network security solution for containers, virtual machines, and native host-based workloads",
+        "version":""
+    },
+    {
+        "packageName":"Chef Infra Client",
+        "description":"Agent that runs locally on every node that is under management by Chef Infra Server",
+        "version":""
+    },
+    {
+        "packageName":"CockroachDB",
+        "description":"CockroachDB is a distributed database with standard SQL for cloud applications",
+        "version":""
+    },
+    {
+        "packageName":"ClefOS",
+        "description":"Linux for s390x based on the CentOS source materials�",
+        "version":""
+    }
+    ,
+    {
+        "packageName":"Consul",
+        "description":" Distributed, highly available, datacenter-aware, service discovery and configuration system",
+        "version":""
+    },
+    {
+        "packageName":"CoreDNS",
+        "description":" Flexible, extensible DNS server that can serve as the Kubernetes cluster DNS",
+        "version":""
+    },
+    {
+        "packageName":"Couchbase",
+        "description":"NoSQL cloud database",
+        "version":""
+    },
+    {
+        "packageName":"CouchDB",
+        "description":"Open source NoSQL document database that collects and stores data in JSON-based document formats",
+        "version":""
+    },
+    {
+        "packageName":"Debian",
+        "description":"Linux distribution with 59000 packages",
+        "version":""
+    },
+    {
+        "packageName":"Docker Compose",
+        "description":"Compose is a tool for defining and running multi-container Docker applications. With Compose, you use a YAML file to configure your application�s services. Then, with a single command, you create and start all the services from your configuration.",
+        "version":""
+    }
+    ,
+    {
+        "packageName":"Docker Distribution",
+        "description":"Docker collaborates with the open source ecosystem through an array of projects that continue to fuel the containerization movement, the Docker platform and other Docker products.",
+        "version":""
+    },
+    {
+        "packageName":"Doxygen",
+        "description":"Doxygen is the de facto standard tool for generating documentation from annotated C++ sources, but it also supports other popular programming languages such as C, Objective-C, C#, PHP, Java, Python, IDL (Corba, Microsoft, and UNO/OpenOffice flavors), Fortran, VHDL...",
+        "version":""
+    },
+    {
+        "packageName":"Drupal",
+        "description":"Drupal is a powerful framework that has inspired a new generation of digital experiences.",
+        "version":""
+    },
+    {
+        "packageName":"ElasticSearch",
+        "description":"A new state of find. We help people explore and analyze data differently using the power of search.",
+        "version":""
+    },
+    {
+        "packageName":"Erlang",
+        "description":"Erlang (/???rl�?/ UR-lang) is a general-purpose, concurrent, functional programming language, and a garbage-collected runtime system.",
+        "version":""
+    }
+    ,
+    {
+        "packageName":"etcd",
+        "description":"etcd is a strongly consistent, distributed key-value store that provides a reliable way to store data that needs to be accessed by a distributed system or cluster of machines",
+        "version":""
+    },
+    {
+        "packageName":"exechealthz",
+        "description":"Sidecar container meant to serve as a liveness-exec-over-http bridge",
+        "version":""
+    },
+    {
+        "packageName":"Fedora",
+        "description":"Linux distribution sponsored primarily by Red Hat, based for RHEL",
+        "version":""
+    },
+    {
+        "packageName":"flannel",
+        "description":"flannel is a virtual network that attaches IP addresses to containers",
+        "version":""
+    },
+    {
+        "packageName":"Fluentd",
+        "description":"Fluentd is an open source data collector for unified logging layer",
+        "version":""
+    },
+    {
+        "packageName":"GlusterFS",
+        "description":"Gluster is a free and open source software scalable network filesystem",
+        "version":""
+    },
+    {
+        "packageName":"Go",
+        "description":"Go is expressive, concise, clean, and efficient. Its concurrency mechanisms make it easy to write programs that get the most out of multicore and networked machines, while its novel type system enables flexible and modular program construction.",
+        "version":""
+    },
+    {
+        "packageName":"Grafana",
+        "description":"Grafana has become the world�s most popular technology used to compose observability dashboards with everything from Prometheus & Graphite metrics, to logs and application data, to power plants and beehives.",
+        "version":""
+    }
+    ,
+    {
+        "packageName":"HAProxy",
+        "description":"The Reliable, High Performance TCP/HTTP Load Balancer",
+        "version":""
+    },
+    {
+        "packageName":"HBase",
+        "description":"Apache HBase� is the Hadoop database, a distributed, scalable, big data store.",
+        "version":""
+    }
+    ,
+    {
+        "packageName":"Heketi",
+        "description":"Heketi provides a RESTful management interface which can be used to manage the life cycle of GlusterFS volumes.",
+        "version":""
+    },
+    {
+        "packageName":"Helm",
+        "description":"The package manager for Kubernetes.  Helm is the best way to find, share, and use software built for Kubernetes.",
+        "version":""
+    },
+    {
+        "packageName":"Hibernate",
+        "description":"Hibernate an open source Java persistence framework project. Perform powerful object relational mapping and query databases using HQL and SQL.",
+        "version":""
+    },
+    {
+        "packageName":"Htop",
+        "description":"htop, a cross-platform interactive process viewer. It is a text-mode application (for console or X terminals)",
+        "version":""
+    },
+    {
+        "packageName":"Hyperledger Fabric",
+        "description":"Hyperledger Fabric is a foundation for developing applications that allow components, such as consensus and membership services, to be plug-and-play.  Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.",
+        "version":""
+    },
+    {
+        "packageName":"InfluxDB",
+        "description":"Act in Time.  Build on InfluxDB. The platform for building and operating time series applications.",
+        "version":""
+    },
+    {
+        "packageName":"Istio",
+        "description":"Istio Connect, secure, control, and observe services. Connect. Intelligently control the flow of traffic and API calls between services, conduct a range of tests, and upgrade gradually with red/black deployments. Secure.",
+        "version":""
+    },
+    {
+        "packageName":"Jenkins",
+        "description":"The leading open source automation server, Jenkins provides hundreds of plugins to support building, deploying and automating any project.",
+        "version":""
+    },
+    {
+        "packageName":"Joomla",
+        "description":"Joomla! is an award-winning content management system (CMS), which enables you to build web sites and powerful online applications.",
+        "version":""
+    },
+    {
+        "packageName":"Kata Containers",
+        "description":"Standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs.",
+        "version":""
+    },
+    {
+        "packageName":"K8s CSI components",
+        "description":"Kubernetes Container Storage Interface (CSI) containers are sidecars that simplify the development and deployment of CSI Drivers.",
+        "version":""
+    },
+    {
+        "packageName":"Keystone (Openstack)",
+        "description":"Keystone is the identity service used by OpenStack for authentication (authN) and high-level authorization",
+        "version":""
+    },
+    {
+        "packageName":"Kibana",
+        "description":"Kibana is a free and open user interface that lets you visualize your Elasticsearch data and navigate the Elastic Stack. Do anything from tracking query load to understanding the way requests flow through your apps.",
+        "version":""
+    },
+    {
+        "packageName":"Kong",
+        "description":"API gateway, built for multi-cloud and hybrid, optimized for microservices and distributed architectures.",
+        "version":""
+    },
+    {
+        "packageName":"Kube Router",
+        "description":"The Kube-router is a turnkey solution for Kubernetes networking with aim to provide operational simplicity.",
+        "version":""
+    },
+    {
+        "packageName":"Kubernetes",
+        "description":"Kubernetes, also known as K8s, is an open-source system for automating deployment, scaling, and management of containerized applications.",
+        "version":""
+    },
+    {
+        "packageName":"Kubernetes Minikube",
+        "description":"The minikube tool includes a set of built-in add-ons that can be enabled, disabled and opened in the local Kubernetes environment.",
+        "version":""
+    },
+    {
+        "packageName":"Libunwind",
+        "description":"The primary goal of this project is to define a portable and efficient C programming interface (API) to determine the call-chain of a program.",
+        "version":""
+    },
+    {
+        "packageName":"Logstash",
+        "description":"Logstash is a free and open server-side data processing pipeline that ingests data from a multitude of sources, transforms it, and then sends it to your favorite \"stash.\"",
+        "version":""
+    },
+    {
+        "packageName":"LuaJIT",
+        "description":"a Just-In-Time Compiler for Lua",
+        "version":""
+    },
+    {
+        "packageName":"Magento",
+        "description":"Magento is an open-source e-commerce platform written in PHP. It uses multiple other PHP frameworks such as Laminas and Symfony.",
+        "version":""
+    },
+    {
+        "packageName":"MariaDB",
+        "description":"MariaDB is a community-developed, commercially supported fork of the MySQL relational database management system, intended to remain free and open-source software under the GNU General Public License.",
+        "version":""
+    },
+    {
+        "packageName":"Mesosphere Marathon",
+        "description":"Marathon is a production-grade container orchestration platform for Mesosphere�s Data Center Operating System",
+        "version":""
+    }
+    ,
+    {
+        "packageName":"MongoDB",
+        "description":"MongoDB is a cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas.",
+        "version":""
+    },
+    {
+        "packageName":"MongoDB Drivers",
+        "description":"The official MongoDB Node. js driver allows Node. js applications to connect to MongoDB and work with data. The driver features an asynchronous API which allows you to access method return values through Promises or specify callbacks to access them when communicating with MongoDB.",
+        "version":""
+    },
+    {
+        "packageName":"Mule�",
+        "description":"Mule ESB, the world's most widely used open source integration platform, has a growing community of over 175,000 developers and enables over 1,600 organizations in more than 60 countries to build application networks that increase the clock speed of business.",
+        "version":""
+    }
+    ,
+    {
+        "packageName":"mySQL",
+        "description":"MySQL is an open-source relational database management system. Its name is a combination of \"My\", the name of co-founder Michael Widenius's daughter, and \"SQL\", the abbreviation for Structured Query Language",
+        "version":""
+    },
+    {
+        "packageName":"Neo4j",
+        "description":"Neo4j is a graph database management system developed by Neo4j, Inc. An ACID-compliant transactional database with native graph storage and processing,",
+        "version":""
+    },
+    {
+        "packageName":"NGINX",
+        "description":"NginX is a web server that can also be used as a reverse proxy, load balancer, mail proxy and HTTP cache.",
+        "version":""
+    },
+    {
+        "packageName":"Node.js",
+        "description":"Node.js is a free, open-sourced, cross-platform JavaScript run-time environment that lets developers write command line tools and server-side scripts outside of a browser.",
+        "version":""
+    },
+    {
+        "packageName":"oCaml",
+        "description":"OCaml is an industrial-strength programming language supporting functional, imperative and object-oriented styles",
+        "version":""
+    },
+    {
+        "packageName":"OKD (formerly OpenShift Origin)",
+        "description":"The Community Distribution of Kubernetes that powers Red Hat's OpenShift",
+        "version":""
+    },
+    {
+        "packageName":"OpenBlass",
+        "description":"Optimized BLAS library based on GotoBLAS2 1.13 BSD version",
+        "version":""
+    },
+    {
+        "packageName":"OpenJ9",
+        "description":"Eclipse OpenJ9 is a high performance, scalable, Java virtual machine implementation that is fully compliant with the Java Virtual Machine Specification.",
+        "version":""
+    },
+    {
+        "packageName":"OpenJDK",
+        "description":"An open-source implementation of the Java Platform, Standard Edition, and related projects.",
+        "version":""
+    },
+    {
+        "packageName":"OpenResty",
+        "description":"Scalable Web Platform by Extending NGINX with Lua",
+        "version":""
+    },
+    {
+        "packageName":"OpenSUSE",
+        "description":"Tools to aid in staging and release work for openSUSE/SUSE",
+        "version":""
+    },
+    {
+        "packageName":"Pandas",
+        "description":"Python package providing fast, flexible, and expressive data structures for data analysis and manipulation",
+        "version":""
+    },
+    {
+        "packageName":"PHP",
+        "description":"PHP is a popular general-purpose scripting language that is especially suited to web development. Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world.",
+        "version":""
+    },
+    {
+        "packageName":"Ploty DASH",
+        "description":"Python framework for building ML & data science web apps. Built on top of Plotly.js, React and Flask",
+        "version":""
+    },
+    {
+        "packageName":"PM2",
+        "description":"PM2 is a production process manager for Node.js applications with a built-in load balancer. It allows you to keep applications alive forever, to reload them without downtime and to facilitate common system admin tasks.",
+        "version":""
+    },
+    {
+        "packageName":"PostgreSQL",
+        "description":"PostgreSQL is a powerful, open source object-relational database system with over 30 years of active development that has earned it a strong reputation for reliability, feature robustness, and performance.",
+        "version":""
+    },
+    {
+        "packageName":"Prometheus",
+        "description":"Prometheus is an open-source systems monitoring and alerting toolkit originally built at SoundCloud. Since its inception in 2012, many companies and organizations have adopted Prometheus, and the project has a very active developer and user community.",
+        "version":""
+    },
+    {
+        "packageName":"Protobuf",
+        "description":"Protocol Buffers (Protobuf) is a method of serializing structured data. It is useful in developing programs to communicate with each other over a wire or for storing data.",
+        "version":""
+    },
+    {
+        "packageName":"Puppet",
+        "description":"Puppet is the industry standard for IT automation.",
+        "version":""
+    },
+    {
+        "packageName":"PyPy",
+        "description":"PyPy is an alternative implementation of the Python programming language.  PyPy often runs faster  because PyPy is a just-in-time compiler rather than an interpreter",
+        "version":""
+    },
+    {
+        "packageName":"Python",
+        "description":"Python is a programming language that lets you work more quickly and integrate your systems more effectively.",
+        "version":""
+    },
+    {
+        "packageName":"Quarkus",
+        "description":" Kubernetes Native Java stack tailored for OpenJDK, HotSpot and GraalVM",
+        "version":""
+    },
+    {
+        "packageName":"QEMU",
+        "description":"QEMU is a generic and open source machine emulator and virtualizer",
+        "version":""
+    },
+    {
+        "packageName":"R",
+        "description":"The R Project for Statistical Computing Getting Started. R is a free software environment for statistical computing and graphics.",
+        "version":""
+    },
+    {
+        "packageName":"RabbitMQ",
+        "description":"RabbitMQ is the most widely deployed open source message broker.",
+        "version":""
+    },
+    {
+        "packageName":"Rails",
+        "description":"Learning to build a modern web application is daunting. Ruby on Rails makes it much easier and more fun. It includes everything you need to build fantastic applications, and you can learn it with the support of our large, friendly community.",
+        "version":""
+    },
+    {
+        "packageName":"Redis",
+        "description":"Redis is an in-memory data structure store, used as a database, cache and message broker.",
+        "version":""
+    },
+    {
+        "packageName":"RethinkDB",
+        "description":"RethinkDB is the open-source, scalable database that makes building realtime apps dramatically easier.",
+        "version":""
+    },
+    {
+        "packageName":"Ruby",
+        "description":"A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write.",
+        "version":""
+    },
+    {
+        "packageName":"Salt",
+        "description":"Software to automate the management and configuration of any infrastructure or application at scale",
+        "version":""
+    },
+    {
+        "packageName":"Scala",
+        "description":"Scala combines object-oriented and functional programming in one concise, high-level language",
+        "version":""
+    },
+    {
+        "packageName":"Scikit Learn",
+        "description":"Open source machine learning library that supports various tools for model fitting, data preprocessing, model selection and evaluation, and many other utilities",
+        "version":""
+    },
+    {
+        "packageName":"ScyllaDB",
+        "description":"NoSQL data store using the seastar framework, compatible with Apache Cassandra",
+        "version":""
+    },
+    {
+        "packageName":"service-catalog",
+        "description":"Service Catalog lets you provision cloud services directly from the comfort of native Kubernetes tooling",
+        "version":""
+    },
+    {
+        "packageName":"Snappy-Java",
+        "description":"Java port of the snappy, a fast C++ compresser/decompresser developed by Google",
+        "version":""
+    },
+    {
+        "packageName":"Sonarqube",
+        "description":"Automatic code review tool to detect bugs, and vulnerabilities",
+        "version":""
+    },
+    {
+        "packageName":"StatsD",
+        "description":"A network daemon that runs on the Node.js platform and listens for statistics, like counters and timers",
+        "version":""
+    },
+    {
+        "packageName":"SUSE",
+        "description":"Enterprise-class, highly reliable, scalable and secure operating system",
+        "version":""
+    },
+    {
+        "packageName":"Sysdig",
+        "description":"Simple tool with deep system visibility for exploration and troubleshooting, with native support for containers.",
+        "version":""
+    },
+    {
+        "packageName":"TensorFlow",
+        "description":"End-to-end open source platform for machine learning. Includes libraries and tools",
+        "version":""
+    },
+    {
+        "packageName":"TensorFlow Serving",
+        "description":"TensorFlow Serving is a flexible, high-performance serving system for machine learning models, designed for production environments. TensorFlow Serving makes it easy to deploy new algorithms and experiments, while keeping the same server architecture and APIs",
+        "version":""
+    },
+    {
+        "packageName":"Tensorflow Transform",
+        "description":"TensorFlow Transform is a library for preprocessing data with TensorFlow. tf.Transform is useful for data that requires a full-pass",
+        "version":""
+    },
+    {
+        "packageName":"Terraform",
+        "description":"Tool for building, changing, and versioning infrastructure�",
+        "version":""
+    }
+    ,
+    {
+        "packageName":"V8 JavaScript",
+        "description":"JavaScript Programming Language and WebAssembly engine, written in C++. It is used in Chrome and in Node.js, among others",
+        "version":""
+    },
+    {
+        "packageName":"Weave Scope",
+        "description":"Troubleshooting & Monitoring for Docker & Kubernetes",
+        "version":""
+    },
+    {
+        "packageName":"Wekan",
+        "description":"Open source kanban",
+        "version":""
+    },
+    {
+        "packageName":"WildFly (JBoss)",
+        "description":"Application server includes Java Platform, Enterprise Edition�",
+        "version":""
+    }
+    ,
+    {
+        "packageName":"Word2Vec",
+        "description":"Tool for computing continuous distributed representations of words",
+        "version":""
+    },
+    {
+        "packageName":"WordPress",
+        "description":"Free and open-source content management system",
+        "version":""
+    },
+    {
+        "packageName":"XMLSec",
+        "description":"Library that� provides C based implementation for major XML Security standards",
+        "version":""
+    }
+    ,
+    {
+        "packageName":"Zabbix",
+        "description":"Real-time monitoring of IT components and services, such as networks, servers, VMs, applications and the cloud.",
+        "version":""
+    },
+    {
+        "packageName":"Zerotier",
+        "description":"Smart programmable ethernet switch",
+        "version":""
+    },
+    {
+        "packageName":"LLVM",
+        "description":"The LLVM Project is a collection of modular and reusable compiler and toolchain technologies",
+        "version":""
+    },
+    {
+        "packageName":"",
+        "description":"",
+        "version":""
+    },
+    {
+        "packageName":"Memcached",
+        "description":"High-performance distributed memory object caching system",
+        "version":""
+    },
+    {
+        "packageName":"Knative",
+        "description":"Kubernetes-based platform to deploy and manage modern serverless workloads.",
+        "version":""
+    },
+    {
+        "packageName":"Bash",
+        "description":"Bourne Again SHell. This is an sh-compatible shell that incorporates useful features from the Korn shell (ksh) and the C shell (csh)",
+        "version":""
+    },
+    {
+        "packageName":"Matomo",
+        "description":"Powerful web analytics platform�",
+        "version":""
+    }
+    ,
+    {
+        "packageName":"Composer",
+        "description":"A Dependency Manager for PHP",
+        "version":""
+    },
+    {
+        "packageName":"Gradle",
+        "description":"Gradle is a build automation tool for multi-language software development",
+        "version":""
+    },
+    {
+        "packageName":"JRuby",
+        "description":"The Ruby Programming Language\non the JVM",
+        "version":""
+    },
+    {
+        "packageName":"Redmine",
+        "description":"Redmine is a flexible project management web application written using Ruby on Rails framework.",
+        "version":""
+    },
+    {
+        "packageName":"Caddy",
+        "description":"Web server with automatic HTTPS written in Go",
+        "version":""
+    },
+    {
+        "packageName":"GCC",
+        "description":"The GNU Compiler Collection is an optimizing compiler produced by the GNU Project supporting various programming languages, hardware architectures and operating systems",
+        "version":""
+    },
+    {
+        "packageName":"Perl",
+        "description":"Highly capable, feature-rich programming language with over 30 years of development.",
+        "version":""
+    }
+    ]
+    
