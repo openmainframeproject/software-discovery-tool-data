@@ -31,7 +31,7 @@
     },
     {
         "packageName":"Bison",
-        "description":"RocketSoftware hosted Bison is a programming utility for creating parsers. It�s commonly used in both build automation and build automation generation, and converts annotated context-free grammar into a C, C++, or Java parser. Bison is used by PHP, Bash, Ruby, and many other tools",
+        "description":"RocketSoftware hosted Bison is a programming utility for creating parsers. It's commonly used in both build automation and build automation generation, and converts annotated context-free grammar into a C, C++, or Java parser. Bison is used by PHP, Bash, Ruby, and many other tools",
         "version":""
     }
     ,
@@ -67,7 +67,7 @@
     },
     {
         "packageName":"Galasa",
-        "description":"Galasa is an integration test framework�https://github.com/galasa-dev",
+        "description":"Galasa is an integration test framework https://github.com/galasa-dev",
         "version":""
     }
     ,
@@ -98,7 +98,7 @@
     },
     {
         "packageName":"Java",
-        "description":"Popular object-oriented�programming�language https://developer.ibm.com/javasdk/support/zos/",
+        "description":"Popular object-oriented programming language https://developer.ibm.com/javasdk/support/zos/",
         "version":""
     }
     ,
@@ -169,7 +169,7 @@
     },
     {
         "packageName":"R",
-        "description":"R is a functional language for primarily for data analytics� https://www.rocketsoftware.com/product-categories/mainframe/r-for-zos",
+        "description":"R is a functional language for primarily for data analytics https://www.rocketsoftware.com/product-categories/mainframe/r-for-zos",
         "version":""
     }
     ,
@@ -185,7 +185,7 @@
     },
     {
         "packageName":"Unzip",
-        "description":"RocketSoftware hosted UnZip is an extraction utility for archives compressed in .zip format. Unzip is also compatible with PKZIP and PKUNZIP utilities for MS-DOS as well as Info-ZIP�s and supports bzip2 compression methods as well.",
+        "description":"RocketSoftware hosted UnZip is an extraction utility for archives compressed in .zip format. Unzip is also compatible with PKZIP and PKUNZIP utilities for MS-DOS as well as Info-ZIP's and supports bzip2 compression methods as well.",
         "version":""
     }
     ,
