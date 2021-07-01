@@ -185,7 +185,7 @@
     },
     {
         "packageName":"Unzip",
-        "description":"RocketSoftware hosted UnZip is an extraction utility for archives compressed in .zip format. Unzip is also compatible with PKZIP and PKUNZIP utilities for MS-DOS as well as Info-ZIP's and supports bzip2 compression methods as well.",
+        "description":"RocketSoftware hosted UnZip is an extraction utility for archives compressed in .zip format. Unzip is also compatible with PKZIP and PKUNZIP utilities for MS-DOS as well as Info-ZIPs and supports bzip2 compression methods as well.",
         "version":""
     }
     ,
@@ -235,4 +235,3 @@
         "version":""
     }
     ]
-    
