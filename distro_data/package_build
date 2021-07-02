@@ -5,6 +5,11 @@ import sys
 
 DATA = ""
 
+def purify(dirty):
+	dirty_encode = dirty.encode("ascii", "ignore")
+	clean = dirty_encode.decode()
+	return clean
+
 def debian():
 	global DATA
 	file_name = 'Debian_Buster_List.json'
@@ -27,6 +32,8 @@ def debian():
 		ref_data = re.sub(r"((\)<\/dt>)*\n*%%)", '",\n', ref_data)
 		ref_data = re.sub(r"(<dd[^>]*>)", '\t"description": "', ref_data)
 		ref_data = re.sub(r"(<\/dd>)",'"\n},',ref_data)
+#		To remove undecodable ascii chars
+		ref_data = purify(ref_data)
 		DATA = open(file_name, 'w')
 		DATA.write('['+ref_data+'{}\n]')
 		DATA.close()
@@ -42,6 +49,7 @@ def pds(q):
 	except Exception as e:
 		print("Couldn't pull. Error: ",str(e))
 	else:
+		data = purify(data)
 		DATA = open(f'{q}', 'w')
 		DATA.write(data)
 		DATA.close()
