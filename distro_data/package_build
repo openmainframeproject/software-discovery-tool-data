@@ -7,6 +7,7 @@ DATA = ""
 
 def debian():
 	global DATA
+	file_name = 'Debian_Buster_List.json'
 	try:
 		req = requests.get(f"https://packages.debian.org/stable/allpackages")
 		data = req.text
@@ -20,14 +21,16 @@ def debian():
 		sp_reg = r' \[<.*\]'
 		if re.search(sp_reg, ref_data):
 			ref_data = re.sub(sp_reg, '', ref_data)
-		ref_data = re.sub(r"(<dt>.*'>)", '{\n\t"packageName": "', ref_data)
-		ref_data = re.sub(r"(<\/a> \()", '",\n\t"version": "', ref_data)
-		ref_data = re.sub(r"(\)<\/dt>)", '",', ref_data)
+		ref_data = re.sub(r"(<dt><a[^>]*'>)", '{\n\t"packageName": "', ref_data)
+		ref_data = re.sub(r"(<\/a>(( \()|(</dt>))+)", '",\n\t"version": "', ref_data)
+		ref_data = re.sub(r"\n*(<dd[^>]*>)", "%%<dd>", ref_data)
+		ref_data = re.sub(r"((\)<\/dt>)*\n*%%)", '",\n', ref_data)
 		ref_data = re.sub(r"(<dd[^>]*>)", '\t"description": "', ref_data)
-		ref_data = re.sub(r"<\/dd>",'"\n},',ref_data)
-		DATA = open('Debian_Buster_List.json', 'w')
+		ref_data = re.sub(r"(<\/dd>)",'"\n},',ref_data)
+		DATA = open(file_name, 'w')
 		DATA.write('['+ref_data+'{}\n]')
 		DATA.close()
+		print(f"Saved!\nfilename: {file_name}")
 
 def pds(q):
 	global DATA
@@ -42,6 +45,7 @@ def pds(q):
 		DATA = open(f'{q}', 'w')
 		DATA.write(data)
 		DATA.close()
+		print(f"Saved!\nfilename: {q}")
 
 if __name__ == "__main__":
 	try:	
