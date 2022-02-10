@@ -1,0 +1,1052 @@
+[
+  {
+    "packageName": "alpine",
+    "version": "3.10",
+    "description": "Alpine Linux is a Linux distribution."
+  },
+  {
+    "packageName": "alpine",
+    "version": "3.11",
+    "description": "Alpine Linux is a Linux distribution."
+  },
+  {
+    "packageName": "alpine",
+    "version": "3.12",
+    "description": "Alpine Linux is a Linux distribution."
+  },
+  {
+    "packageName": "alpine",
+    "version": "3.13",
+    "description": "Alpine Linux is a Linux distribution."
+  },
+  {
+    "packageName": "alpine",
+    "version": "3.6",
+    "description": "Alpine Linux is a Linux distribution."
+  },
+  {
+    "packageName": "alpine",
+    "version": "3.7",
+    "description": "Alpine Linux is a Linux distribution."
+  },
+  {
+    "packageName": "alpine",
+    "version": "3.8",
+    "description": "Alpine Linux is a Linux distribution."
+  },
+  {
+    "packageName": "alpine",
+    "version": "3.9",
+    "description": "Alpine Linux is a Linux distribution."
+  },
+  {
+    "packageName": "bash",
+    "version": "5.1.8",
+    "description": "Bash is a Unix shell and command language written by Brian Fox for the GNU Project as a free software replacement for the Bourne shell."
+  },
+  {
+    "packageName": "buildpack-deps",
+    "version": "bionic",
+    "description": "Debian variant consisting of packages needed by various things like Ruby Gems, PyPI modules, etc."
+  },
+  {
+    "packageName": "buildpack-deps",
+    "version": "bionic-scm",
+    "description": "Debian variant consisting of packages needed by various things like Ruby Gems, PyPI modules, etc."
+  },
+  {
+    "packageName": "buildpack-deps",
+    "version": "bullseye",
+    "description": "Debian variant consisting of packages needed by various things like Ruby Gems, PyPI modules, etc."
+  },
+  {
+    "packageName": "buildpack-deps",
+    "version": "bullseye-scm",
+    "description": "Debian variant consisting of packages needed by various things like Ruby Gems, PyPI modules, etc."
+  },
+  {
+    "packageName": "buildpack-deps",
+    "version": "buster",
+    "description": "Debian variant consisting of packages needed by various things like Ruby Gems, PyPI modules, etc."
+  },
+  {
+    "packageName": "buildpack-deps",
+    "version": "buster-scm",
+    "description": "Debian variant consisting of packages needed by various things like Ruby Gems, PyPI modules, etc."
+  },
+  {
+    "packageName": "buildpack-deps",
+    "version": "focal",
+    "description": "Debian variant consisting of packages needed by various things like Ruby Gems, PyPI modules, etc."
+  },
+  {
+    "packageName": "buildpack-deps",
+    "version": "focal-scm",
+    "description": "Debian variant consisting of packages needed by various things like Ruby Gems, PyPI modules, etc."
+  },
+  {
+    "packageName": "busybox",
+    "version": "1.33.1",
+    "description": "BusyBox combines tiny versions of many common UNIX utilities into a single small executable."
+  },
+  {
+    "packageName": "cadvisor",
+    "version": "0.37.5",
+    "description": "cAdvisor (Container Advisor) provides container users an understanding of the resource usage and performance characteristics of their running containers."
+  },
+  {
+    "packageName": "cadvisor",
+    "version": "0.42.0",
+    "description": "cAdvisor (Container Advisor) provides container users an understanding of the resource usage and performance characteristics of their running containers."
+  },
+  {
+    "packageName": "clair",
+    "version": "2.0",
+    "description": "Clair is an open source project for the static analysis of vulnerabilities in application containers (currently including appc and docker)."
+  },
+  {
+    "packageName": "clair",
+    "version": "4.3.0",
+    "description": "Clair is an open source project for the static analysis of vulnerabilities in application containers (currently including appc and docker)."
+  },
+  {
+    "packageName": "clair-scanner",
+    "version": "13.0",
+    "description": "Vulnerability scanner tool designed to work alongside Clair."
+  },
+  {
+    "packageName": "clefos",
+    "version": "7",
+    "description": "ClefOS is a distribution specifically for Linux on z Systems (s390x aka \"the mainframe\")."
+  },
+  {
+    "packageName": "compose",
+    "version": "2.0.1",
+    "description": "Compose is a tool for defining and running multi-container Docker applications."
+  },
+  {
+    "packageName": "couchdb",
+    "version": "3.1.1",
+    "description": "Apache CouchDB is an open-source document-oriented NoSQL database, implemented in Erlang."
+  },
+  {
+    "packageName": "debian",
+    "version": "bullseye",
+    "description": "Debian is an operating system which is composed primarily of free and open-source software, most of which is under the GNU General Public License, and developed by a group of individuals known as the Debian project."
+  },
+  {
+    "packageName": "debian",
+    "version": "bullseye-slim",
+    "description": "Debian is an operating system which is composed primarily of free and open-source software, most of which is under the GNU General Public License, and developed by a group of individuals known as the Debian project."
+  },
+  {
+    "packageName": "debian",
+    "version": "buster",
+    "description": "Debian is an operating system which is composed primarily of free and open-source software, most of which is under the GNU General Public License, and developed by a group of individuals known as the Debian project."
+  },
+  {
+    "packageName": "debian",
+    "version": "buster-slim",
+    "description": "Debian is an operating system which is composed primarily of free and open-source software, most of which is under the GNU General Public License, and developed by a group of individuals known as the Debian project."
+  },
+  {
+    "packageName": "debian",
+    "version": "sid",
+    "description": "Debian is an operating system which is composed primarily of free and open-source software, most of which is under the GNU General Public License, and developed by a group of individuals known as the Debian project."
+  },
+  {
+    "packageName": "debian",
+    "version": "sid-slim",
+    "description": "Debian is an operating system which is composed primarily of free and open-source software, most of which is under the GNU General Public License, and developed by a group of individuals known as the Debian project."
+  },
+  {
+    "packageName": "debian",
+    "version": "stable",
+    "description": "Debian is an operating system which is composed primarily of free and open-source software, most of which is under the GNU General Public License, and developed by a group of individuals known as the Debian project."
+  },
+  {
+    "packageName": "debian",
+    "version": "stable-slim",
+    "description": "Debian is an operating system which is composed primarily of free and open-source software, most of which is under the GNU General Public License, and developed by a group of individuals known as the Debian project."
+  },
+  {
+    "packageName": "development-workspace",
+    "version": "1.0",
+    "description": "Development-Workspace is an ubuntu based development tool that is intended to consolidate a number of commonly used compilers and build tools along with other development utilities to faciliate the creation of Docker images in zCX."
+  },
+  {
+    "packageName": "docker",
+    "version": "18.06.3",
+    "description": "Although running Docker inside Docker is generally not recommended, there are some legitimate use cases, such as development of Docker itself."
+  },
+  {
+    "packageName": "drupal",
+    "version": "9.0",
+    "description": "Drupal is a free and open-source content-management framework written in PHP and distributed under the GNU General Public License."
+  },
+  {
+    "packageName": "erlang",
+    "version": "24.1.2.0",
+    "description": "Erlang is a programming language used to build massively scalable soft real-time systems with requirements on high availability."
+  },
+  {
+    "packageName": "express-gateway",
+    "version": "1.16.11",
+    "description": "Express Gateway is a microservices API gateway that sits at the heart of any microservices or serverless architecture, regardless of what language or platform you're using."
+  },
+  {
+    "packageName": "fedora",
+    "version": "32",
+    "description": "This image serves as the `official Fedora image` for the Fedora Distribution."
+  },
+  {
+    "packageName": "fedora",
+    "version": "34",
+    "description": "This image serves as the `official Fedora image` for the Fedora Distribution."
+  },
+  {
+    "packageName": "fluentd",
+    "version": "v1.14.0-1.0",
+    "description": "Fluentd is an open source data collector, which lets you unify the data collection and consumption for a better use and understanding of data."
+  },
+  {
+    "packageName": "gcc",
+    "version": "11.2.0",
+    "description": "The GNU Compiler Collection (GCC) is a compiler system produced by the GNU Project that supports various programming languages."
+  },
+  {
+    "packageName": "git",
+    "version": "2.32.0",
+    "description": "A useful simple git container running in alpine Linux."
+  },
+  {
+    "packageName": "gitea",
+    "version": "1.15.5",
+    "description": "The goal of this project is to make the easiest, fastest, and most painless way of setting up a self-hosted Git service."
+  },
+  {
+    "packageName": "golang",
+    "version": "1.17-alpine3.13",
+    "description": "Golang is a programming language first developed at Google."
+  },
+  {
+    "packageName": "golang",
+    "version": "1.17.1-bullseye",
+    "description": "Golang is a programming language first developed at Google."
+  },
+  {
+    "packageName": "golang",
+    "version": "1.17.2-bullseye",
+    "description": "Golang is a programming language first developed at Google."
+  },
+  {
+    "packageName": "gradle",
+    "version": "6.7",
+    "description": "Gradle is a build tool with a focus on build automation and support for multi-language development."
+  },
+  {
+    "packageName": "haproxy",
+    "version": "2.5.1",
+    "description": "HAProxy is a free, open source high availability solution, providing load balancing and proxying for TCP and HTTP-based applications by spreading requests across multiple servers."
+  },
+  {
+    "packageName": "httpd",
+    "version": "2.4.46",
+    "description": "The Apache HTTP Server, colloquially called Apache, is a Web server application notable for playing a key role in the initial growth of the World Wide Web."
+  },
+  {
+    "packageName": "httpd",
+    "version": "2.4.52",
+    "description": "The Apache HTTP Server, colloquially called Apache, is a Web server application notable for playing a key role in the initial growth of the World Wide Web."
+  },
+  {
+    "packageName": "jenkins",
+    "version": "2.235.1",
+    "description": "Jenkins is an open source build automation tool."
+  },
+  {
+    "packageName": "jenkins-agent",
+    "version": "4.11-1",
+    "description": "This is the worker agent for jenkins, which includes a JDK and the Jenkins agent executable (agent."
+  },
+  {
+    "packageName": "jetty",
+    "version": "11.0-jdk11",
+    "description": "Jetty is a pure Java-based HTTP (Web) server and Java Servlet container."
+  },
+  {
+    "packageName": "jetty",
+    "version": "9.4.44",
+    "description": "Jetty is a pure Java-based HTTP (Web) server and Java Servlet container."
+  },
+  {
+    "packageName": "jfrog-artifactory-oss",
+    "version": "6.23.3",
+    "description": "JFrog Artifactory OSS is an open source variant of JFrog Artifactory."
+  },
+  {
+    "packageName": "jfrog-artifactory-oss",
+    "version": "7",
+    "description": "JFrog Artifactory OSS is an open source variant of JFrog Artifactory."
+  },
+  {
+    "packageName": "jupyter-notebook",
+    "version": "6.4.5",
+    "description": "Jupyter notebook is a language-agnostic HTML notebook application for Project Jupyter."
+  },
+  {
+    "packageName": "kafka",
+    "version": "3.0.0",
+    "description": "Apache Kafka is a distributed streaming platform that lets one endpoint in a workload."
+  },
+  {
+    "packageName": "kibana",
+    "version": "7.10",
+    "description": "Kibana is an open source analytics and visualization platform designed to work with Elasticsearch."
+  },
+  {
+    "packageName": "maven",
+    "version": "3.8.3-openjdk-17",
+    "description": "Maven is a software project management and comprehension tool."
+  },
+  {
+    "packageName": "memcached",
+    "version": "1.6.10",
+    "description": "Memcached is a high performance multithreaded event-based key/value cache store intended to be used in a distributed system."
+  },
+  {
+    "packageName": "memcached",
+    "version": "1.6.8",
+    "description": "Memcached is a high performance multithreaded event-based key/value cache store intended to be used in a distributed system."
+  },
+  {
+    "packageName": "mongo",
+    "version": "4.4.1",
+    "description": "MongoDB is a free and open-source cross-platform document-oriented database program."
+  },
+  {
+    "packageName": "mule",
+    "version": "3.9.1",
+    "description": "Mule is a lightweight integration platform that allows you to connect anything anywhere."
+  },
+  {
+    "packageName": "nginx",
+    "version": "1.21.3",
+    "description": "Nginx is an open source reverse proxy server for HTTP, HTTPS, SMTP, POP3, and IMAP protocols, as well as a load balancer, HTTP cache, and a web server (origin server)."
+  },
+  {
+    "packageName": "nginx-flask",
+    "version": "1.4.0",
+    "description": "This Docker image allows you to create Flask web applications in Python that run with uWSGI and Nginx in a single container."
+  },
+  {
+    "packageName": "node",
+    "version": "16",
+    "description": "NodeJS is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications."
+  },
+  {
+    "packageName": "node_exporter",
+    "version": "1.2.2",
+    "description": "The Prometheus Node Exporter exposes a wide variety of hardware- and kernel-related metrics."
+  },
+  {
+    "packageName": "openldap",
+    "version": "2.4.44",
+    "description": "OpenLDAP Software is an open source implementation of the Lightweight Directory Access Protocol."
+  },
+  {
+    "packageName": "openliberty",
+    "version": "full",
+    "description": "A lightweight open framework for building fast and efficient cloud-native Java microservices."
+  },
+  {
+    "packageName": "perl",
+    "version": "5.34.0",
+    "description": "Perl is a high-level, general-purpose, interpreted, dynamic programming language."
+  },
+  {
+    "packageName": "php",
+    "version": "7.4-cli",
+    "description": "PHP is a server-side scripting language designed for web development, but which can also be used as a general-purpose programming language."
+  },
+  {
+    "packageName": "php",
+    "version": "8.0.11-cli-bullseye",
+    "description": "PHP is a server-side scripting language designed for web development, but which can also be used as a general-purpose programming language."
+  },
+  {
+    "packageName": "portainer",
+    "version": "2.9.2",
+    "description": "Portainer is a lightweight management UI which allows you to easily manage your Docker host or Swarm cluster."
+  },
+  {
+    "packageName": "postgres",
+    "version": "10",
+    "description": "PostgreSQL, often simply \"Postgres\", is an object-relational database management system (ORDBMS) with an emphasis on extensibility and standards-compliance."
+  },
+  {
+    "packageName": "postgres",
+    "version": "11",
+    "description": "PostgreSQL, often simply \"Postgres\", is an object-relational database management system (ORDBMS) with an emphasis on extensibility and standards-compliance."
+  },
+  {
+    "packageName": "postgres",
+    "version": "12",
+    "description": "PostgreSQL, often simply \"Postgres\", is an object-relational database management system (ORDBMS) with an emphasis on extensibility and standards-compliance."
+  },
+  {
+    "packageName": "postgres",
+    "version": "13",
+    "description": "PostgreSQL, often simply \"Postgres\", is an object-relational database management system (ORDBMS) with an emphasis on extensibility and standards-compliance."
+  },
+  {
+    "packageName": "postgres",
+    "version": "14.0",
+    "description": "PostgreSQL, often simply \"Postgres\", is an object-relational database management system (ORDBMS) with an emphasis on extensibility and standards-compliance."
+  },
+  {
+    "packageName": "prometheus",
+    "version": "2.30.3",
+    "description": "Prometheus is an open-source systems monitoring and alerting toolkit originally built at SoundCloud."
+  },
+  {
+    "packageName": "python",
+    "version": "3.8",
+    "description": "Python is an interpreted, interactive, object-oriented, open-source programming language."
+  },
+  {
+    "packageName": "python",
+    "version": "3.9",
+    "description": "Python is an interpreted, interactive, object-oriented, open-source programming language."
+  },
+  {
+    "packageName": "python",
+    "version": "3.9.7-bullseye",
+    "description": "Python is an interpreted, interactive, object-oriented, open-source programming language."
+  },
+  {
+    "packageName": "pytorch",
+    "version": "1.10",
+    "description": "PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing, primarily developed by Facebook's AI Research lab."
+  },
+  {
+    "packageName": "quay",
+    "version": "3.5.2",
+    "description": "Project Quay builds, stores, and distributes your container images."
+  },
+  {
+    "packageName": "quay",
+    "version": "solo",
+    "description": "Project Quay builds, stores, and distributes your container images."
+  },
+  {
+    "packageName": "rabbitmq",
+    "version": "3.8.9",
+    "description": "RabbitMQ is open source message broker software (sometimes called message-oriented middleware) that implements the Advanced Message Queuing Protocol (AMQP)."
+  },
+  {
+    "packageName": "rabbitmq",
+    "version": "3.8.9-manage",
+    "description": "RabbitMQ is open source message broker software (sometimes called message-oriented middleware) that implements the Advanced Message Queuing Protocol (AMQP)."
+  },
+  {
+    "packageName": "redis",
+    "version": "6.2.5",
+    "description": "Redis is an open-source, networked, in-memory, key-value data store with optional durability."
+  },
+  {
+    "packageName": "registry",
+    "version": "2.7.0",
+    "description": "This image contains an implementation of the Docker Registry HTTP API V2 for use with Docker 1."
+  },
+  {
+    "packageName": "ruby",
+    "version": "2.6",
+    "description": "Ruby is a dynamic, reflective, object-oriented, general-purpose, open-source programming language."
+  },
+  {
+    "packageName": "sonar-scanner-cli",
+    "version": "4.5.0.2216",
+    "description": "SonarScanner CLI is the command line tool used with SonarQube to perform static code analysis on source code."
+  },
+  {
+    "packageName": "sonar-scanner-cli",
+    "version": "4.6.2.2472",
+    "description": "SonarScanner CLI is the command line tool used with SonarQube to perform static code analysis on source code."
+  },
+  {
+    "packageName": "sonarqube",
+    "version": "8.5.1.38104",
+    "description": "SonarQube is an open source product for continuous inspection of code quality."
+  },
+  {
+    "packageName": "sonarqube",
+    "version": "9.2.4-community",
+    "description": "SonarQube is an open source product for continuous inspection of code quality."
+  },
+  {
+    "packageName": "tensorflow",
+    "version": "2.5.0",
+    "description": "TensorFlow is an end-to-end open source platform for machine learning/deep learning (ML/DL)."
+  },
+  {
+    "packageName": "tensorflow-serving",
+    "version": "2.4.0",
+    "description": "TensorFlow Serving is a flexible, high-performance serving system for machine learning models, designed for production environments."
+  },
+  {
+    "packageName": "tomcat",
+    "version": "10.0.12-jdk11-openjdk-bullseye",
+    "description": "Apache Tomcat (or simply Tomcat) is an open source web server and servlet container developed by the Apache Software Foundation (ASF)."
+  },
+  {
+    "packageName": "ubuntu",
+    "version": "18.04",
+    "description": "Ubuntu is a Debian-based Linux operating system that runs from the desktop to the cloud, to all your internet connected things."
+  },
+  {
+    "packageName": "ubuntu",
+    "version": "20.04",
+    "description": "Ubuntu is a Debian-based Linux operating system that runs from the desktop to the cloud, to all your internet connected things."
+  },
+  {
+    "packageName": "ubuntu",
+    "version": "21.04",
+    "description": "Ubuntu is a Debian-based Linux operating system that runs from the desktop to the cloud, to all your internet connected things."
+  },
+  {
+    "packageName": "wildfly",
+    "version": "26.0.0.Final",
+    "description": "This is a Docker image with the WildFly Application Server."
+  },
+  {
+    "packageName": "zookeeper",
+    "version": "3.7.0",
+    "description": "Apache ZooKeeper is a software project of the Apache Software Foundation, providing an open source distributed configuration service, synchronization service, and naming registry for large distributed systems."
+  },
+  {
+    "packageName": "alpine",
+    "version": "3.10",
+    "description": "Alpine Linux is a Linux distribution."
+  },
+  {
+    "packageName": "alpine",
+    "version": "3.11",
+    "description": "Alpine Linux is a Linux distribution."
+  },
+  {
+    "packageName": "alpine",
+    "version": "3.12",
+    "description": "Alpine Linux is a Linux distribution."
+  },
+  {
+    "packageName": "alpine",
+    "version": "3.13",
+    "description": "Alpine Linux is a Linux distribution."
+  },
+  {
+    "packageName": "alpine",
+    "version": "3.6",
+    "description": "Alpine Linux is a Linux distribution."
+  },
+  {
+    "packageName": "alpine",
+    "version": "3.7",
+    "description": "Alpine Linux is a Linux distribution."
+  },
+  {
+    "packageName": "alpine",
+    "version": "3.8",
+    "description": "Alpine Linux is a Linux distribution."
+  },
+  {
+    "packageName": "alpine",
+    "version": "3.9",
+    "description": "Alpine Linux is a Linux distribution."
+  },
+  {
+    "packageName": "bash",
+    "version": "5.1.8",
+    "description": "Bash is a Unix shell and command language written by Brian Fox for the GNU Project as a free software replacement for the Bourne shell."
+  },
+  {
+    "packageName": "buildpack-deps",
+    "version": "bionic",
+    "description": "Debian variant consisting of packages needed by various things like Ruby Gems, PyPI modules, etc."
+  },
+  {
+    "packageName": "buildpack-deps",
+    "version": "bionic-scm",
+    "description": "Debian variant consisting of packages needed by various things like Ruby Gems, PyPI modules, etc."
+  },
+  {
+    "packageName": "buildpack-deps",
+    "version": "bullseye",
+    "description": "Debian variant consisting of packages needed by various things like Ruby Gems, PyPI modules, etc."
+  },
+  {
+    "packageName": "buildpack-deps",
+    "version": "bullseye-scm",
+    "description": "Debian variant consisting of packages needed by various things like Ruby Gems, PyPI modules, etc."
+  },
+  {
+    "packageName": "buildpack-deps",
+    "version": "buster",
+    "description": "Debian variant consisting of packages needed by various things like Ruby Gems, PyPI modules, etc."
+  },
+  {
+    "packageName": "buildpack-deps",
+    "version": "buster-scm",
+    "description": "Debian variant consisting of packages needed by various things like Ruby Gems, PyPI modules, etc."
+  },
+  {
+    "packageName": "buildpack-deps",
+    "version": "focal",
+    "description": "Debian variant consisting of packages needed by various things like Ruby Gems, PyPI modules, etc."
+  },
+  {
+    "packageName": "buildpack-deps",
+    "version": "focal-scm",
+    "description": "Debian variant consisting of packages needed by various things like Ruby Gems, PyPI modules, etc."
+  },
+  {
+    "packageName": "busybox",
+    "version": "1.33.1",
+    "description": "BusyBox combines tiny versions of many common UNIX utilities into a single small executable."
+  },
+  {
+    "packageName": "cadvisor",
+    "version": "0.37.5",
+    "description": "cAdvisor (Container Advisor) provides container users an understanding of the resource usage and performance characteristics of their running containers."
+  },
+  {
+    "packageName": "cadvisor",
+    "version": "0.42.0",
+    "description": "cAdvisor (Container Advisor) provides container users an understanding of the resource usage and performance characteristics of their running containers."
+  },
+  {
+    "packageName": "clair",
+    "version": "2.0",
+    "description": "Clair is an open source project for the static analysis of vulnerabilities in application containers (currently including appc and docker)."
+  },
+  {
+    "packageName": "clair",
+    "version": "4.3.0",
+    "description": "Clair is an open source project for the static analysis of vulnerabilities in application containers (currently including appc and docker)."
+  },
+  {
+    "packageName": "clair-scanner",
+    "version": "13.0",
+    "description": "Vulnerability scanner tool designed to work alongside Clair."
+  },
+  {
+    "packageName": "clefos",
+    "version": "7",
+    "description": "ClefOS is a distribution specifically for Linux on z Systems (s390x aka \"the mainframe\")."
+  },
+  {
+    "packageName": "compose",
+    "version": "2.0.1",
+    "description": "Compose is a tool for defining and running multi-container Docker applications."
+  },
+  {
+    "packageName": "couchdb",
+    "version": "3.1.1",
+    "description": "Apache CouchDB is an open-source document-oriented NoSQL database, implemented in Erlang."
+  },
+  {
+    "packageName": "debian",
+    "version": "bullseye",
+    "description": "Debian is an operating system which is composed primarily of free and open-source software, most of which is under the GNU General Public License, and developed by a group of individuals known as the Debian project."
+  },
+  {
+    "packageName": "debian",
+    "version": "bullseye-slim",
+    "description": "Debian is an operating system which is composed primarily of free and open-source software, most of which is under the GNU General Public License, and developed by a group of individuals known as the Debian project."
+  },
+  {
+    "packageName": "debian",
+    "version": "buster",
+    "description": "Debian is an operating system which is composed primarily of free and open-source software, most of which is under the GNU General Public License, and developed by a group of individuals known as the Debian project."
+  },
+  {
+    "packageName": "debian",
+    "version": "buster-slim",
+    "description": "Debian is an operating system which is composed primarily of free and open-source software, most of which is under the GNU General Public License, and developed by a group of individuals known as the Debian project."
+  },
+  {
+    "packageName": "debian",
+    "version": "sid",
+    "description": "Debian is an operating system which is composed primarily of free and open-source software, most of which is under the GNU General Public License, and developed by a group of individuals known as the Debian project."
+  },
+  {
+    "packageName": "debian",
+    "version": "sid-slim",
+    "description": "Debian is an operating system which is composed primarily of free and open-source software, most of which is under the GNU General Public License, and developed by a group of individuals known as the Debian project."
+  },
+  {
+    "packageName": "debian",
+    "version": "stable",
+    "description": "Debian is an operating system which is composed primarily of free and open-source software, most of which is under the GNU General Public License, and developed by a group of individuals known as the Debian project."
+  },
+  {
+    "packageName": "debian",
+    "version": "stable-slim",
+    "description": "Debian is an operating system which is composed primarily of free and open-source software, most of which is under the GNU General Public License, and developed by a group of individuals known as the Debian project."
+  },
+  {
+    "packageName": "development-workspace",
+    "version": "1.0",
+    "description": "Development-Workspace is an ubuntu based development tool that is intended to consolidate a number of commonly used compilers and build tools along with other development utilities to faciliate the creation of Docker images in zCX."
+  },
+  {
+    "packageName": "docker",
+    "version": "18.06.3",
+    "description": "Although running Docker inside Docker is generally not recommended, there are some legitimate use cases, such as development of Docker itself."
+  },
+  {
+    "packageName": "drupal",
+    "version": "9.0",
+    "description": "Drupal is a free and open-source content-management framework written in PHP and distributed under the GNU General Public License."
+  },
+  {
+    "packageName": "erlang",
+    "version": "24.1.2.0",
+    "description": "Erlang is a programming language used to build massively scalable soft real-time systems with requirements on high availability."
+  },
+  {
+    "packageName": "express-gateway",
+    "version": "1.16.11",
+    "description": "Express Gateway is a microservices API gateway that sits at the heart of any microservices or serverless architecture, regardless of what language or platform you're using."
+  },
+  {
+    "packageName": "fedora",
+    "version": "32",
+    "description": "This image serves as the `official Fedora image` for the Fedora Distribution."
+  },
+  {
+    "packageName": "fedora",
+    "version": "34",
+    "description": "This image serves as the `official Fedora image` for the Fedora Distribution."
+  },
+  {
+    "packageName": "fluentd",
+    "version": "v1.14.0-1.0",
+    "description": "Fluentd is an open source data collector, which lets you unify the data collection and consumption for a better use and understanding of data."
+  },
+  {
+    "packageName": "gcc",
+    "version": "11.2.0",
+    "description": "The GNU Compiler Collection (GCC) is a compiler system produced by the GNU Project that supports various programming languages."
+  },
+  {
+    "packageName": "git",
+    "version": "2.32.0",
+    "description": "A useful simple git container running in alpine Linux."
+  },
+  {
+    "packageName": "gitea",
+    "version": "1.15.5",
+    "description": "The goal of this project is to make the easiest, fastest, and most painless way of setting up a self-hosted Git service."
+  },
+  {
+    "packageName": "golang",
+    "version": "1.17-alpine3.13",
+    "description": "Golang is a programming language first developed at Google."
+  },
+  {
+    "packageName": "golang",
+    "version": "1.17.1-bullseye",
+    "description": "Golang is a programming language first developed at Google."
+  },
+  {
+    "packageName": "golang",
+    "version": "1.17.2-bullseye",
+    "description": "Golang is a programming language first developed at Google."
+  },
+  {
+    "packageName": "gradle",
+    "version": "6.7",
+    "description": "Gradle is a build tool with a focus on build automation and support for multi-language development."
+  },
+  {
+    "packageName": "haproxy",
+    "version": "2.5.1",
+    "description": "HAProxy is a free, open source high availability solution, providing load balancing and proxying for TCP and HTTP-based applications by spreading requests across multiple servers."
+  },
+  {
+    "packageName": "httpd",
+    "version": "2.4.46",
+    "description": "The Apache HTTP Server, colloquially called Apache, is a Web server application notable for playing a key role in the initial growth of the World Wide Web."
+  },
+  {
+    "packageName": "httpd",
+    "version": "2.4.52",
+    "description": "The Apache HTTP Server, colloquially called Apache, is a Web server application notable for playing a key role in the initial growth of the World Wide Web."
+  },
+  {
+    "packageName": "jenkins",
+    "version": "2.235.1",
+    "description": "Jenkins is an open source build automation tool."
+  },
+  {
+    "packageName": "jenkins-agent",
+    "version": "4.11-1",
+    "description": "This is the worker agent for jenkins, which includes a JDK and the Jenkins agent executable."
+  },
+  {
+    "packageName": "jetty",
+    "version": "11.0-jdk11",
+    "description": "Jetty is a pure Java-based HTTP (Web) server and Java Servlet container."
+  },
+  {
+    "packageName": "jetty",
+    "version": "9.4.44",
+    "description": "Jetty is a pure Java-based HTTP (Web) server and Java Servlet container."
+  },
+  {
+    "packageName": "jfrog-artifactory-oss",
+    "version": "6.23.3",
+    "description": "JFrog Artifactory OSS is an open source variant of JFrog Artifactory."
+  },
+  {
+    "packageName": "jfrog-artifactory-oss",
+    "version": "7",
+    "description": "JFrog Artifactory OSS is an open source variant of JFrog Artifactory."
+  },
+  {
+    "packageName": "jupyter-notebook",
+    "version": "6.4.5",
+    "description": "Jupyter notebook is a language-agnostic HTML notebook application for Project Jupyter."
+  },
+  {
+    "packageName": "kafka",
+    "version": "3.0.0",
+    "description": "Apache Kafka is a distributed streaming platform that lets one endpoint in a workload."
+  },
+  {
+    "packageName": "kibana",
+    "version": "7.10",
+    "description": "Kibana is an open source analytics and visualization platform designed to work with Elasticsearch."
+  },
+  {
+    "packageName": "maven",
+    "version": "3.8.3-openjdk-17",
+    "description": "Maven is a software project management and comprehension tool."
+  },
+  {
+    "packageName": "memcached",
+    "version": "1.6.10",
+    "description": "Memcached is a high performance multithreaded event-based key/value cache store intended to be used in a distributed system."
+  },
+  {
+    "packageName": "memcached",
+    "version": "1.6.8",
+    "description": "Memcached is a high performance multithreaded event-based key/value cache store intended to be used in a distributed system."
+  },
+  {
+    "packageName": "mongo",
+    "version": "4.4.1",
+    "description": "MongoDB is a free and open-source cross-platform document-oriented database program."
+  },
+  {
+    "packageName": "mule",
+    "version": "3.9.1",
+    "description": "Mule is a lightweight integration platform that allows you to connect anything anywhere."
+  },
+  {
+    "packageName": "nginx",
+    "version": "1.21.3",
+    "description": "Nginx is an open source reverse proxy server for HTTP, HTTPS, SMTP, POP3, and IMAP protocols, as well as a load balancer, HTTP cache, and a web server (origin server)."
+  },
+  {
+    "packageName": "nginx-flask",
+    "version": "1.4.0",
+    "description": "This Docker image allows you to create Flask web applications in Python that run with uWSGI and Nginx in a single container."
+  },
+  {
+    "packageName": "node",
+    "version": "16",
+    "description": "NodeJS is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications."
+  },
+  {
+    "packageName": "node_exporter",
+    "version": "1.2.2",
+    "description": "The Prometheus Node Exporter exposes a wide variety of hardware- and kernel-related metrics."
+  },
+  {
+    "packageName": "openldap",
+    "version": "2.4.44",
+    "description": "OpenLDAP Software is an open source implementation of the Lightweight Directory Access Protocol."
+  },
+  {
+    "packageName": "openliberty",
+    "version": "full",
+    "description": "A lightweight open framework for building fast and efficient cloud-native Java microservices."
+  },
+  {
+    "packageName": "perl",
+    "version": "5.34.0",
+    "description": "Perl is a high-level, general-purpose, interpreted, dynamic programming language."
+  },
+  {
+    "packageName": "php",
+    "version": "7.4-cli",
+    "description": "PHP is a server-side scripting language designed for web development, but which can also be used as a general-purpose programming language."
+  },
+  {
+    "packageName": "php",
+    "version": "8.0.11-cli-bullseye",
+    "description": "PHP is a server-side scripting language designed for web development, but which can also be used as a general-purpose programming language."
+  },
+  {
+    "packageName": "portainer",
+    "version": "2.9.2",
+    "description": "Portainer is a lightweight management UI which allows you to easily manage your Docker host or Swarm cluster."
+  },
+  {
+    "packageName": "postgres",
+    "version": "10",
+    "description": "PostgreSQL, often simply \"Postgres\", is an object-relational database management system (ORDBMS) with an emphasis on extensibility and standards-compliance."
+  },
+  {
+    "packageName": "postgres",
+    "version": "11",
+    "description": "PostgreSQL, often simply \"Postgres\", is an object-relational database management system (ORDBMS) with an emphasis on extensibility and standards-compliance."
+  },
+  {
+    "packageName": "postgres",
+    "version": "12",
+    "description": "PostgreSQL, often simply \"Postgres\", is an object-relational database management system (ORDBMS) with an emphasis on extensibility and standards-compliance."
+  },
+  {
+    "packageName": "postgres",
+    "version": "13",
+    "description": "PostgreSQL, often simply \"Postgres\", is an object-relational database management system (ORDBMS) with an emphasis on extensibility and standards-compliance."
+  },
+  {
+    "packageName": "postgres",
+    "version": "14.0",
+    "description": "PostgreSQL, often simply \"Postgres\", is an object-relational database management system (ORDBMS) with an emphasis on extensibility and standards-compliance."
+  },
+  {
+    "packageName": "prometheus",
+    "version": "2.30.3",
+    "description": "Prometheus is an open-source systems monitoring and alerting toolkit originally built at SoundCloud."
+  },
+  {
+    "packageName": "python",
+    "version": "3.8",
+    "description": "Python is an interpreted, interactive, object-oriented, open-source programming language."
+  },
+  {
+    "packageName": "python",
+    "version": "3.9",
+    "description": "Python is an interpreted, interactive, object-oriented, open-source programming language."
+  },
+  {
+    "packageName": "python",
+    "version": "3.9.7-bullseye",
+    "description": "Python is an interpreted, interactive, object-oriented, open-source programming language."
+  },
+  {
+    "packageName": "pytorch",
+    "version": "1.10",
+    "description": "PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing, primarily developed by Facebook's AI Research lab."
+  },
+  {
+    "packageName": "quay",
+    "version": "3.5.2",
+    "description": "Project Quay builds, stores, and distributes your container images."
+  },
+  {
+    "packageName": "quay",
+    "version": "solo",
+    "description": "Project Quay builds, stores, and distributes your container images."
+  },
+  {
+    "packageName": "rabbitmq",
+    "version": "3.8.9",
+    "description": "RabbitMQ is open source message broker software (sometimes called message-oriented middleware) that implements the Advanced Message Queuing Protocol (AMQP)."
+  },
+  {
+    "packageName": "rabbitmq",
+    "version": "3.8.9-manage",
+    "description": "RabbitMQ is open source message broker software (sometimes called message-oriented middleware) that implements the Advanced Message Queuing Protocol (AMQP)."
+  },
+  {
+    "packageName": "redis",
+    "version": "6.2.5",
+    "description": "Redis is an open-source, networked, in-memory, key-value data store with optional durability."
+  },
+  {
+    "packageName": "registry",
+    "version": "2.7.0",
+    "description": "This image contains an implementation of the Docker Registry HTTP API V2 for use with Docker."
+  },
+  {
+    "packageName": "ruby",
+    "version": "2.6",
+    "description": "Ruby is a dynamic, reflective, object-oriented, general-purpose, open-source programming language."
+  },
+  {
+    "packageName": "sonar-scanner-cli",
+    "version": "4.5.0.2216",
+    "description": "SonarScanner CLI is the command line tool used with SonarQube to perform static code analysis on source code."
+  },
+  {
+    "packageName": "sonar-scanner-cli",
+    "version": "4.6.2.2472",
+    "description": "SonarScanner CLI is the command line tool used with SonarQube to perform static code analysis on source code."
+  },
+  {
+    "packageName": "sonarqube",
+    "version": "8.5.1.38104",
+    "description": "SonarQube is an open source product for continuous inspection of code quality."
+  },
+  {
+    "packageName": "sonarqube",
+    "version": "9.2.4-community",
+    "description": "SonarQube is an open source product for continuous inspection of code quality."
+  },
+  {
+    "packageName": "tensorflow",
+    "version": "2.5.0",
+    "description": "TensorFlow is an end-to-end open source platform for machine learning/deep learning (ML/DL)."
+  },
+  {
+    "packageName": "tensorflow-serving",
+    "version": "2.4.0",
+    "description": "TensorFlow Serving is a flexible, high-performance serving system for machine learning models, designed for production environments."
+  },
+  {
+    "packageName": "tomcat",
+    "version": "10.0.12-jdk11-openjdk-bullseye",
+    "description": "Apache Tomcat (or simply Tomcat) is an open source web server and servlet container developed by the Apache Software Foundation (ASF)."
+  },
+  {
+    "packageName": "ubuntu",
+    "version": "18.04",
+    "description": "Ubuntu is a Debian-based Linux operating system that runs from the desktop to the cloud, to all your internet connected things."
+  },
+  {
+    "packageName": "ubuntu",
+    "version": "20.04",
+    "description": "Ubuntu is a Debian-based Linux operating system that runs from the desktop to the cloud, to all your internet connected things."
+  },
+  {
+    "packageName": "ubuntu",
+    "version": "21.04",
+    "description": "Ubuntu is a Debian-based Linux operating system that runs from the desktop to the cloud, to all your internet connected things."
+  },
+  {
+    "packageName": "wildfly",
+    "version": "26.0.0.Final",
+    "description": "This is a Docker image with the WildFly Application Server."
+  },
+  {
+    "packageName": "zookeeper",
+    "version": "3.7.0",
+    "description": "Apache ZooKeeper is a software project of the Apache Software Foundation, providing an open source distributed configuration service, synchronization service, and naming registry for large distributed systems."
+  }
+]
