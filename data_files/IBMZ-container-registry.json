@@ -352,6 +352,17 @@
   {
     "packageName": "jupyter-notebook",
     "version": "6.4.8",
+    "version": "6.23.3",
+    "description": "JFrog Artifactory OSS is an open source variant of JFrog Artifactory."
+  },
+  {
+    "packageName": "jfrog-artifactory-oss",
+    "version": "7",
+    "description": "JFrog Artifactory OSS is an open source variant of JFrog Artifactory."
+  },
+  {
+    "packageName": "jupyter-notebook",
+    "version": "6.4.5",
     "description": "Jupyter notebook is a language-agnostic HTML notebook application for Project Jupyter."
   },
   {
@@ -575,6 +586,7 @@
     "description": "Redis is an open-source, networked, in-memory, key-value data store with optional durability."
   },
   {
+
     "packageName": "redis",
     "version": "6.2.6",
     "description": "Redis is an open-source, networked, in-memory, key-value data store with optional durability."
@@ -670,3 +682,4 @@
     "description": "Apache ZooKeeper is a software project of the Apache Software Foundation, providing an open source distributed configuration service, synchronization service, and naming registry for large distributed systems."
   }
 ]
+
