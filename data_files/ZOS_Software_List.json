@@ -20,6 +20,16 @@
         "version":""
     },
     {
+        "packageName":"autoconf",
+        "description":"Autoconf is an extensible package of M4 macros that produce shell scripts to automatically configure software source code packages. https://github.com/ZOSOpenTools/autoconfport",
+        "version":""
+    },
+    {
+        "packageName":"automake",
+        "description":"GNU Automake is a tool for automatically generating Makefile.in files compliant with the GNU Coding Standards. https://github.com/ZOSOpenTools/automakeport",
+        "version":""
+    },
+    {
         "packageName":"Bash",
         "description":"RocketSoftware hosted Bash is an sh-compatible shell providing users a command-line interpreter that provides a traditional interface via text window and a script execution capability. It is the default shell on Linux and Mac OS X.",
         "version":""
@@ -51,8 +61,18 @@
         "version":""
     },
     {
+        "packageName":"cmake",
+        "description":"CMake is an open-source, cross-platform family of tools designed to build, test and package software. https://github.com/ZOSOpenTools/cmakeport",
+        "version":""
+    },
+    {
         "packageName":"Conda",
         "description":"Package, dependency and environment management https://anaconda.org/IzODA/repo",
+        "version":""
+    },
+    {
+        "packageName":"coreutils",
+        "description":"The GNU Core Utilities are the basic file, shell and text manipulation utilities of the GNU operating system. These are the core utilities which are expected to exist on every operating system. https://github.com/ZOSOpenTools/coreutilsport",
         "version":""
     },
     {
@@ -63,6 +83,11 @@
     {
         "packageName":"Diffutils",
         "description":"RocketSoftware hosted Diffutils is a package of several programs intended to find differences between files. The diff command, for example, shows exact line differences between two files.",
+        "version":""
+    },
+    {
+        "packageName":"expat",
+        "description":"https://github.com/ZOSOpenTools/expatport",
         "version":""
     },
     {
@@ -82,6 +107,11 @@
         "version":""
     },
     {
+        "packageName":"gettext",
+        "description":"The GNU gettext utilities are a set of tools that provides a framework to help other GNU packages produce multi-lingual messages. https://github.com/ZOSOpenTools/gettextport",
+        "version":""
+    },
+    {
         "packageName":"Git",
         "description":"Git is a version control system (VCS) for tracking changes in computer files and coordinating work on those files among multiple people https://www.rocketsoftware.com/zos-open-source/tools",
         "version":""
@@ -97,14 +127,29 @@
         "version":""
     },
     {
+        "packageName":"help2man",
+        "description":"help2man is a tool for automatically generating simple manual pages from program output. https://github.com/ZOSOpenTools/help2manport",
+        "version":""
+    },
+    {
         "packageName":"Java",
         "description":"Popular object-oriented programming language https://developer.ibm.com/javasdk/support/zos/",
         "version":""
     }
     ,
     {
+        "packageName":"less",
+        "description":"https://github.com/ZOSOpenTools/lessport",
+        "version":""
+    },
+    {
         "packageName":"Libssh2",
         "description":"RocketSoftware hosted libssh2 is a software library that allows developers to use the SSH-2 network protocol in an easy-to-use self-contained package. This package only contains LIBSSH2 libraries intended for use by other programs or utilities",
+        "version":""
+    },
+    {
+        "packageName":"libtool",
+        "description":"GNU Libtool is a generic library support script that hides the complexity of using shared libraries behind a consistent, portable interface. https://github.com/ZOSOpenTools/libtoolport",
         "version":""
     },
     {
@@ -118,8 +163,23 @@
         "version":""
     },
     {
+        "packageName":"makeinfo",
+        "description":"makeinfo is a program that converts a Texinfo file into an Info file, HTML file, or plain text. https://github.com/ZOSOpenTools/makeinfoport",
+        "version":""
+    },
+    {
+        "packageName":"man-db",
+        "description":"man-db is an implementation of the standard Unix documentation system accessed using the man command. https://github.com/ZOSOpenTools/man-dbport",
+        "version":""
+    },
+    {
         "packageName":"Mktemp",
         "description":"RocketSoftware hosted the mktemp utility takes a given filename template and overwrites a portion of it to create a unique filename. Mktemp also manages the creation of temporary files and directories that allow the user to avoid the cleaning up files that are not needed permanently.",
+        "version":""
+    },
+    {
+        "packageName":"ncurses",
+        "description":"The Ncurses package provides character and terminal handling libraries, including panels and menus. https://github.com/ZOSOpenTools/ncursesport",
         "version":""
     },
     {
@@ -184,14 +244,39 @@
         "version":""
     },
     {
+        "packageName":"tar",
+        "description":"GNU Tar provides the ability to create tar archives, as well as various other kinds of manipulation. https://github.com/ZOSOpenTools/tarport",
+        "version":""
+    },
+    {
+        "packageName":"tcl",
+        "description":"Tcl, or Tool Command Language, is an open-source multi-purpose C library which includes a powerful dynamic scripting language. https://github.com/ZOSOpenTools/tclport",
+        "version":""
+    },
+    {
+        "packageName":"top",
+        "description":"top is a task manager program, found in many Unix-like operating systems, that displays information about CPU and memory utilization. https://github.com/ZOSOpenTools/topport",
+        "version":""
+    },
+    {
         "packageName":"Unzip",
         "description":"RocketSoftware hosted UnZip is an extraction utility for archives compressed in .zip format. Unzip is also compatible with PKZIP and PKUNZIP utilities for MS-DOS as well as Info-ZIPs and supports bzip2 compression methods as well.",
         "version":""
     }
     ,
     {
+        "packageName":"utils",
+        "description":"Utilities (common tools) repository used by other repos in ZOSOpenTools. https://github.com/ZOSOpenTools/utils",
+        "version":""
+    },
+    {
         "packageName":"Vim",
         "description":"RocketSoftware hosted Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient.",
+        "version":""
+    },
+    {
+        "packageName":"xz",
+        "description":"XZ Utils is free general-purpose data compression software with a high compression ratio. https://github.com/ZOSOpenTools/xzport",
         "version":""
     },
     {
@@ -222,6 +307,11 @@
     {
         "packageName":"zos-native",
         "description":"Ambitus hosted tools, examples, and how-to information for working in a z/OS USS environment. Geared toward Linux users who need to inow how to use z/OS",
+        "version":""
+    },
+    {
+        "packageName":"zotsample",
+        "description":"z/OS Open Tools Sample Port for education.This repository provides a concrete example of porting repository packaged in the ZOSOpenTools set of porting repositories. https://github.com/ZOSOpenTools/zotsampleport",
         "version":""
     },
     {
