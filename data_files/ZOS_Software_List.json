@@ -231,8 +231,12 @@
         "packageName":"R",
         "description":"R is a functional language for primarily for data analytics https://www.rocketsoftware.com/product-categories/mainframe/r-for-zos",
         "version":""
-    }
-    ,
+    },
+    {
+        "packageName":"SMF-Tools",
+        "description":"IBM SMF resources for the z/OS platform https://github.com/IBM/IBM-Z-zOS/tree/main/SMF-Tools",
+        "version":""
+    },
     {
         "packageName":"Sed",
         "description":"RocketSoftware hosted sed (stream editor) is a utility for parsing and transforming text. It is typically used for extracting part of a file using pattern matching, or substituting multiple occurrences of a string within a file.",
@@ -322,6 +326,86 @@
     {
         "packageName":"zTron",
         "description":"Ambitus hosted lightweight pipeline framework for creating Python workflows as standalone application and/or Jupyter notebooks",
+        "version":""
+    },
+    {
+        "packageName":"zOS-Archetypes",
+        "description":"A \"z/OS Archetype\" defines a fundamental role that is commonly associated with the z/OS computing platform. https://github.com/IBM/IBM-Z-zOS/tree/main/zOS-Archetypes",
+        "version":""
+    },
+    {
+        "packageName":"zOS Automation",
+        "description":"This directory is intended for tutorials, samples, and other useful information around IBM System Automation for z/OS and NetView for z/OS. https://github.com/IBM/IBM-Z-zOS/tree/main/zOS-Automation",
+        "version":""
+    },
+    {
+        "packageName":"zOS-CPM",
+        "description":"This repository contains CPM resources that might be useful to the z/OS community. https://github.com/IBM/IBM-Z-zOS/tree/main/zOS-CPM",
+        "version":""
+    },
+    {
+        "packageName":"zOS Data Gatherer",
+        "description":"This repository contains z/OS Data Gatherer resources that might be useful to the z/OS community. https://github.com/IBM/IBM-Z-zOS/tree/main/zOS-DataGatherer",
+        "version":""
+    },
+    {
+        "packageName":"zOS-Education",
+        "description":"This repository contains IBM Education Assistance modules that you might find to be useful in learning about z/OS. https://github.com/IBM/IBM-Z-zOS/tree/main/zOS-Education",
+        "version":""
+    },
+    {
+        "packageName":"zOS-HCD_HCM",
+        "description":"This repository contains HCM resources that might be useful to the z/OS community. https://github.com/IBM/IBM-Z-zOS/tree/main/zOS-HCD_HCM",
+        "version":""
+    },
+    {
+        "packageName":"zOS-HealthChecks",
+        "description":"This location contains sample IBM Health Checker for z/OS health checks that are not provided within program products. https://github.com/IBM/IBM-Z-zOS/tree/main/zOS-HealthChecks",
+        "version":""
+    },
+    {
+        "packageName":"zOS-PFA",
+        "description":"This repository contains example code showing how to graph data collected by Predictive Failure Analysis(PFA). https://github.com/IBM/IBM-Z-zOS/tree/main/zOS-PFA",
+        "version":""
+    },
+    {
+        "packageName":"zOS-PKI",
+        "description":"This is location for sharing PKI sample utilities to request certificates from z/OS PKI Services. https://github.com/IBM/IBM-Z-zOS/tree/main/zOS-PKI",
+        "version":""
+    },
+    {
+        "packageName":"zOS-Print",
+        "description":"This directory contains examples and tips associated with the z/OS Print Products. https://github.com/IBM/IBM-Z-zOS/tree/main/zOS-Print",
+        "version":""
+    },
+    {
+        "packageName":"zOS-RACF",
+        "description":"This repository contains RACF resources that might be useful to the z/OS community. https://github.com/IBM/IBM-Z-zOS/tree/main/zOS-RACF",
+        "version":""
+    },
+    {
+        "packageName":"zOS-RMF",
+        "description":"This repository contains RMF resources that might be useful to the z/OS community. https://github.com/IBM/IBM-Z-zOS/tree/main/zOS-RMF",
+        "version":""
+    },
+    {
+        "packageName":"zOS-Tools-and-Toys",
+        "description":"This repository contains tools that were designed for z/OS UNIX by IBM developers and testers. https://github.com/IBM/IBM-Z-zOS/tree/main/zOS-Tools-and-Toys",
+        "version":""
+    },
+    {
+        "packageName":"zOS-WLM",
+        "description":"This repository contains sample WLM programs and other resources that might be useful to the z/OS operating system community. https://github.com/IBM/IBM-Z-zOS/tree/main/zOS-WLM",
+        "version":""
+    },
+    {
+        "packageName":"zOS-Workflow",
+        "description":"This repository contains workflow definitions (XML files) that can be used with the Workflows task of the z/OS Management Facility (z/OSMF). https://github.com/IBM/IBM-Z-zOS/tree/main/zOS-Workflow",
+        "version":""
+    },
+    {
+        "packageName":"zOSMF",
+        "description":"This repository contains documents and samples of IBM z/OS Management Facility (z/OSMF) which can be used to demonstrate its functions. https://github.com/IBM/IBM-Z-zOS/tree/main/zOSMF",
         "version":""
     }
     ]
