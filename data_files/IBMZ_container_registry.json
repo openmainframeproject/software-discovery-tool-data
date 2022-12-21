@@ -1,132 +1,37 @@
 [
   {
     "packageName": "alpine",
-    "version": "3.10",
+    "version": "3, 3.13, 3.12.12, 3.12, 3.13.12, 3.14, 3.14.8, 3.15, 3.15.6, 3.16, 3.16.2",
     "description": "Alpine Linux is a Linux distribution."
   },
   {
-    "packageName": "alpine",
-    "version": "3.11",
-    "description": "Alpine Linux is a Linux distribution."
-  },
-  {
-    "packageName": "alpine",
-    "version": "3.12",
-    "description": "Alpine Linux is a Linux distribution."
-  },
-  {
-    "packageName": "alpine",
-    "version": "3.13",
-    "description": "Alpine Linux is a Linux distribution."
-  },
-  {
-    "packageName": "alpine",
-    "version": "3.6",
-    "description": "Alpine Linux is a Linux distribution."
-  },
-  {
-    "packageName": "alpine",
-    "version": "3.7",
-    "description": "Alpine Linux is a Linux distribution."
-  },
-  {
-    "packageName": "alpine",
-    "version": "3.8",
-    "description": "Alpine Linux is a Linux distribution."
-  },
-  {
-    "packageName": "alpine",
-    "version": "3.9",
-    "description": "Alpine Linux is a Linux distribution."
+    "packageName": "apache-ignite",
+    "version": "2.12.0",
+    "description": "Apache Ignite is a distributed database management system for high-performance computing."
   },
   {
     "packageName": "bash",
-    "version": "5.1.16",
-    "description": "Bash is a Unix shell and command language written by Brian Fox for the GNU Project as a free software replacement for the Bourne shell."
-  },
-  {
-    "packageName": "bash",
-    "version": "5.1.8",
+    "version": "5.1.16, 5.1.8",
     "description": "Bash is a Unix shell and command language written by Brian Fox for the GNU Project as a free software replacement for the Bourne shell."
   },
   {
     "packageName": "buildpack-deps",
-    "version": "bionic",
-    "description": "Debian variant consisting of packages needed by various things like Ruby Gems, PyPI modules, etc."
-  },
-  {
-    "packageName": "buildpack-deps",
-    "version": "bionic-scm",
-    "description": "Debian variant consisting of packages needed by various things like Ruby Gems, PyPI modules, etc."
-  },
-  {
-    "packageName": "buildpack-deps",
-    "version": "bullseye",
-    "description": "Debian variant consisting of packages needed by various things like Ruby Gems, PyPI modules, etc."
-  },
-  {
-    "packageName": "buildpack-deps",
-    "version": "bullseye-scm",
-    "description": "Debian variant consisting of packages needed by various things like Ruby Gems, PyPI modules, etc."
-  },
-  {
-    "packageName": "buildpack-deps",
-    "version": "buster",
-    "description": "Debian variant consisting of packages needed by various things like Ruby Gems, PyPI modules, etc."
-  },
-  {
-    "packageName": "buildpack-deps",
-    "version": "buster-scm",
-    "description": "Debian variant consisting of packages needed by various things like Ruby Gems, PyPI modules, etc."
-  },
-  {
-    "packageName": "buildpack-deps",
-    "version": "focal",
-    "description": "Debian variant consisting of packages needed by various things like Ruby Gems, PyPI modules, etc."
-  },
-  {
-    "packageName": "buildpack-deps",
-    "version": "focal-scm",
+    "version": "bionic, bullseye, focal",
     "description": "Debian variant consisting of packages needed by various things like Ruby Gems, PyPI modules, etc."
   },
   {
     "packageName": "busybox",
-    "version": "1.33.1",
-    "description": "BusyBox combines tiny versions of many common UNIX utilities into a single small executable."
-  },
-  {
-    "packageName": "busybox",
-    "version": "1.34.1",
+    "version": "1.33.1, 1.34.1",
     "description": "BusyBox combines tiny versions of many common UNIX utilities into a single small executable."
   },
   {
     "packageName": "cadvisor",
-    "version": "0.37.5",
-    "description": "cAdvisor (Container Advisor) provides container users an understanding of the resource usage and performance characteristics of their running containers."
-  },
-  {
-    "packageName": "cadvisor",
-    "version": "0.39.3",
-    "description": "cAdvisor (Container Advisor) provides container users an understanding of the resource usage and performance characteristics of their running containers."
-  },
-  {
-    "packageName": "cadvisor",
-    "version": "0.42.0",
+    "version": "0.37.5, 0.39.3, 0.42.0, 0.44.0, 0.45.0",
     "description": "cAdvisor (Container Advisor) provides container users an understanding of the resource usage and performance characteristics of their running containers."
   },
   {
     "packageName": "clair",
-    "version": "2.0",
-    "description": "Clair is an open source project for the static analysis of vulnerabilities in application containers (currently including appc and docker)."
-  },
-  {
-    "packageName": "clair",
-    "version": "4.3.0",
-    "description": "Clair is an open source project for the static analysis of vulnerabilities in application containers (currently including appc and docker)."
-  },
-  {
-    "packageName": "clair",
-    "version": "4.3.6",
+    "version": "2.0, 4.3.0, 4.3.6, 4.4.0, 4.4.1, 4.4.2, 4.4.4",
     "description": "Clair is an open source project for the static analysis of vulnerabilities in application containers (currently including appc and docker)."
   },
   {
@@ -136,62 +41,22 @@
   },
   {
     "packageName": "clefos",
-    "version": "7",
+    "version": "7.7.1908",
     "description": "ClefOS is a distribution specifically for Linux on z Systems (s390x aka \"the mainframe\")."
   },
   {
     "packageName": "compose",
-    "version": "2.0.1",
-    "description": "Compose is a tool for defining and running multi-container Docker applications."
-  },
-  {
-    "packageName": "compose",
-    "version": "2.2.3",
+    "version": "2.0.1, 2.2.3, 2.3.3, 2.4.1, 2.5.1, 2.6.0, 2.7.0, 2.9.0",
     "description": "Compose is a tool for defining and running multi-container Docker applications."
   },
   {
     "packageName": "couchdb",
-    "version": "3.1.1",
+    "version": "3.1.1, 3.2.1, 3.2.2",
     "description": "Apache CouchDB is an open-source document-oriented NoSQL database, implemented in Erlang."
   },
   {
     "packageName": "debian",
-    "version": "bullseye",
-    "description": "Debian is an operating system which is composed primarily of free and open-source software, most of which is under the GNU General Public License, and developed by a group of individuals known as the Debian project."
-  },
-  {
-    "packageName": "debian",
-    "version": "bullseye-slim",
-    "description": "Debian is an operating system which is composed primarily of free and open-source software, most of which is under the GNU General Public License, and developed by a group of individuals known as the Debian project."
-  },
-  {
-    "packageName": "debian",
-    "version": "buster",
-    "description": "Debian is an operating system which is composed primarily of free and open-source software, most of which is under the GNU General Public License, and developed by a group of individuals known as the Debian project."
-  },
-  {
-    "packageName": "debian",
-    "version": "buster-slim",
-    "description": "Debian is an operating system which is composed primarily of free and open-source software, most of which is under the GNU General Public License, and developed by a group of individuals known as the Debian project."
-  },
-  {
-    "packageName": "debian",
-    "version": "sid",
-    "description": "Debian is an operating system which is composed primarily of free and open-source software, most of which is under the GNU General Public License, and developed by a group of individuals known as the Debian project."
-  },
-  {
-    "packageName": "debian",
-    "version": "sid-slim",
-    "description": "Debian is an operating system which is composed primarily of free and open-source software, most of which is under the GNU General Public License, and developed by a group of individuals known as the Debian project."
-  },
-  {
-    "packageName": "debian",
-    "version": "stable",
-    "description": "Debian is an operating system which is composed primarily of free and open-source software, most of which is under the GNU General Public License, and developed by a group of individuals known as the Debian project."
-  },
-  {
-    "packageName": "debian",
-    "version": "stable-slim",
+    "version": "10, 10.12, 11, 11.4, bullseye, bullseye-20220801, buster",
     "description": "Debian is an operating system which is composed primarily of free and open-source software, most of which is under the GNU General Public License, and developed by a group of individuals known as the Debian project."
   },
   {
@@ -206,22 +71,12 @@
   },
   {
     "packageName": "drupal",
-    "version": "9.0",
-    "description": "Drupal is a free and open-source content-management framework written in PHP and distributed under the GNU General Public License."
-  },
-  {
-    "packageName": "drupal",
-    "version": "9.2.12-php8.0-apache-bullseye",
+    "version": "9.0, 9.3.8-php8.0-apache-bullseye, 9.2.12-php8.0-apache-bullseye",
     "description": "Drupal is a free and open-source content-management framework written in PHP and distributed under the GNU General Public License."
   },
   {
     "packageName": "erlang",
-    "version": "24.1.2.0",
-    "description": "Erlang is a programming language used to build massively scalable soft real-time systems with requirements on high availability."
-  },
-  {
-    "packageName": "erlang",
-    "version": "24.2.1.0",
+    "version": "24, 24.1.2.0, 24.2.1.0, 24.3, 24.3.4, 25",
     "description": "Erlang is a programming language used to build massively scalable soft real-time systems with requirements on high availability."
   },
   {
@@ -231,17 +86,7 @@
   },
   {
     "packageName": "fedora",
-    "version": "32",
-    "description": "This image serves as the `official Fedora image` for the Fedora Distribution."
-  },
-  {
-    "packageName": "fedora",
-    "version": "34",
-    "description": "This image serves as the `official Fedora image` for the Fedora Distribution."
-  },
-  {
-    "packageName": "fedora",
-    "version": "35",
+    "version": "32, 34, 35",
     "description": "This image serves as the `official Fedora image` for the Fedora Distribution."
   },
   {
@@ -251,68 +96,58 @@
   },
   {
     "packageName": "gcc",
-    "version": "11.2.0",
+    "version": "11.2.0, 12, 12-bullseye, 12.1, 12.1-bullseye, bullseye",
     "description": "The GNU Compiler Collection (GCC) is a compiler system produced by the GNU Project that supports various programming languages."
   },
   {
     "packageName": "git",
-    "version": "1.0.33",
-    "description": "A useful simple git container running in alpine Linux."
-  },
-  {
-    "packageName": "git",
-    "version": "2.32.0",
+    "version": "1.0.33, 1.0.34, 1.0.38, 2.32.0",
     "description": "A useful simple git container running in alpine Linux."
   },
   {
     "packageName": "gitea",
-    "version": "1.15.5",
-    "description": "The goal of this project is to make the easiest, fastest, and most painless way of setting up a self-hosted Git service."
-  },
-  {
-    "packageName": "gitea",
-    "version": "1.16.1",
+    "version": "1.15.5, 1.16.1, 1.16.5, 1.16.8, 1.17.0",
     "description": "The goal of this project is to make the easiest, fastest, and most painless way of setting up a self-hosted Git service."
   },
   {
     "packageName": "golang",
-    "version": "1.17-alpine3.13",
-    "description": "Golang is a programming language first developed at Google."
-  },
-  {
-    "packageName": "golang",
-    "version": "1.17.1-bullseye",
-    "description": "Golang is a programming language first developed at Google."
-  },
-  {
-    "packageName": "golang",
-    "version": "1.17.2-bullseye",
-    "description": "Golang is a programming language first developed at Google."
-  },
-  {
-    "packageName": "golang",
-    "version": "1.17.7-bullseye",
+    "version": "1.17-alpine3.13, 1.17.1-bullseye, 1.17.2-bullseye, 1.17.7-bullseye, 1.17.8-bullseye, 1.19-alpine3.16",
     "description": "Golang is a programming language first developed at Google."
   },
   {
     "packageName": "gradle",
-    "version": "6.7",
+    "version": "6.7, 7, 7-jammy, 7-jdk, 7-jdk-jammy, 7-jdk17, 7-jdk17-jammy, 7.4, 7.4-jdk, 7.4-jdk-jammy, 7.4-jdk17, 7.4-jdk17-jammy, 7.4.1-jdk17, 7.4.2, 7.4.2-jammy, 7.4.2-jdk, 7.4.2-jdk-jammy, 7.4.2-jdk17, 7.4.2-jdk17-jammy, 7.5, 7.5-jammy, 7.5-jdk, 7.5-jdk-jammy, 7.5-jdk17, 7.5-jdk17-jammy, 7.5.0, 7.5.0-jammy, 7.5.0-jdk, 7.5.0-jdk-jammy, 7.5.0-jdk17, 7.5.0-jdk17-jammy, jammy, jdk, jdk17, jdk17-jammy",
     "description": "Gradle is a build tool with a focus on build automation and support for multi-language development."
   },
   {
+    "packageName": "grafana",
+    "version": "8.2.3, 9.1.1",
+    "description": "Grafana is a multi-platform open source analytics and interactive visualization web application."
+  },
+  {
     "packageName": "haproxy",
-    "version": "2.5.1",
+    "version": "2.5, 2.5-bullseye, 2.5.5, 2.5.7-bullseye, 2.6.2, 2.6.2-bullseye, bullseye, lts, lts-bullseye",
     "description": "HAProxy is a free, open source high availability solution, providing load balancing and proxying for TCP and HTTP-based applications by spreading requests across multiple servers."
   },
   {
-    "packageName": "httpd",
-    "version": "2.4.46",
-    "description": "The Apache HTTP Server, colloquially called Apache, is a Web server application notable for playing a key role in the initial growth of the World Wide Web."
+    "packageName": "hazelcast",
+    "version": "5.0-manage, 5.1.1",
+    "description": "Hazelcast IMDG is an open source in-memory data grid based on Java."
   },
   {
     "packageName": "httpd",
-    "version": "2.4.52",
+    "version": "2, 2-bullseye, 2.4, 2.4-bullseye, 2.4.46, 2.4.52, 2.4.53, 2.4.53-bullseye, 2.4.54, 2.4.54-bullseye",
     "description": "The Apache HTTP Server, colloquially called Apache, is a Web server application notable for playing a key role in the initial growth of the World Wide Web."
+  },
+  {
+    "packageName": "ibmz-optimized-for-tensorflow",
+    "version": "1.01, latest",
+    "description": "Welcome to our Open-Beta program for IBM Z Optimized for TensorFlow."
+  },
+  {
+    "packageName": "influxdb",
+    "version": "1.9.7, 2.2.0",
+    "description": "InfluxDB is an open-source time series database (TSDB) developed by the company InfluxData."
   },
   {
     "packageName": "jenkins",
@@ -321,58 +156,27 @@
   },
   {
     "packageName": "jenkins-agent",
-    "version": "4.11-1",
-    "description": "This is the worker agent for jenkins, which includes a JDK and the Jenkins agent executable."
-  },
-  {
-    "packageName": "jenkins-agent",
-    "version": "4.11.2-5",
+    "version": "4.11.2-5, 4.13-2",
     "description": "This is the worker agent for jenkins, which includes a JDK and the Jenkins agent executable."
   },
   {
     "packageName": "jetty",
-    "version": "11.0-jdk11",
-    "description": "Jetty is a pure Java-based HTTP (Web) server and Java Servlet container."
-  },
-  {
-    "packageName": "jetty",
-    "version": "9.4.44",
+    "version": "11, 11-eclipse-temurin, 11-jdk17, 11-jdk17-eclipse-temurin, 11.0, 11.0-eclipse-temurin, 11.0-jdk17, 11.0-jdk17-eclipse-temurin, 11.0.9, 11.0.9-eclipse-temurin, 11.0.9-jdk17, 11.0.9-jdk17-eclipse-temurin, jdk17",
     "description": "Jetty is a pure Java-based HTTP (Web) server and Java Servlet container."
   },
   {
     "packageName": "jfrog-artifactory-oss",
-    "version": "7.31.10",
+    "version": "6.23.38, 7.31.10, 7.41.7, ",
     "description": "JFrog Artifactory OSS is an open source variant of JFrog Artifactory."
   },
   {
     "packageName": "jupyter-notebook",
-    "version": "6.4.5",
-    "description": "Jupyter notebook is a language-agnostic HTML notebook application for Project Jupyter."
-  },
-  {
-    "packageName": "jupyter-notebook",
-    "version": "6.4.8",
-    "version": "6.23.3",
-    "description": "JFrog Artifactory OSS is an open source variant of JFrog Artifactory."
-  },
-  {
-    "packageName": "jfrog-artifactory-oss",
-    "version": "7",
-    "description": "JFrog Artifactory OSS is an open source variant of JFrog Artifactory."
-  },
-  {
-    "packageName": "jupyter-notebook",
-    "version": "6.4.5",
+    "version": "6.4.5, 6.4.8, v7.0.0a2",
     "description": "Jupyter notebook is a language-agnostic HTML notebook application for Project Jupyter."
   },
   {
     "packageName": "kafka",
-    "version": "3.0.0",
-    "description": "Apache Kafka is a distributed streaming platform that lets one endpoint in a workload."
-  },
-  {
-    "packageName": "kafka",
-    "version": "3.1.0",
+    "version": "3.0.0, 3.1.0, 3.2.0",
     "description": "Apache Kafka is a distributed streaming platform that lets one endpoint in a workload."
   },
   {
@@ -382,22 +186,12 @@
   },
   {
     "packageName": "maven",
-    "version": "3.8.3-openjdk-17",
+    "version": "3, 3-eclipse-temurin, 3-eclipse-temurin-17, 3.8, 3.8-eclipse-temurin, 3.8-eclipse-temurin-17, 3.8.3-openjdk-17, 3.8.5, 3.8.5-eclipse-temurin, 3.8.5-eclipse-temurin-17, eclipse-temurin",
     "description": "Maven is a software project management and comprehension tool."
   },
   {
     "packageName": "memcached",
-    "version": "1.6.10",
-    "description": "Memcached is a high performance multithreaded event-based key/value cache store intended to be used in a distributed system."
-  },
-  {
-    "packageName": "memcached",
-    "version": "1.6.14",
-    "description": "Memcached is a high performance multithreaded event-based key/value cache store intended to be used in a distributed system."
-  },
-  {
-    "packageName": "memcached",
-    "version": "1.6.8",
+    "version": "1, 1-bullseye, 1.6, 1.6-bullseye, 1.6.10, 1.6.14, 1.6.15, 1.6.15-bullseye, 1.6.8, bullseye",
     "description": "Memcached is a high performance multithreaded event-based key/value cache store intended to be used in a distributed system."
   },
   {
@@ -407,57 +201,32 @@
   },
   {
     "packageName": "mule",
-    "version": "3.9.1",
-    "description": "Mule is a lightweight integration platform that allows you to connect anything anywhere."
+    "version": "4.4.0",
+    "description": "Mule Kernel is a lightweight integration platform that allows you to connect anything anywhere."
   },
   {
     "packageName": "nginx",
-    "version": "1.21.3",
-    "description": "Nginx is an open source reverse proxy server for HTTP, HTTPS, SMTP, POP3, and IMAP protocols, as well as a load balancer, HTTP cache, and a web server (origin server)."
-  },
-  {
-    "packageName": "nginx",
-    "version": "1.21.6",
+    "version": "1, 1.21, 1.21.3, 1.21.6, mainline",
     "description": "Nginx is an open source reverse proxy server for HTTP, HTTPS, SMTP, POP3, and IMAP protocols, as well as a load balancer, HTTP cache, and a web server (origin server)."
   },
   {
     "packageName": "node",
-    "version": "16",
-    "description": "NodeJS is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications."
-  },
-  {
-    "packageName": "node",
-    "version": "17",
+    "version": "16, 17, 18, 18-bullseye, 18.2, 18.2-bullseye, 18.2.0, 18.2.0-bullseye, bullseye, current, current-bullseye",
     "description": "NodeJS is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications."
   },
   {
     "packageName": "node_exporter",
-    "version": "1.2.2",
+    "version": "1.2.2, 1.3.1",
     "description": "The Prometheus Node Exporter exposes a wide variety of hardware- and kernel-related metrics."
   },
   {
-    "packageName": "node_exporter",
-    "version": "1.3.1",
-    "description": "The Prometheus Node Exporter exposes a wide variety of hardware- and kernel-related metrics."
+    "packageName": "onnx-mlir",
+    "version": "0.3.0",
+    "description": "ONNX-MLIR is an open-source project for compiling ONNX models into native code."
   },
   {
     "packageName": "openjdk",
-    "version": "11",
-    "description": "OpenJDK (Open Java Development Kit) is a free and open source implementation of the Java Platform, Standard Edition (Java SE)."
-  },
-  {
-    "packageName": "openjdk",
-    "version": "14",
-    "description": "OpenJDK (Open Java Development Kit) is a free and open source implementation of the Java Platform, Standard Edition (Java SE)."
-  },
-  {
-    "packageName": "openjdk",
-    "version": "16",
-    "description": "OpenJDK (Open Java Development Kit) is a free and open source implementation of the Java Platform, Standard Edition (Java SE)."
-  },
-  {
-    "packageName": "openjdk",
-    "version": "17",
+    "version": "11, 14, 16, 17",
     "description": "OpenJDK (Open Java Development Kit) is a free and open source implementation of the Java Platform, Standard Edition (Java SE)."
   },
   {
@@ -471,88 +240,43 @@
     "description": "A lightweight open framework for building fast and efficient cloud-native Java microservices."
   },
   {
+    "packageName": "opensearch",
+    "version": "1.3.0",
+    "description": "OpenSearch is a family of software consisting of a search engine (also named OpenSearch), and OpenSearch Dashboards, a data visualization dashboard for that search engine (this software was originally forked from Kibana and Elasticsearch)."
+  },
+  {
+    "packageName": "opensearch-dashboards",
+    "version": "1.2.0",
+    "description": "OpenSearch is a family of software consisting of a search engine (also named OpenSearch), and OpenSearch Dashboards, a data visualization dashboard for that search engine (this software was originally forked from Kibana and Elasticsearch)."
+  },
+  {
     "packageName": "perl",
-    "version": "5.34.0",
+    "version": "5, 5-bullseye, 5.34.0, 5.36, 5.36-bullseye, 5.36.0, 5.36.0-bullseye, bullseye",
     "description": "Perl is a high-level, general-purpose, interpreted, dynamic programming language."
   },
   {
     "packageName": "php",
-    "version": "7.4-cli",
-    "description": "PHP is a server-side scripting language designed for web development, but which can also be used as a general-purpose programming language."
-  },
-  {
-    "packageName": "php",
-    "version": "8.0.11-cli-bullseye",
-    "description": "PHP is a server-side scripting language designed for web development, but which can also be used as a general-purpose programming language."
-  },
-  {
-    "packageName": "php",
-    "version": "8.1.2-cli-bullseye",
+    "version": "8.1.6, 8.1.6-bullseye, 8.1.6-cli, 8.1.6-cli-bullseye, 8.1.7, 8.1.7-bullseye, 8.1.7-cli, 8.1.7-cli-bullseye, bullseye, cli, cli-bullseye",
     "description": "PHP is a server-side scripting language designed for web development, but which can also be used as a general-purpose programming language."
   },
   {
     "packageName": "portainer",
-    "version": "2.11.1",
+    "version": "2.11.1, 2.13.1, latest",
     "description": "Portainer is a lightweight management UI which allows you to easily manage your Docker host or Swarm cluster."
   },
   {
     "packageName": "postgres",
-    "version": "10",
-    "description": "PostgreSQL, often simply \"Postgres\", is an object-relational database management system (ORDBMS) with an emphasis on extensibility and standards-compliance."
-  },
-  {
-    "packageName": "postgres",
-    "version": "11",
-    "description": "PostgreSQL, often simply \"Postgres\", is an object-relational database management system (ORDBMS) with an emphasis on extensibility and standards-compliance."
-  },
-  {
-    "packageName": "postgres",
-    "version": "12",
-    "description": "PostgreSQL, often simply \"Postgres\", is an object-relational database management system (ORDBMS) with an emphasis on extensibility and standards-compliance."
-  },
-  {
-    "packageName": "postgres",
-    "version": "13",
-    "description": "PostgreSQL, often simply \"Postgres\", is an object-relational database management system (ORDBMS) with an emphasis on extensibility and standards-compliance."
-  },
-  {
-    "packageName": "postgres",
-    "version": "14.0",
-    "description": "PostgreSQL, often simply \"Postgres\", is an object-relational database management system (ORDBMS) with an emphasis on extensibility and standards-compliance."
-  },
-  {
-    "packageName": "postgres",
-    "version": "14.2",
+    "version": "10, 11, 12, 13, 14, 14-bullseye, 14.0, 14.2, 14.3, 14.3-bullseye, bullseye",
     "description": "PostgreSQL, often simply \"Postgres\", is an object-relational database management system (ORDBMS) with an emphasis on extensibility and standards-compliance."
   },
   {
     "packageName": "prometheus",
-    "version": "2.30.3",
-    "description": "Prometheus is an open-source systems monitoring and alerting toolkit originally built at SoundCloud."
-  },
-  {
-    "packageName": "prometheus",
-    "version": "2.33.3",
+    "version": "2.36.0, 2.35.0",
     "description": "Prometheus is an open-source systems monitoring and alerting toolkit originally built at SoundCloud."
   },
   {
     "packageName": "python",
-    "version": "3.10.2-bullseye",
-    "description": "Python is an interpreted, interactive, object-oriented, open-source programming language."
-  },
-  {
-    "packageName": "python",
-    "version": "3.8",
-    "description": "Python is an interpreted, interactive, object-oriented, open-source programming language."
-  },
-  {
-    "packageName": "python",
-    "version": "3.9",
-    "description": "Python is an interpreted, interactive, object-oriented, open-source programming language."
-  },
-  {
-    "packageName": "python",
-    "version": "3.9.7-bullseye",
+    "version": "3, 3-alpine3.16, 3-bullseye, 3.10, 3.10-alpine, 3.10-alpine3.16, 3.10-bullseye, 3.10.2-bullseye, 3.10.4, 3.10.4-bullseye, 3.10.6-bullseye, 3.10.7-alpine, 3.10.7-alpine3.16, 3.7, 3.7-alpine, 3.7-alpine3.16, 3.7-bullseye, 3.7.13, 3.7.13-bullseye, 3.7.14-alpine, 3.7.14-alpine3.16, 3.8, 3.8-alpine, 3.8-alpine3.16, 3.8-bullseye, 3.8.13, 3.8.13-bullseye, 3.8.14-alpine, 3.8.14-alpine3.16, 3.9, 3.9-bullseye, 3.9.13, 3.9.13-bullseye, 3.9.7-bullseye, alpine, alpine3.16, bullseye",
     "description": "Python is an interpreted, interactive, object-oriented, open-source programming language."
   },
   {
@@ -562,103 +286,57 @@
   },
   {
     "packageName": "quay",
-    "version": "3.5.2",
-    "description": "Project Quay builds, stores, and distributes your container images."
-  },
-  {
-    "packageName": "quay",
-    "version": "solo",
+    "version": "3.5.2, solo",
     "description": "Project Quay builds, stores, and distributes your container images."
   },
   {
     "packageName": "rabbitmq",
-    "version": "3.8.9",
-    "description": "RabbitMQ is open source message broker software (sometimes called message-oriented middleware) that implements the Advanced Message Queuing Protocol (AMQP)."
-  },
-  {
-    "packageName": "rabbitmq",
-    "version": "3.8.9-manage",
+    "version": "3.8.9, 3.8.9-manage",
     "description": "RabbitMQ is open source message broker software (sometimes called message-oriented middleware) that implements the Advanced Message Queuing Protocol (AMQP)."
   },
   {
     "packageName": "redis",
-    "version": "6.2.5",
-    "description": "Redis is an open-source, networked, in-memory, key-value data store with optional durability."
-  },
-  {
-
-    "packageName": "redis",
-    "version": "6.2.6",
+    "version": "6.2.6, 7-bullseye, 7.0-bullseye, 7.0.0, 7.0.0-bullseye, 7.0.1, 7.0.1-bullseye, 7.0.4, bullseye",
     "description": "Redis is an open-source, networked, in-memory, key-value data store with optional durability."
   },
   {
     "packageName": "registry",
-    "version": "2.7.0",
-    "description": "This image contains an implementation of the Docker Registry HTTP API V2 for use with Docker."
-  },
-  {
-    "packageName": "registry",
-    "version": "2.8.0",
+    "version": "2.7.0, 2.8.0, 2.8.1",
     "description": "This image contains an implementation of the Docker Registry HTTP API V2 for use with Docker."
   },
   {
     "packageName": "ruby",
-    "version": "2.6",
+    "version": "2.6, 3, 3-bullseye, 3.1, 3.1-bullseye, 3.1.0-bullseye, 3.1.1-bullseye, 3.1.2, 3.1.2-bullseye, bullseye",
     "description": "Ruby is a dynamic, reflective, object-oriented, general-purpose, open-source programming language."
   },
   {
-    "packageName": "ruby",
-    "version": "3.1.0-bullseye",
-    "description": "Ruby is a dynamic, reflective, object-oriented, general-purpose, open-source programming language."
-  },
-  {
-    "packageName": "sonar-scanner-cli",
-    "version": "4.5.0.2216",
-    "description": "SonarScanner CLI is the command line tool used with SonarQube to perform static code analysis on source code."
-  },
-  {
-    "packageName": "sonar-scanner-cli",
-    "version": "4.6.2.2472",
+    "packageName": "sonar-scanner-cli-docker",
+    "version": "4.7.0.2747",
     "description": "SonarScanner CLI is the command line tool used with SonarQube to perform static code analysis on source code."
   },
   {
     "packageName": "sonarqube",
-    "version": "8.5.1.38104",
-    "description": "SonarQube is an open source product for continuous inspection of code quality."
-  },
-  {
-    "packageName": "sonarqube",
-    "version": "9.2.4-community",
+    "version": "8.5.1.38104, 9.2.4-community, 9.3.0-community",
     "description": "SonarQube is an open source product for continuous inspection of code quality."
   },
   {
     "packageName": "tensorflow",
-    "version": "2.5.0",
+    "version": "2.4.0, 2.5-opts, 2.5.0, 2.7-opts-vector",
     "description": "TensorFlow is an end-to-end open source platform for machine learning/deep learning (ML/DL)."
   },
   {
     "packageName": "tensorflow-serving",
-    "version": "2.4.0",
+    "version": "2.4.0, 2.7.0, 2.4-opts-vector",
     "description": "TensorFlow Serving is a flexible, high-performance serving system for machine learning models, designed for production environments."
   },
   {
     "packageName": "tomcat",
-    "version": "10.0.12-jdk11-openjdk-bullseye",
+    "version": "10, 10-jdk11, 10-jdk11-openjdk, 10-jdk11-openjdk-bullseye, 10.0, 10.0-jdk11, 10.0-jdk11-openjdk, 10.0-jdk11-openjdk-bullseye, 10.0.12-jdk11-openjdk-bullseye, 10.0.18-jdk11-openjdk-bullseye, 10.0.21, 10.0.21-jdk11, 10.0.21-jdk11-openjdk, 10.0.21-jdk11-openjdk-bullseye, jdk11, jdk11-openjdk, jdk11-openjdk-bullseye",
     "description": "Apache Tomcat (or simply Tomcat) is an open source web server and servlet container developed by the Apache Software Foundation (ASF)."
   },
   {
     "packageName": "ubuntu",
-    "version": "18.04",
-    "description": "Ubuntu is a Debian-based Linux operating system that runs from the desktop to the cloud, to all your internet connected things."
-  },
-  {
-    "packageName": "ubuntu",
-    "version": "20.04",
-    "description": "Ubuntu is a Debian-based Linux operating system that runs from the desktop to the cloud, to all your internet connected things."
-  },
-  {
-    "packageName": "ubuntu",
-    "version": "21.04",
+    "version": "bionic, focal, 22.04, 20.04, 18.04",
     "description": "Ubuntu is a Debian-based Linux operating system that runs from the desktop to the cloud, to all your internet connected things."
   },
   {
@@ -668,18 +346,22 @@
   },
   {
     "packageName": "wildfly",
-    "version": "26.0.0.Final",
+    "version": "26.0.1.Final, 26.1.1.Final",
     "description": "This is a Docker image with the WildFly Application Server."
   },
   {
-    "packageName": "wildfly",
-    "version": "26.0.1.Final",
-    "description": "This is a Docker image with the WildFly Application Server."
+    "packageName": "yarn",
+    "version": "4.0.0-rc.12-alpine, 4.0.0-rc.12-focal",
+    "description": "Yarn is a software packaging system developed in 2016 by Facebook for the Node."
   },
   {
     "packageName": "zookeeper",
-    "version": "3.7.0",
+    "version": "3.7.0, 3.8, 3.8.0",
     "description": "Apache ZooKeeper is a software project of the Apache Software Foundation, providing an open source distributed configuration service, synchronization service, and naming registry for large distributed systems."
+  },
+  {
+    "packageName": "onnx-mlir",
+    "version": "0.3.0",
+    "description": "ONNX-MLIR is an open-source project for compiling ONNX models into native code."
   }
 ]
-
