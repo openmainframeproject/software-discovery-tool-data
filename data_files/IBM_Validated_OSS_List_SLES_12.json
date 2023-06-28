@@ -27,12 +27,7 @@
   {
     "packageName": "Apache Cassandra",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Apache-Cassandra",
-    "version": "2.x, 3.x"
-  },
-  {
-    "packageName": "Apache CouchDB",
-    "description": null,
-    "version": null
+    "version": "2.x, 3.x, 4.x"
   },
   {
     "packageName": "Apache Flume",
@@ -100,11 +95,6 @@
     "version": "Latest"
   },
   {
-    "packageName": "Apache Zeppelin",
-    "description": null,
-    "version": null
-  },
-  {
     "packageName": "Apache ZooKeeper",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Apache-ZooKeeper",
     "version": "Latest"
@@ -131,13 +121,8 @@
   },
   {
     "packageName": "Chef Infra Client",
-    "description": "https://downloads.chef.io/",
-    "version": "Download(17.x)"
-  },
-  {
-    "packageName": "CockroachDB",
-    "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-CockroachDB",
-    "version": "21.x"
+    "description": "https://www.chef.io/downloads/tools/infra-client",
+    "version": "Download(18.x)"
   },
   {
     "packageName": "Consul",
@@ -170,11 +155,6 @@
     "version": "Download"
   },
   {
-    "packageName": "Docker-CE",
-    "description": null,
-    "version": null
-  },
-  {
     "packageName": "Doxygen",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Doxygen",
     "version": "1.x"
@@ -187,7 +167,7 @@
   {
     "packageName": "ElasticSearch",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Open-Source-Elastic-Stack",
-    "version": "7.x"
+    "version": "8.x"
   },
   {
     "packageName": "Erlang",
@@ -198,11 +178,6 @@
     "packageName": "etcd",
     "description": "https://etcd.io/docs/v3.5/install/",
     "version": "Latest"
-  },
-  {
-    "packageName": "exechealthz",
-    "description": null,
-    "version": null
   },
   {
     "packageName": "flannel",
@@ -216,13 +191,13 @@
   },
   {
     "packageName": "GlusterFS",
-    "description": null,
-    "version": null
+    "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-GlusterFS",
+    "version": "10.x"
   },
   {
     "packageName": "Go",
-    "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Go",
-    "version": "Latest"
+    "description": "https://go.dev/dl/",
+    "version": "Download"
   },
   {
     "packageName": "Grafana",
@@ -270,26 +245,6 @@
     "version": "Latest"
   },
   {
-    "packageName": "K8s CSI components",
-    "description": null,
-    "version": null
-  },
-  {
-    "packageName": "Keystone (Openstack)",
-    "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Keystone",
-    "version": "21.x"
-  },
-  {
-    "packageName": "Kibana",
-    "description": null,
-    "version": null
-  },
-  {
-    "packageName": "Kong",
-    "description": null,
-    "version": null
-  },
-  {
     "packageName": "Kube Router",
     "description": "https://github.com/cloudnativelabs/kube-router/releases/",
     "version": "Download"
@@ -298,11 +253,6 @@
     "packageName": "Kubernetes",
     "description": "https://github.com/kubernetes/kubernetes/tree/master/CHANGELOG",
     "version": "Download"
-  },
-  {
-    "packageName": "Kubernetes Minikube",
-    "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Kubernetes-Minikube",
-    "version": "1.x"
   },
   {
     "packageName": "Libunwind",
@@ -345,19 +295,9 @@
     "version": "Drivers link"
   },
   {
-    "packageName": "Mule",
-    "description": null,
-    "version": null
-  },
-  {
     "packageName": "MySQL",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-MySQL",
     "version": "5.x, 8.x"
-  },
-  {
-    "packageName": "Neo4j",
-    "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Neo4j",
-    "version": "Latest"
   },
   {
     "packageName": "NGINX",
@@ -372,7 +312,7 @@
   {
     "packageName": "oCaml",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-oCaml",
-    "version": "4.x"
+    "version": "5.x"
   },
   {
     "packageName": "OpenResty",
@@ -392,7 +332,7 @@
   {
     "packageName": "PostgreSQL",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-PostgreSQL",
-    "version": "11.x/12.x/13.x/14.x"
+    "version": "14.x/15.x"
   },
   {
     "packageName": "Prometheus",
@@ -465,11 +405,6 @@
     "version": "2.x, 3.x"
   },
   {
-    "packageName": "ScyllaDB",
-    "description": null,
-    "version": null
-  },
-  {
     "packageName": "Snappy-Java",
     "description": "https://repo1.maven.org/maven2/org/xerial/snappy/snappy-java/",
     "version": "Download"
@@ -477,12 +412,7 @@
   {
     "packageName": "Sonarqube",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-SonarQube",
-    "version": "9.x"
-  },
-  {
-    "packageName": "StatsD",
-    "description": null,
-    "version": null
+    "version": "10.x"
   },
   {
     "packageName": "Strimzi Kafka",
@@ -493,21 +423,6 @@
     "packageName": "Sysdig",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-sysdig",
     "version": "0.x"
-  },
-  {
-    "packageName": "TensorFlow",
-    "description": null,
-    "version": null
-  },
-  {
-    "packageName": "TensorFlow Serving",
-    "description": null,
-    "version": null
-  },
-  {
-    "packageName": "TensorFlow Transform",
-    "description": null,
-    "version": null
   },
   {
     "packageName": "Terraform",
@@ -526,8 +441,8 @@
   },
   {
     "packageName": "WildFly (JBoss)",
-    "description": null,
-    "version": null
+    "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-WildFly",
+    "version": "Latest"
   },
   {
     "packageName": "Word2Vec",
@@ -542,16 +457,11 @@
   {
     "packageName": "XMLSec",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-XMLSec",
-    "version": "1.2.x"
+    "version": "1.x"
   },
   {
     "packageName": "Zabbix",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Zabbix",
     "version": "6.x"
-  },
-  {
-    "packageName": "Zerotier",
-    "description": null,
-    "version": null
   }
 ]
