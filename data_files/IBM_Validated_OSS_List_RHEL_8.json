@@ -11,8 +11,8 @@
   },
   {
     "packageName": "AntLR",
-    "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-AntLR-4",
-    "version": "4.x"
+    "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-AntLR",
+    "version": "3.x, 4.x"
   },
   {
     "packageName": "Apache ActiveMQ",
@@ -27,7 +27,7 @@
   {
     "packageName": "Apache Cassandra",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Apache-Cassandra",
-    "version": "3.x"
+    "version": "2.x, 3.x, 4.x"
   },
   {
     "packageName": "Apache CouchDB",
@@ -100,11 +100,6 @@
     "version": "Latest"
   },
   {
-    "packageName": "Apache Zeppelin",
-    "description": null,
-    "version": null
-  },
-  {
     "packageName": "Apache ZooKeeper",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Apache-ZooKeeper",
     "version": "Latest"
@@ -127,17 +122,17 @@
   {
     "packageName": "Calico",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Calico",
-    "version": "3.x"
+    "version": "2.x, 3.x"
   },
   {
     "packageName": "Chef Infra Client",
-    "description": "https://downloads.chef.io/",
-    "version": "Download(17.x)"
+    "description": "https://www.chef.io/downloads/tools/infra-client",
+    "version": "Download(18.x)"
   },
   {
     "packageName": "CockroachDB",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-CockroachDB",
-    "version": "21.x"
+    "version": "22.x"
   },
   {
     "packageName": "Consul",
@@ -187,7 +182,7 @@
   {
     "packageName": "ElasticSearch",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Open-Source-Elastic-Stack",
-    "version": "7.x"
+    "version": "8.x"
   },
   {
     "packageName": "Erlang",
@@ -198,11 +193,6 @@
     "packageName": "etcd",
     "description": "https://etcd.io/docs/v3.5/install/",
     "version": "Latest"
-  },
-  {
-    "packageName": "exechealthz",
-    "description": null,
-    "version": null
   },
   {
     "packageName": "flannel",
@@ -221,8 +211,8 @@
   },
   {
     "packageName": "Go",
-    "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Go",
-    "version": "Latest"
+    "description": "https://go.dev/dl/",
+    "version": "Download"
   },
   {
     "packageName": "Grafana",
@@ -270,24 +260,9 @@
     "version": "Latest"
   },
   {
-    "packageName": "K8s CSI components",
-    "description": null,
-    "version": null
-  },
-  {
-    "packageName": "Keystone (Openstack)",
-    "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Keystone",
-    "version": "21.x"
-  },
-  {
     "packageName": "Kibana",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Open-Source-Elastic-Stack",
-    "version": "7.x"
-  },
-  {
-    "packageName": "Kong",
-    "description": null,
-    "version": null
+    "version": "8.x"
   },
   {
     "packageName": "Kube Router",
@@ -345,14 +320,9 @@
     "version": "Drivers link"
   },
   {
-    "packageName": "Mule",
-    "description": null,
-    "version": null
-  },
-  {
     "packageName": "MySQL",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-MySQL",
-    "version": "8.x"
+    "version": "5.x, 8.x"
   },
   {
     "packageName": "Neo4j",
@@ -361,8 +331,8 @@
   },
   {
     "packageName": "NGINX",
-    "description": "https://nginx.org/en/linux_packages.html#RHEL-CentOS",
-    "version": "Latest"
+    "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-NGINX",
+    "version": "1.x"
   },
   {
     "packageName": "Node.js",
@@ -372,7 +342,7 @@
   {
     "packageName": "oCaml",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-oCaml",
-    "version": "4.x"
+    "version": "5.x"
   },
   {
     "packageName": "OpenResty",
@@ -392,7 +362,7 @@
   {
     "packageName": "PostgreSQL",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-PostgreSQL",
-    "version": "11.x/12.x/13.x/14.x"
+    "version": "14.x/15.x"
   },
   {
     "packageName": "Prometheus",
@@ -467,7 +437,7 @@
   {
     "packageName": "ScyllaDB",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-ScyllaDB",
-    "version": "4.x"
+    "version": "5.x"
   },
   {
     "packageName": "Snappy-Java",
@@ -477,7 +447,7 @@
   {
     "packageName": "Sonarqube",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-SonarQube",
-    "version": "9.x"
+    "version": "10.x"
   },
   {
     "packageName": "StatsD",
@@ -493,21 +463,6 @@
     "packageName": "Sysdig",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-sysdig",
     "version": "0.x"
-  },
-  {
-    "packageName": "TensorFlow",
-    "description": null,
-    "version": null
-  },
-  {
-    "packageName": "TensorFlow Serving",
-    "description": null,
-    "version": null
-  },
-  {
-    "packageName": "TensorFlow Transform",
-    "description": null,
-    "version": null
   },
   {
     "packageName": "Terraform",
@@ -542,7 +497,7 @@
   {
     "packageName": "XMLSec",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-XMLSec",
-    "version": "1.2.x"
+    "version": "1.x"
   },
   {
     "packageName": "Zabbix",
@@ -551,7 +506,7 @@
   },
   {
     "packageName": "Zerotier",
-    "description": null,
-    "version": null
+    "description": "https://www.zerotier.com/download/",
+    "version": "Download"
   }
 ]
