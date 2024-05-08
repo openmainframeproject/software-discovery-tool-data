@@ -13,10 +13,16 @@ Our data files include:
 - z/OS Software List
 
 Linux Distributions supporting s390x packages:
-- Debian 10 and 11
+- AlmaLinux
 - ClefOS Epel 7
-- OpenSUSE Tumbleweed and Leap
-- Fedora 34
+- Debian Bullseye and Bookworm
+- Fedora 38
+- IBM Z z/OS, OMP and Rocket Software
+- OpenSUSE Leap 15.5 and Tumbleweed
+- Red Hat Enterprise Linux 8 and 9
+- RockyLinux 9
+- SLES 12 and 15
+- Ubuntu 20.04 and 22.04
 
 ## Contributions
 If you feel to add support of any package list, feel free to create an issue.
