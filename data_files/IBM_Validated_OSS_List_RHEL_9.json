@@ -26,8 +26,8 @@
   },
   {
     "packageName": "Apache CouchDB",
-    "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-CouchDB",
-    "version": "3.x"
+    "description": "https://docs.couchdb.org/en/stable/install/unix.html#installation-using-the-apache-couchdb-convenience-binary-packages",
+    "version": "Latest"
   },
   {
     "packageName": "Apache Flume",
@@ -70,14 +70,19 @@
     "version": "Download"
   },
   {
+    "packageName": "Apache Spark",
+    "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Apache-Spark",
+    "version": "3.x"
+  },
+  {
     "packageName": "Apache Solr",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Apache-Solr",
     "version": "Latest"
   },
   {
-    "packageName": "Apache Spark",
-    "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Apache-Spark",
-    "version": "3.x"
+    "packageName": "Apache Storm",
+    "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Apache-Storm",
+    "version": "Latest"
   },
   {
     "packageName": "Apache Tomcat",
@@ -106,13 +111,13 @@
   },
   {
     "packageName": "Calico",
-    "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Calico",
+    "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Calico-3.x",
     "version": "3.x"
   },
   {
     "packageName": "CockroachDB",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-CockroachDB",
-    "version": "22.x"
+    "version": "23.x"
   },
   {
     "packageName": "Consul",
@@ -120,9 +125,34 @@
     "version": "1.x"
   },
   {
+    "packageName": "CoreDNS",
+    "description": "https://github.com/coredns/coredns/releases/",
+    "version": "Download"
+  },
+  {
+    "packageName": "Couchbase",
+    "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Couchbase",
+    "version": "7.x"
+  },
+  {
     "packageName": "Cruise Control",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Cruise-Control",
     "version": "2.x"
+  },
+  {
+    "packageName": "Docker-CE",
+    "description": "https://docs.docker.com/engine/install/#server",
+    "version": "Latest"
+  },
+  {
+    "packageName": "Docker Compose",
+    "description": "https://github.com/docker/compose/releases",
+    "version": "Download"
+  },
+  {
+    "packageName": "Docker Distribution",
+    "description": "https://github.com/distribution/distribution/releases",
+    "version": "Download"
   },
   {
     "packageName": "Doxygen",
@@ -137,7 +167,17 @@
   {
     "packageName": "Erlang",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Erlang",
-    "version": "25.x"
+    "version": "26.x"
+  },
+  {
+    "packageName": "etcd",
+    "description": "https://etcd.io/docs/v3.5/install/",
+    "version": "Latest"
+  },
+  {
+    "packageName": "flannel",
+    "description": "https://github.com/flannel-io/flannel/releases",
+    "version": "Download"
   },
   {
     "packageName": "Fluentd",
@@ -147,12 +187,12 @@
   {
     "packageName": "GlusterFS",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-GlusterFS",
-    "version": "10.x"
+    "version": "11.x"
   },
   {
     "packageName": "Grafana",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Grafana",
-    "version": "9.x"
+    "version": "10.x"
   },
   {
     "packageName": "HAProxy",
@@ -162,6 +202,11 @@
   {
     "packageName": "Helm",
     "description": "https://github.com/helm/helm/releases",
+    "version": "Download"
+  },
+  {
+    "packageName": "Hibernate",
+    "description": "http://hibernate.org/orm/releases",
     "version": "Download"
   },
   {
@@ -180,9 +225,24 @@
     "version": "Latest"
   },
   {
+    "packageName": "Keystone (Openstack)",
+    "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Keystone",
+    "version": "22.x"
+  },
+  {
     "packageName": "Kibana",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Open-Source-Elastic-Stack",
     "version": "8.x"
+  },
+  {
+    "packageName": "Kubernetes",
+    "description": "https://github.com/kubernetes/kubernetes/tree/master/CHANGELOG",
+    "version": "Download"
+  },
+  {
+    "packageName": "Kubernetes Minikube",
+    "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Kubernetes-Minikube",
+    "version": "1.x"
   },
   {
     "packageName": "Kube Router",
@@ -190,8 +250,8 @@
     "version": "Download"
   },
   {
-    "packageName": "Kubernetes Minikube",
-    "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Kubernetes-Minikube",
+    "packageName": "Libunwind",
+    "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-libunwind",
     "version": "1.x"
   },
   {
@@ -206,8 +266,13 @@
   },
   {
     "packageName": "MariaDB",
-    "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-MariaDB",
-    "version": "10.x"
+    "description": "https://mariadb.org/mariadb/all-releases/",
+    "version": "Latest"
+  },
+  {
+    "packageName": "MongoDB Drivers",
+    "description": "https://github.com/linux-on-ibm-z/docs/wiki/MongoDB-Drivers",
+    "version": "Drivers link"
   },
   {
     "packageName": "MySQL",
@@ -247,12 +312,22 @@
   {
     "packageName": "PostgreSQL",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-PostgreSQL",
-    "version": "14.x/15.x"
+    "version": "14.x/15.x/16.x"
+  },
+  {
+    "packageName": "Prometheus",
+    "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Prometheus",
+    "version": "Latest"
+  },
+  {
+    "packageName": "Protobuf",
+    "description": "https://github.com/protocolbuffers/protobuf/releases/",
+    "version": "Download"
   },
   {
     "packageName": "Puppet",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Puppet",
-    "version": "7.x"
+    "version": "8.x"
   },
   {
     "packageName": "Python",
@@ -285,9 +360,19 @@
     "version": "3.x"
   },
   {
+    "packageName": "Salt",
+    "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-SaltStack",
+    "version": "3006.x"
+  },
+  {
     "packageName": "Scala",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Scala",
     "version": "3.x"
+  },
+  {
+    "packageName": "Snappy-Java",
+    "description": "https://repo1.maven.org/maven2/org/xerial/snappy/snappy-java/",
+    "version": "Download"
   },
   {
     "packageName": "Sonarqube",
@@ -328,5 +413,10 @@
     "packageName": "Zabbix",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Zabbix",
     "version": "6.x"
+  },
+  {
+    "packageName": "Spire",
+    "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Spire",
+    "version": "1.x"
   }
 ]
