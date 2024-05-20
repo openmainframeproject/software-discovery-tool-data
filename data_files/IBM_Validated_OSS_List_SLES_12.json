@@ -1,18 +1,13 @@
 [
   {
-    "packageName": "Alfresco",
-    "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Alfresco",
-    "version": "7.x"
-  },
-  {
     "packageName": "Ansible",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Ansible",
     "version": "Latest"
   },
   {
     "packageName": "AntLR",
-    "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-AntLR",
-    "version": "3.x, 4.x"
+    "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-ANTLR-4",
+    "version": "4.x"
   },
   {
     "packageName": "Apache ActiveMQ",
@@ -75,14 +70,14 @@
     "version": "1.x"
   },
   {
-    "packageName": "Apache Solr",
-    "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Apache-Solr",
-    "version": "Latest"
-  },
-  {
     "packageName": "Apache Spark",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Apache-Spark",
     "version": "3.x"
+  },
+  {
+    "packageName": "Apache Solr",
+    "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Apache-Solr",
+    "version": "Latest"
   },
   {
     "packageName": "Apache Storm",
@@ -116,8 +111,8 @@
   },
   {
     "packageName": "Calico",
-    "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Calico",
-    "version": "2.x, 3.x"
+    "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Calico-3.x",
+    "version": "3.x"
   },
   {
     "packageName": "Chef Infra Client",
@@ -133,11 +128,6 @@
     "packageName": "CoreDNS",
     "description": "https://github.com/coredns/coredns/releases/",
     "version": "Download"
-  },
-  {
-    "packageName": "Couchbase",
-    "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Couchbase",
-    "version": "7.x"
   },
   {
     "packageName": "Cruise Control",
@@ -172,7 +162,7 @@
   {
     "packageName": "Erlang",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Erlang",
-    "version": "25.x"
+    "version": "26.x"
   },
   {
     "packageName": "etcd",
@@ -192,7 +182,7 @@
   {
     "packageName": "GlusterFS",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-GlusterFS",
-    "version": "10.x"
+    "version": "11.x"
   },
   {
     "packageName": "Go",
@@ -200,19 +190,9 @@
     "version": "Download"
   },
   {
-    "packageName": "Grafana",
-    "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Grafana",
-    "version": "9.x"
-  },
-  {
     "packageName": "HAProxy",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-HAProxy",
     "version": "2.x"
-  },
-  {
-    "packageName": "Heketi",
-    "description": "https://github.com/heketi/heketi/releases",
-    "version": "Download"
   },
   {
     "packageName": "Helm",
@@ -245,13 +225,18 @@
     "version": "Latest"
   },
   {
-    "packageName": "Kube Router",
-    "description": "https://github.com/cloudnativelabs/kube-router/releases/",
+    "packageName": "Kubernetes",
+    "description": "https://github.com/kubernetes/kubernetes/tree/master/CHANGELOG",
     "version": "Download"
   },
   {
-    "packageName": "Kubernetes",
-    "description": "https://github.com/kubernetes/kubernetes/tree/master/CHANGELOG",
+    "packageName": "Kubernetes Minikube",
+    "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Kubernetes-Minikube",
+    "version": "1.x"
+  },
+  {
+    "packageName": "Kube Router",
+    "description": "https://github.com/cloudnativelabs/kube-router/releases/",
     "version": "Download"
   },
   {
@@ -276,8 +261,8 @@
   },
   {
     "packageName": "MariaDB",
-    "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-MariaDB",
-    "version": "10.x"
+    "description": "https://mariadb.org/mariadb/all-releases/",
+    "version": "Latest"
   },
   {
     "packageName": "Mesosphere Marathon",
@@ -332,7 +317,7 @@
   {
     "packageName": "PostgreSQL",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-PostgreSQL",
-    "version": "14.x/15.x"
+    "version": "14.x/15.x/16.x"
   },
   {
     "packageName": "Prometheus",
@@ -347,7 +332,7 @@
   {
     "packageName": "Puppet",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Puppet",
-    "version": "7.x"
+    "version": "8.x"
   },
   {
     "packageName": "PyPy",
@@ -396,8 +381,8 @@
   },
   {
     "packageName": "Salt",
-    "description": "https://docs.saltstack.com/en/latest/topics/installation/index.html",
-    "version": "Latest"
+    "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-SaltStack",
+    "version": "3006.x"
   },
   {
     "packageName": "Scala",
@@ -420,11 +405,6 @@
     "version": "Latest"
   },
   {
-    "packageName": "Sysdig",
-    "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-sysdig",
-    "version": "0.x"
-  },
-  {
     "packageName": "Terraform",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Terraform",
     "version": "1.x"
@@ -433,11 +413,6 @@
     "packageName": "V8 JavaScript",
     "description": "https://v8.dev/docs/ports#s390-(not-officially-supported)",
     "version": "Latest"
-  },
-  {
-    "packageName": "Weave Scope",
-    "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Scope",
-    "version": "1.x"
   },
   {
     "packageName": "WildFly (JBoss)",
@@ -463,5 +438,10 @@
     "packageName": "Zabbix",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Zabbix",
     "version": "6.x"
+  },
+  {
+    "packageName": "Spire",
+    "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Spire",
+    "version": "1.x"
   }
 ]
