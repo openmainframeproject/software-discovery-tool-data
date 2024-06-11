@@ -53,5 +53,5 @@
         "packageName":"zECS",
         "description":"Enterprise Caching System (zECS) is a cloud enabled distributed key/value pair caching service https://github.com/walmartlabs/zECS",
         "version":""
-    },
+    }
 ]
