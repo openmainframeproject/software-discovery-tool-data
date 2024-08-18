@@ -116,8 +116,8 @@
   },
   {
     "packageName": "Chef Infra Client",
-    "description": "https://www.chef.io/downloads/tools/infra-client",
-    "version": "Download(18.x)"
+    "description": "https://docs.chef.io/chef_install_script/#unix-linux-and-macos",
+    "version": "Latest"
   },
   {
     "packageName": "Consul",
@@ -172,7 +172,7 @@
   {
     "packageName": "Erlang",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Erlang",
-    "version": "26.x"
+    "version": "27.x"
   },
   {
     "packageName": "etcd",
@@ -202,12 +202,12 @@
   {
     "packageName": "Grafana",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Grafana",
-    "version": "10.x"
+    "version": "11.x"
   },
   {
     "packageName": "HAProxy",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-HAProxy",
-    "version": "2.x"
+    "version": "3.x"
   },
   {
     "packageName": "Helm",
@@ -412,7 +412,7 @@
   {
     "packageName": "Salt",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-SaltStack",
-    "version": "3006.x"
+    "version": "3007.x"
   },
   {
     "packageName": "Scala",
