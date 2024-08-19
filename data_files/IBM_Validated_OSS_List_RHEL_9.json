@@ -167,7 +167,7 @@
   {
     "packageName": "Erlang",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Erlang",
-    "version": "26.x"
+    "version": "27.x"
   },
   {
     "packageName": "etcd",
@@ -192,12 +192,12 @@
   {
     "packageName": "Grafana",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Grafana",
-    "version": "10.x"
+    "version": "11.x"
   },
   {
     "packageName": "HAProxy",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-HAProxy",
-    "version": "2.x"
+    "version": "3.x"
   },
   {
     "packageName": "Helm",
@@ -362,12 +362,17 @@
   {
     "packageName": "Salt",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-SaltStack",
-    "version": "3006.x"
+    "version": "3007.x"
   },
   {
     "packageName": "Scala",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Scala",
     "version": "3.x"
+  },
+  {
+    "packageName": "ScyllaDB",
+    "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-ScyllaDB",
+    "version": "5.x"
   },
   {
     "packageName": "Snappy-Java",
@@ -388,6 +393,11 @@
     "packageName": "Sysdig",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-sysdig",
     "version": "0.x"
+  },
+  {
+    "packageName": "Strimzi Kafka",
+    "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Strimzi-Kafka",
+    "version": "Latest"
   },
   {
     "packageName": "Terraform",
@@ -413,6 +423,11 @@
     "packageName": "Zabbix",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Zabbix",
     "version": "6.x"
+  },
+  {
+    "packageName": "Zerotier",
+    "description": "https://www.zerotier.com/download/",
+    "version": "Download"
   },
   {
     "packageName": "Spire",
