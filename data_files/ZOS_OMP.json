@@ -1,17 +1,7 @@
 [
     {
-        "packageName":"binutils",
-        "description":"Ambitus hosted port of the GNU binutils to z/OS",
-        "version":""
-    },
-    {
         "packageName":"Galasa",
         "description":"Galasa is an integration test framework https://github.com/galasa-dev",
-        "version":""
-    },
-    {
-        "packageName":"GCC",
-        "description":"Ambitus hosted port of the GNU GCC compiler to z/OS",
         "version":""
     },
     {
@@ -20,23 +10,8 @@
         "version":""
     },
     {
-        "packageName":"Glibc",
-        "description":"Ambitus hosted port of the GNU C library to z/OS",
-        "version":""
-    },
-    {
         "packageName":"Polycephaly",
         "description":"Polycephaly enables developers to build z/OS source code files with Jenkins and Git",
-        "version":""
-    },
-    {
-        "packageName":"Pyzklin",
-        "description":"Amibitus hosted Python interfaces for resource management on z/OS. A place to create building blocks for workflows and pipelines",
-        "version":""
-    },
-    {
-        "packageName":"zML",
-        "description":"Ambitus hosted programing language agnostic macro description format. Provides access to external published z/OS data areas through a markup language interface",
         "version":""
     },
     {
@@ -45,18 +20,8 @@
         "version":""
     },
     {
-        "packageName":"zos-native",
-        "description":"Ambitus hosted tools, examples, and how-to information for working in a z/OS USS environment. Geared toward Linux users who need to inow how to use z/OS",
-        "version":""
-    },
-    {
         "packageName":"Zowe",
         "description":"Zowe, modern interfaces to interact with z/OS, allows to work with z/OS in a way that is similar to what you experience on cloud platforms today https://www.zowe.org/download.html",
-        "version":""
-    },
-    {
-        "packageName":"zTron",
-        "description":"Ambitus hosted lightweight pipeline framework for creating Python workflows as standalone application and/or Jupyter notebooks",
         "version":""
     }
 ]
