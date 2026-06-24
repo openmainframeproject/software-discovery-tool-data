@@ -1,7 +1,12 @@
 [
   {
+    "packageName": "Alfresco",
+    "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Alfresco",
+    "version": "25.x"
+  },
+  {
     "packageName": "Ansible",
-    "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Ansible",
+    "description": "https://docs.ansible.com/projects/ansible/latest/installation_guide/intro_installation.html",
     "version": "Latest"
   },
   {
@@ -22,12 +27,7 @@
   {
     "packageName": "Apache Cassandra",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Apache-Cassandra",
-    "version": "3.x, 4.x"
-  },
-  {
-    "packageName": "Apache Flume",
-    "description": "https://flume.apache.org/download.html",
-    "version": "Download"
+    "version": "3.x, 4.x, 5.x"
   },
   {
     "packageName": "Apache Geode",
@@ -65,14 +65,9 @@
     "version": "Download"
   },
   {
-    "packageName": "Apache Mesos",
-    "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Apache-Mesos",
-    "version": "1.x"
-  },
-  {
     "packageName": "Apache Spark",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Apache-Spark",
-    "version": "3.x"
+    "version": "4.x"
   },
   {
     "packageName": "Apache Solr",
@@ -97,7 +92,7 @@
   {
     "packageName": "Beats",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Open-Source-Elastic-Stack",
-    "version": "8.x"
+    "version": "9.x"
   },
   {
     "packageName": "Caddy",
@@ -116,8 +111,8 @@
   },
   {
     "packageName": "Chef Infra Client",
-    "description": "https://www.chef.io/downloads/tools/infra-client",
-    "version": "Download(18.x)"
+    "description": "https://docs.chef.io/chef_install_script/#unix-linux-and-macos",
+    "version": "Latest"
   },
   {
     "packageName": "Consul",
@@ -132,7 +127,7 @@
   {
     "packageName": "Couchbase",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Couchbase",
-    "version": "7.x"
+    "version": "8.x"
   },
   {
     "packageName": "Cruise Control",
@@ -167,12 +162,12 @@
   {
     "packageName": "ElasticSearch",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Open-Source-Elastic-Stack",
-    "version": "8.x"
+    "version": "9.x"
   },
   {
     "packageName": "Erlang",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Erlang",
-    "version": "26.x"
+    "version": "29.x"
   },
   {
     "packageName": "etcd",
@@ -202,12 +197,12 @@
   {
     "packageName": "Grafana",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Grafana",
-    "version": "10.x"
+    "version": "13.x"
   },
   {
     "packageName": "HAProxy",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-HAProxy",
-    "version": "2.x"
+    "version": "3.x"
   },
   {
     "packageName": "Helm",
@@ -227,7 +222,7 @@
   {
     "packageName": "InfluxDB",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-InfluxDB",
-    "version": "2.x"
+    "version": "3.x"
   },
   {
     "packageName": "Jenkins",
@@ -242,12 +237,12 @@
   {
     "packageName": "Keystone (Openstack)",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Keystone",
-    "version": "22.x"
+    "version": "29.x"
   },
   {
     "packageName": "Kibana",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Open-Source-Elastic-Stack",
-    "version": "8.x"
+    "version": "9.x"
   },
   {
     "packageName": "Kubernetes",
@@ -272,7 +267,7 @@
   {
     "packageName": "Logstash",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Open-Source-Elastic-Stack",
-    "version": "8.x"
+    "version": "9.x"
   },
   {
     "packageName": "LuaJIT",
@@ -286,17 +281,7 @@
   },
   {
     "packageName": "MariaDB",
-    "description": "https://mariadb.org/mariadb/all-releases/",
-    "version": "Latest"
-  },
-  {
-    "packageName": "Mesosphere Marathon",
-    "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Marathon",
-    "version": "1.x"
-  },
-  {
-    "packageName": "MongoDB",
-    "description": "https://www.mongodb.com/docs/manual/installation/",
+    "description": "https://mariadb.org/download/?t=repo-config",
     "version": "Latest"
   },
   {
@@ -307,7 +292,7 @@
   {
     "packageName": "MySQL",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-MySQL",
-    "version": "8.x"
+    "version": "8.x, 9.x"
   },
   {
     "packageName": "Neo4j",
@@ -347,7 +332,7 @@
   {
     "packageName": "PostgreSQL",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-PostgreSQL",
-    "version": "14.x/15.x/16.x"
+    "version": "16.x/17.x/18.x"
   },
   {
     "packageName": "Prometheus",
@@ -371,8 +356,8 @@
   },
   {
     "packageName": "Python",
-    "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Python",
-    "version": "3.x+"
+    "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Python-3.x",
+    "version": "3.x"
   },
   {
     "packageName": "R",
@@ -382,12 +367,12 @@
   {
     "packageName": "RabbitMQ",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-RabbitMQ",
-    "version": "3.x"
+    "version": "4.x"
   },
   {
     "packageName": "Rails",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Ruby-on-Rails",
-    "version": "7.x"
+    "version": "8.x"
   },
   {
     "packageName": "Redis",
@@ -407,17 +392,17 @@
   {
     "packageName": "Ruby",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Ruby",
-    "version": "3.x"
+    "version": "4.x"
   },
   {
     "packageName": "Salt",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-SaltStack",
-    "version": "3006.x"
+    "version": "3007.x"
   },
   {
     "packageName": "Scala",
-    "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Scala",
-    "version": "2.x, 3.x"
+    "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Scala-3.x",
+    "version": "3.x"
   },
   {
     "packageName": "Snappy-Java",
@@ -427,7 +412,7 @@
   {
     "packageName": "Sonarqube",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-SonarQube",
-    "version": "10.x"
+    "version": "26.x"
   },
   {
     "packageName": "Strimzi Kafka",
@@ -436,8 +421,8 @@
   },
   {
     "packageName": "Terraform",
-    "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Terraform",
-    "version": "1.x"
+    "description": "https://developer.hashicorp.com/terraform/install#linux",
+    "version": "Download"
   },
   {
     "packageName": "V8 JavaScript",
@@ -448,11 +433,6 @@
     "packageName": "WildFly (JBoss)",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-WildFly",
     "version": "Latest"
-  },
-  {
-    "packageName": "Word2Vec",
-    "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-word2vec",
-    "version": "0.1"
   },
   {
     "packageName": "WordPress",
@@ -467,11 +447,26 @@
   {
     "packageName": "Zabbix",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Zabbix",
-    "version": "6.x"
+    "version": "7.x"
   },
   {
     "packageName": "Spire",
     "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Spire",
     "version": "1.x"
+  },
+  {
+    "packageName": "Envoy",
+    "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Envoy",
+    "version": "1.x"
+  },
+  {
+    "packageName": "Kind",
+    "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-Kind",
+    "version": "0.x"
+  },
+  {
+    "packageName": "pgvector",
+    "description": "https://github.com/linux-on-ibm-z/docs/wiki/Building-pgvector",
+    "version": "0.x"
   }
 ]
