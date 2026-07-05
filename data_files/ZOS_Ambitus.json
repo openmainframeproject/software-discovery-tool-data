@@ -1,0 +1,32 @@
+[
+    {
+        "packageName":"AI on Z Solution Templates",
+        "description":"AI Solution Templates are a suite of pre-built blueprints that guide you through the full AI lifecycle on IBM Z with various enterprise use cases while leveraging a variety of technologies",
+        "version":""
+    },
+    {
+        "packageName":"cbexplorer",
+        "description":"z/OS control block explorer",
+        "version":""
+    },
+    {
+        "packageName":"pyracf",
+        "description":"Python interface to RACF",
+        "version":""
+    },
+    {
+        "packageName":"pyzkiln",
+        "description":"A collection of Python building blocks",
+        "version":""
+    },
+    {
+        "packageName":"ztron",
+        "description":"A lightweight automation and logging pipeline for z/OS",
+        "version":""
+    },
+    {
+        "packageName":"zml",
+        "description":"Z markup language specification",
+        "version":""
+    }
+]
