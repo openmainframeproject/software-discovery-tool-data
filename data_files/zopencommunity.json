@@ -1,0 +1,1647 @@
+[
+  {
+    "packageName": "libevent",
+    "description": "This is a zopen community port of libevent. Visit https://github.com/zopencommunity/libeventport for more details.",
+    "version": "1.0.0.0"
+  },
+  {
+    "packageName": "zedc_ascii",
+    "description": "This is a zopen community port of zedc_ascii. Visit https://github.com/zopencommunity/zedc_asciiport for more details.",
+    "version": "1.2.11"
+  },
+  {
+    "packageName": "spdlog",
+    "description": "This is a zopen community port of spdlog. Visit https://github.com/zopencommunity/spdlogport for more details.",
+    "version": "1.17.0"
+  },
+  {
+    "packageName": "npth",
+    "description": "This is a zopen community port of npth. Visit https://github.com/zopencommunity/npthport for more details.",
+    "version": "1.8.0.0"
+  },
+  {
+    "packageName": "meta",
+    "description": "This is a zopen community port of meta. Visit https://github.com/zopencommunity/metaport for more details.",
+    "version": "0.8.6"
+  },
+  {
+    "packageName": "terraform",
+    "description": "This is a zopen community port of terraform. Visit https://github.com/zopencommunity/terraformport for more details.",
+    "version": "1.7.4.0"
+  },
+  {
+    "packageName": "prompters",
+    "description": "This is a zopen community port of prompters. Visit https://github.com/zopencommunity/promptersport for more details.",
+    "version": "1.0.0"
+  },
+  {
+    "packageName": "check_python",
+    "description": "This is a zopen community port of check_python. Visit https://github.com/zopencommunity/check_pythonport for more details.",
+    "version": "3.12.13"
+  },
+  {
+    "packageName": "bzip2",
+    "description": "This is a zopen community port of bzip2. Visit https://github.com/zopencommunity/bzip2port for more details.",
+    "version": "1.0.8"
+  },
+  {
+    "packageName": "check_java",
+    "description": "This is a zopen community port of check_java. Visit https://github.com/zopencommunity/check_javaport for more details.",
+    "version": "17.0.12.0"
+  },
+  {
+    "packageName": "xz",
+    "description": "This is a zopen community port of xz. Visit https://github.com/zopencommunity/xzport for more details.",
+    "version": "5.8.4"
+  },
+  {
+    "packageName": "emacs",
+    "description": "This is a zopen community port of emacs. Visit https://github.com/zopencommunity/emacsport for more details.",
+    "version": "29.4"
+  },
+  {
+    "packageName": "lua",
+    "description": "This is a zopen community port of lua. Visit https://github.com/zopencommunity/luaport for more details.",
+    "version": "5.5.0"
+  },
+  {
+    "packageName": "s5cmd",
+    "description": "This is a zopen community port of s5cmd. Visit https://github.com/zopencommunity/s5cmdport for more details.",
+    "version": "2.2.2"
+  },
+  {
+    "packageName": "maven",
+    "description": "This is a zopen community port of maven. Visit https://github.com/zopencommunity/mavenport for more details.",
+    "version": "3.9.14"
+  },
+  {
+    "packageName": "libgcrypt",
+    "description": "This is a zopen community port of libgcrypt. Visit https://github.com/zopencommunity/libgcryptport for more details.",
+    "version": "1.12.4"
+  },
+  {
+    "packageName": "unzip",
+    "description": "This is a zopen community port of unzip. Visit https://github.com/zopencommunity/unzipport for more details.",
+    "version": "6.00"
+  },
+  {
+    "packageName": "osv-scanner",
+    "description": "This is a zopen community port of osv-scanner. Visit https://github.com/zopencommunity/osv-scannerport for more details.",
+    "version": "1.6.2.0"
+  },
+  {
+    "packageName": "my_basic",
+    "description": "This is a zopen community port of my_basic. Visit https://github.com/zopencommunity/my_basicport for more details.",
+    "version": "1.0.0.0"
+  },
+  {
+    "packageName": "zoslib",
+    "description": "This is a zopen community port of zoslib. Visit https://github.com/zopencommunity/zoslibport for more details.",
+    "version": "4.0.6"
+  },
+  {
+    "packageName": "libgdbm",
+    "description": "This is a zopen community port of libgdbm. Visit https://github.com/zopencommunity/libgdbmport for more details.",
+    "version": "1.26"
+  },
+  {
+    "packageName": "depot_tools",
+    "description": "This is a zopen community port of depot_tools. Visit https://github.com/zopencommunity/depot_toolsport for more details.",
+    "version": "1.0.0.0"
+  },
+  {
+    "packageName": "libxml2",
+    "description": "This is a zopen community port of libxml2. Visit https://github.com/zopencommunity/libxml2port for more details.",
+    "version": "2.9.12"
+  },
+  {
+    "packageName": "util-linux",
+    "description": "This is a zopen community port of util-linux. Visit https://github.com/zopencommunity/util-linuxport for more details.",
+    "version": "2.41.3"
+  },
+  {
+    "packageName": "popt",
+    "description": "This is a zopen community port of popt. Visit https://github.com/zopencommunity/poptport for more details.",
+    "version": "1.0.0"
+  },
+  {
+    "packageName": "moreutils",
+    "description": "This is a zopen community port of moreutils. Visit https://github.com/zopencommunity/moreutilsport for more details.",
+    "version": "0.70"
+  },
+  {
+    "packageName": "ant",
+    "description": "This is a zopen community port of ant. Visit https://github.com/zopencommunity/antport for more details.",
+    "version": "1.10.17"
+  },
+  {
+    "packageName": "githubcli",
+    "description": "This is a zopen community port of githubcli. Visit https://github.com/zopencommunity/githubcliport for more details.",
+    "version": "2.97.0"
+  },
+  {
+    "packageName": "protobuf",
+    "description": "This is a zopen community port of protobuf. Visit https://github.com/zopencommunity/protobufport for more details.",
+    "version": "29.3"
+  },
+  {
+    "packageName": "vim",
+    "description": "This is a zopen community port of vim. Visit https://github.com/zopencommunity/vimport for more details.",
+    "version": "9.2.1050"
+  },
+  {
+    "packageName": "godsect",
+    "description": "This is a zopen community port of godsect. Visit https://github.com/zopencommunity/godsectport for more details.",
+    "version": "1.0.0.0"
+  },
+  {
+    "packageName": "librdkafka",
+    "description": "This is a zopen community port of librdkafka. Visit https://github.com/zopencommunity/librdkafkaport for more details.",
+    "version": "2.15.0"
+  },
+  {
+    "packageName": "bison",
+    "description": "This is a zopen community port of bison. Visit https://github.com/zopencommunity/bisonport for more details.",
+    "version": "3.8.2"
+  },
+  {
+    "packageName": "patch",
+    "description": "This is a zopen community port of patch. Visit https://github.com/zopencommunity/patchport for more details.",
+    "version": "2.8"
+  },
+  {
+    "packageName": "shdoc",
+    "description": "This is a zopen community port of shdoc. Visit https://github.com/zopencommunity/shdocport for more details.",
+    "version": "1.2.0.0"
+  },
+  {
+    "packageName": "zlib",
+    "description": "This is a zopen community port of zlib. Visit https://github.com/zopencommunity/zlibport for more details.",
+    "version": "1.3.2"
+  },
+  {
+    "packageName": "libpcre",
+    "description": "This is a zopen community port of libpcre. Visit https://github.com/zopencommunity/libpcreport for more details.",
+    "version": "8.45.0.0"
+  },
+  {
+    "packageName": "cjson",
+    "description": "This is a zopen community port of cjson. Visit https://github.com/zopencommunity/cjsonport for more details.",
+    "version": "1.7.19"
+  },
+  {
+    "packageName": "lazygit",
+    "description": "This is a zopen community port of lazygit. Visit https://github.com/zopencommunity/lazygitport for more details.",
+    "version": "0.60.0"
+  },
+  {
+    "packageName": "thesilversearcher",
+    "description": "This is a zopen community port of thesilversearcher. Visit https://github.com/zopencommunity/thesilversearcherport for more details.",
+    "version": "2.2.0.0"
+  },
+  {
+    "packageName": "bump",
+    "description": "This is a zopen community port of bump. Visit https://github.com/zopencommunity/bumpport for more details.",
+    "version": "1.0.0"
+  },
+  {
+    "packageName": "coreutils",
+    "description": "This is a zopen community port of coreutils. Visit https://github.com/zopencommunity/coreutilsport for more details.",
+    "version": "9.11"
+  },
+  {
+    "packageName": "autoconf",
+    "description": "This is a zopen community port of autoconf. Visit https://github.com/zopencommunity/autoconfport for more details.",
+    "version": "2.73"
+  },
+  {
+    "packageName": "zotsample",
+    "description": "This is a zopen community port of zotsample. Visit https://github.com/zopencommunity/zotsampleport for more details.",
+    "version": "1.1.0.0"
+  },
+  {
+    "packageName": "which",
+    "description": "This is a zopen community port of which. Visit https://github.com/zopencommunity/whichport for more details.",
+    "version": "2.25"
+  },
+  {
+    "packageName": "meson",
+    "description": "This is a zopen community port of meson. Visit https://github.com/zopencommunity/mesonport for more details.",
+    "version": "1.11.2"
+  },
+  {
+    "packageName": "direnv",
+    "description": "This is a zopen community port of direnv. Visit https://github.com/zopencommunity/direnvport for more details.",
+    "version": "2.37.1"
+  },
+  {
+    "packageName": "less",
+    "description": "This is a zopen community port of less. Visit https://github.com/zopencommunity/lessport for more details.",
+    "version": "710"
+  },
+  {
+    "packageName": "cppcheck",
+    "description": "This is a zopen community port of cppcheck. Visit https://github.com/zopencommunity/cppcheckport for more details.",
+    "version": "1.0.0.0"
+  },
+  {
+    "packageName": "libtool",
+    "description": "This is a zopen community port of libtool. Visit https://github.com/zopencommunity/libtoolport for more details.",
+    "version": "2.4"
+  },
+  {
+    "packageName": "nginx",
+    "description": "This is a zopen community port of nginx. Visit https://github.com/zopencommunity/nginxport for more details.",
+    "version": "1.29.5"
+  },
+  {
+    "packageName": "ctags",
+    "description": "This is a zopen community port of ctags. Visit https://github.com/zopencommunity/ctagsport for more details.",
+    "version": "6.2.1"
+  },
+  {
+    "packageName": "libksba",
+    "description": "This is a zopen community port of libksba. Visit https://github.com/zopencommunity/libksbaport for more details.",
+    "version": "1.8.0"
+  },
+  {
+    "packageName": "findutils",
+    "description": "This is a zopen community port of findutils. Visit https://github.com/zopencommunity/findutilsport for more details.",
+    "version": "4.10.0"
+  },
+  {
+    "packageName": "libgpgerror",
+    "description": "This is a zopen community port of libgpgerror. Visit https://github.com/zopencommunity/libgpgerrorport for more details.",
+    "version": "1.61"
+  },
+  {
+    "packageName": "groff",
+    "description": "This is a zopen community port of groff. Visit https://github.com/zopencommunity/groffport for more details.",
+    "version": "1.23.0.0"
+  },
+  {
+    "packageName": "libiconv",
+    "description": "This is a zopen community port of libiconv. Visit https://github.com/zopencommunity/libiconvport for more details.",
+    "version": "1.19"
+  },
+  {
+    "packageName": "zusage",
+    "description": "This is a zopen community port of zusage. Visit https://github.com/zopencommunity/zusageport for more details.",
+    "version": "1.0.0.0"
+  },
+  {
+    "packageName": "gpg",
+    "description": "This is a zopen community port of gpg. Visit https://github.com/zopencommunity/gpgport for more details.",
+    "version": "2.5.23"
+  },
+  {
+    "packageName": "neovim",
+    "description": "This is a zopen community port of neovim. Visit https://github.com/zopencommunity/neovimport for more details.",
+    "version": "0.12.5"
+  },
+  {
+    "packageName": "nano",
+    "description": "This is a zopen community port of nano. Visit https://github.com/zopencommunity/nanoport for more details.",
+    "version": "9.0"
+  },
+  {
+    "packageName": "boost",
+    "description": "This is a zopen community port of boost. Visit https://github.com/zopencommunity/boostport for more details.",
+    "version": "1.86.0.0"
+  },
+  {
+    "packageName": "pkgconfig",
+    "description": "This is a zopen community port of pkgconfig. Visit https://github.com/zopencommunity/pkgconfigport for more details.",
+    "version": "0.29.2.0"
+  },
+  {
+    "packageName": "git-lfs",
+    "description": "This is a zopen community port of git-lfs. Visit https://github.com/zopencommunity/git-lfsport for more details.",
+    "version": "3.8.0"
+  },
+  {
+    "packageName": "man-db",
+    "description": "This is a zopen community port of man-db. Visit https://github.com/zopencommunity/man-dbport for more details.",
+    "version": "2.13.1"
+  },
+  {
+    "packageName": "libssh2",
+    "description": "This is a zopen community port of libssh2. Visit https://github.com/zopencommunity/libssh2port for more details.",
+    "version": "1.11.1"
+  },
+  {
+    "packageName": "gettext",
+    "description": "This is a zopen community port of gettext. Visit https://github.com/zopencommunity/gettextport for more details.",
+    "version": "1.0"
+  },
+  {
+    "packageName": "git",
+    "description": "This is a zopen community port of git. Visit https://github.com/zopencommunity/gitport for more details.",
+    "version": "2.55.0"
+  },
+  {
+    "packageName": "gzip",
+    "description": "This is a zopen community port of gzip. Visit https://github.com/zopencommunity/gzipport for more details.",
+    "version": "1.14"
+  },
+  {
+    "packageName": "ed",
+    "description": "This is a zopen community port of ed. Visit https://github.com/zopencommunity/edport for more details.",
+    "version": "1.22.6"
+  },
+  {
+    "packageName": "gitlabcli",
+    "description": "This is a zopen community port of gitlabcli. Visit https://github.com/zopencommunity/gitlabcliport for more details.",
+    "version": "1.57.0.0"
+  },
+  {
+    "packageName": "m4",
+    "description": "This is a zopen community port of m4. Visit https://github.com/zopencommunity/m4port for more details.",
+    "version": "1.4.21"
+  },
+  {
+    "packageName": "zos-code-page-tools",
+    "description": "This is a zopen community port of zos-code-page-tools. Visit https://github.com/zopencommunity/zos-code-page-toolsport for more details.",
+    "version": "1.0.0.0"
+  },
+  {
+    "packageName": "groovy",
+    "description": "This is a zopen community port of groovy. Visit https://github.com/zopencommunity/groovyport for more details.",
+    "version": "5.1.2"
+  },
+  {
+    "packageName": "grep",
+    "description": "This is a zopen community port of grep. Visit https://github.com/zopencommunity/grepport for more details.",
+    "version": "3.12"
+  },
+  {
+    "packageName": "texinfo",
+    "description": "This is a zopen community port of texinfo. Visit https://github.com/zopencommunity/texinfoport for more details.",
+    "version": "7.2"
+  },
+  {
+    "packageName": "fq",
+    "description": "This is a zopen community port of fq. Visit https://github.com/zopencommunity/fqport for more details.",
+    "version": "0.18.0"
+  },
+  {
+    "packageName": "zstd",
+    "description": "This is a zopen community port of zstd. Visit https://github.com/zopencommunity/zstdport for more details.",
+    "version": "1.5.7"
+  },
+  {
+    "packageName": "conan",
+    "description": "This is a zopen community port of conan. Visit https://github.com/zopencommunity/conanport for more details.",
+    "version": "2.9.1.0"
+  },
+  {
+    "packageName": "php",
+    "description": "This is a zopen community port of php. Visit https://github.com/zopencommunity/phpport for more details.",
+    "version": "8.2.13.0"
+  },
+  {
+    "packageName": "cronie",
+    "description": "This is a zopen community port of cronie. Visit https://github.com/zopencommunity/cronieport for more details.",
+    "version": "1.7.2.0"
+  },
+  {
+    "packageName": "yq",
+    "description": "This is a zopen community port of yq. Visit https://github.com/zopencommunity/yqport for more details.",
+    "version": "4.53.6"
+  },
+  {
+    "packageName": "expect",
+    "description": "This is a zopen community port of expect. Visit https://github.com/zopencommunity/expectport for more details.",
+    "version": "5.45.4.0"
+  },
+  {
+    "packageName": "perl",
+    "description": "This is a zopen community port of perl. Visit https://github.com/zopencommunity/perlport for more details.",
+    "version": "5.44.0"
+  },
+  {
+    "packageName": "libassuan",
+    "description": "This is a zopen community port of libassuan. Visit https://github.com/zopencommunity/libassuanport for more details.",
+    "version": "3.0.2"
+  },
+  {
+    "packageName": "tcl",
+    "description": "This is a zopen community port of tcl. Visit https://github.com/zopencommunity/tclport for more details.",
+    "version": "9.0.2"
+  },
+  {
+    "packageName": "luv",
+    "description": "This is a zopen community port of luv. Visit https://github.com/zopencommunity/luvport for more details.",
+    "version": "1.0.0.0"
+  },
+  {
+    "packageName": "logrotate",
+    "description": "This is a zopen community port of logrotate. Visit https://github.com/zopencommunity/logrotateport for more details.",
+    "version": "1.0.0.0"
+  },
+  {
+    "packageName": "expat",
+    "description": "This is a zopen community port of expat. Visit https://github.com/zopencommunity/expatport for more details.",
+    "version": "2.5.0.0"
+  },
+  {
+    "packageName": "gum",
+    "description": "This is a zopen community port of gum. Visit https://github.com/zopencommunity/gumport for more details.",
+    "version": "0.17.0"
+  },
+  {
+    "packageName": "bash-completion",
+    "description": "This is a zopen community port of bash-completion. Visit https://github.com/zopencommunity/bash-completionport for more details.",
+    "version": "2.18.0"
+  },
+  {
+    "packageName": "libuv",
+    "description": "This is a zopen community port of libuv. Visit https://github.com/zopencommunity/libuvport for more details.",
+    "version": "1.52.1"
+  },
+  {
+    "packageName": "dialog",
+    "description": "This is a zopen community port of dialog. Visit https://github.com/zopencommunity/dialogport for more details.",
+    "version": "1.3.0.0"
+  },
+  {
+    "packageName": "hexcurse",
+    "description": "This is a zopen community port of hexcurse. Visit https://github.com/zopencommunity/hexcurseport for more details.",
+    "version": "1.70.0.0"
+  },
+  {
+    "packageName": "libbsd",
+    "description": "This is a zopen community port of libbsd. Visit https://github.com/zopencommunity/libbsdport for more details.",
+    "version": "0.12.2-dirty.0"
+  },
+  {
+    "packageName": "curl",
+    "description": "This is a zopen community port of curl. Visit https://github.com/zopencommunity/curlport for more details.",
+    "version": "8.22.0"
+  },
+  {
+    "packageName": "check_xlclang",
+    "description": "This is a zopen community port of check_xlclang. Visit https://github.com/zopencommunity/check_xlclangport for more details.",
+    "version": "2.4.1.0"
+  },
+  {
+    "packageName": "powerlinego",
+    "description": "This is a zopen community port of powerlinego. Visit https://github.com/zopencommunity/powerlinegoport for more details.",
+    "version": "1.25.0.0"
+  },
+  {
+    "packageName": "zlib-ng",
+    "description": "This is a zopen community port of zlib-ng. Visit https://github.com/zopencommunity/zlib-ngport for more details.",
+    "version": "2.3.90"
+  },
+  {
+    "packageName": "jenkins",
+    "description": "This is a zopen community port of jenkins. Visit https://github.com/zopencommunity/jenkinsport for more details.",
+    "version": "2.580"
+  },
+  {
+    "packageName": "tig",
+    "description": "This is a zopen community port of tig. Visit https://github.com/zopencommunity/tigport for more details.",
+    "version": "2.6.1"
+  },
+  {
+    "packageName": "libdio",
+    "description": "This is a zopen community port of libdio. Visit https://github.com/zopencommunity/libdioport for more details.",
+    "version": "0.1.0"
+  },
+  {
+    "packageName": "htop",
+    "description": "This is a zopen community port of htop. Visit https://github.com/zopencommunity/htopport for more details.",
+    "version": "3.4.1-990ed0e-dirty"
+  },
+  {
+    "packageName": "hugo",
+    "description": "This is a zopen community port of hugo. Visit https://github.com/zopencommunity/hugoport for more details.",
+    "version": "0.165.0"
+  },
+  {
+    "packageName": "prometheus",
+    "description": "This is a zopen community port of prometheus. Visit https://github.com/zopencommunity/prometheusport for more details.",
+    "version": "1.0.0.0"
+  },
+  {
+    "packageName": "hello",
+    "description": "This is a zopen community port of hello. Visit https://github.com/zopencommunity/helloport for more details.",
+    "version": "2.12.3"
+  },
+  {
+    "packageName": "screen",
+    "description": "This is a zopen community port of screen. Visit https://github.com/zopencommunity/screenport for more details.",
+    "version": "4.09.01"
+  },
+  {
+    "packageName": "getopt",
+    "description": "This is a zopen community port of getopt. Visit https://github.com/zopencommunity/getoptport for more details.",
+    "version": "1.1.6"
+  },
+  {
+    "packageName": "parse-gotest",
+    "description": "This is a zopen community port of parse-gotest. Visit https://github.com/zopencommunity/parse-gotestport for more details.",
+    "version": "1.0.0.0"
+  },
+  {
+    "packageName": "libserdes",
+    "description": "This is a zopen community port of libserdes. Visit https://github.com/zopencommunity/libserdesport for more details.",
+    "version": "1.0.0.0"
+  },
+  {
+    "packageName": "stow",
+    "description": "This is a zopen community port of stow. Visit https://github.com/zopencommunity/stowport for more details.",
+    "version": "1.0.0.0"
+  },
+  {
+    "packageName": "libmd",
+    "description": "This is a zopen community port of libmd. Visit https://github.com/zopencommunity/libmdport for more details.",
+    "version": "1.1.0.0"
+  },
+  {
+    "packageName": "librabbitmq",
+    "description": "This is a zopen community port of librabbitmq. Visit https://github.com/zopencommunity/librabbitmqport for more details.",
+    "version": "0.17.0"
+  },
+  {
+    "packageName": "cscope",
+    "description": "This is a zopen community port of cscope. Visit https://github.com/zopencommunity/cscopeport for more details.",
+    "version": "15.9.0.0"
+  },
+  {
+    "packageName": "automake",
+    "description": "This is a zopen community port of automake. Visit https://github.com/zopencommunity/automakeport for more details.",
+    "version": "1.19"
+  },
+  {
+    "packageName": "wget",
+    "description": "This is a zopen community port of wget. Visit https://github.com/zopencommunity/wgetport for more details.",
+    "version": "1.25.0.0"
+  },
+  {
+    "packageName": "diffutils",
+    "description": "This is a zopen community port of diffutils. Visit https://github.com/zopencommunity/diffutilsport for more details.",
+    "version": "3.12"
+  },
+  {
+    "packageName": "avro-c-lib",
+    "description": "This is a zopen community port of avro-c-lib. Visit https://github.com/zopencommunity/avro-c-libport for more details.",
+    "version": "1.0.0.0"
+  },
+  {
+    "packageName": "bash",
+    "description": "This is a zopen community port of bash. Visit https://github.com/zopencommunity/bashport for more details.",
+    "version": "5.3.15"
+  },
+  {
+    "packageName": "grafana",
+    "description": "This is a zopen community port of grafana. Visit https://github.com/zopencommunity/grafanaport for more details.",
+    "version": "11.1.3.0"
+  },
+  {
+    "packageName": "lynx",
+    "description": "This is a zopen community port of lynx. Visit https://github.com/zopencommunity/lynxport for more details.",
+    "version": "2.8.9rel.1"
+  },
+  {
+    "packageName": "murex",
+    "description": "This is a zopen community port of murex. Visit https://github.com/zopencommunity/murexport for more details.",
+    "version": "6.0.1000.0"
+  },
+  {
+    "packageName": "ncdu",
+    "description": "This is a zopen community port of ncdu. Visit https://github.com/zopencommunity/ncduport for more details.",
+    "version": "1.20"
+  },
+  {
+    "packageName": "cmake",
+    "description": "This is a zopen community port of cmake. Visit https://github.com/zopencommunity/cmakeport for more details.",
+    "version": "4.4.3"
+  },
+  {
+    "packageName": "llamacpp",
+    "description": "This is a zopen community port of llamacpp. Visit https://github.com/zopencommunity/llamacppport for more details.",
+    "version": "10182"
+  },
+  {
+    "packageName": "zospstree",
+    "description": "This is a zopen community port of zospstree. Visit https://github.com/zopencommunity/zospstreeport for more details.",
+    "version": "1.0.0.0"
+  },
+  {
+    "packageName": "doxygen",
+    "description": "This is a zopen community port of doxygen. Visit https://github.com/zopencommunity/doxygenport for more details.",
+    "version": "1.13.2"
+  },
+  {
+    "packageName": "frp",
+    "description": "This is a zopen community port of frp. Visit https://github.com/zopencommunity/frpport for more details.",
+    "version": "0.65.0"
+  },
+  {
+    "packageName": "gperf",
+    "description": "This is a zopen community port of gperf. Visit https://github.com/zopencommunity/gperfport for more details.",
+    "version": "3.1.0.0"
+  },
+  {
+    "packageName": "openssh",
+    "description": "This is a zopen community port of openssh. Visit https://github.com/zopencommunity/opensshport for more details.",
+    "version": "10.3"
+  },
+  {
+    "packageName": "fzf",
+    "description": "This is a zopen community port of fzf. Visit https://github.com/zopencommunity/fzfport for more details.",
+    "version": "0.74.2"
+  },
+  {
+    "packageName": "zip",
+    "description": "This is a zopen community port of zip. Visit https://github.com/zopencommunity/zipport for more details.",
+    "version": "3.0"
+  },
+  {
+    "packageName": "help2man",
+    "description": "This is a zopen community port of help2man. Visit https://github.com/zopencommunity/help2manport for more details.",
+    "version": "1.49.3.0"
+  },
+  {
+    "packageName": "rsync",
+    "description": "This is a zopen community port of rsync. Visit https://github.com/zopencommunity/rsyncport for more details.",
+    "version": "3.5.0-g2da17b83"
+  },
+  {
+    "packageName": "jansson",
+    "description": "This is a zopen community port of jansson. Visit https://github.com/zopencommunity/janssonport for more details.",
+    "version": "2.14.0.0"
+  },
+  {
+    "packageName": "check_clang",
+    "description": "This is a zopen community port of check_clang. Visit https://github.com/zopencommunity/check_clangport for more details.",
+    "version": "21.1.1"
+  },
+  {
+    "packageName": "multitail",
+    "description": "This is a zopen community port of multitail. Visit https://github.com/zopencommunity/multitailport for more details.",
+    "version": "1.0.0"
+  },
+  {
+    "packageName": "buildkite",
+    "description": "This is a zopen community port of buildkite. Visit https://github.com/zopencommunity/buildkiteport for more details.",
+    "version": "3.61.0.0"
+  },
+  {
+    "packageName": "re2c",
+    "description": "This is a zopen community port of re2c. Visit https://github.com/zopencommunity/re2cport for more details.",
+    "version": "4.5.1"
+  },
+  {
+    "packageName": "luarocks",
+    "description": "This is a zopen community port of luarocks. Visit https://github.com/zopencommunity/luarocksport for more details.",
+    "version": "3.9.2.0"
+  },
+  {
+    "packageName": "make",
+    "description": "This is a zopen community port of make. Visit https://github.com/zopencommunity/makeport for more details.",
+    "version": "4.4.1"
+  },
+  {
+    "packageName": "sqlite",
+    "description": "This is a zopen community port of sqlite. Visit https://github.com/zopencommunity/sqliteport for more details.",
+    "version": "3.48.0"
+  },
+  {
+    "packageName": "libxslt",
+    "description": "This is a zopen community port of libxslt. Visit https://github.com/zopencommunity/libxsltport for more details.",
+    "version": "1.1.45"
+  },
+  {
+    "packageName": "gnulib",
+    "description": "This is a zopen community port of gnulib. Visit https://github.com/zopencommunity/gnulibport for more details.",
+    "version": "1.0.1415-de58e6.0"
+  },
+  {
+    "packageName": "byacc",
+    "description": "This is a zopen community port of byacc. Visit https://github.com/zopencommunity/byaccport for more details.",
+    "version": "2.0"
+  },
+  {
+    "packageName": "nats",
+    "description": "This is a zopen community port of nats. Visit https://github.com/zopencommunity/natsport for more details.",
+    "version": "2.15.0"
+  },
+  {
+    "packageName": "lz4",
+    "description": "This is a zopen community port of lz4. Visit https://github.com/zopencommunity/lz4port for more details.",
+    "version": "1.10.0"
+  },
+  {
+    "packageName": "gitlab-runner",
+    "description": "This is a zopen community port of gitlab-runner. Visit https://github.com/zopencommunity/gitlab-runnerport for more details.",
+    "version": "17.6.0.0"
+  },
+  {
+    "packageName": "ncurses",
+    "description": "This is a zopen community port of ncurses. Visit https://github.com/zopencommunity/ncursesport for more details.",
+    "version": "6.6"
+  },
+  {
+    "packageName": "tree",
+    "description": "This is a zopen community port of tree. Visit https://github.com/zopencommunity/treeport for more details.",
+    "version": "2.2.1"
+  },
+  {
+    "packageName": "wharf",
+    "description": "This is a zopen community port of wharf. Visit https://github.com/zopencommunity/wharfport for more details.",
+    "version": "1.2.2.0"
+  },
+  {
+    "packageName": "oniguruma",
+    "description": "This is a zopen community port of oniguruma. Visit https://github.com/zopencommunity/onigurumaport for more details.",
+    "version": "6.9.10"
+  },
+  {
+    "packageName": "duckdb",
+    "description": "This is a zopen community port of duckdb. Visit https://github.com/zopencommunity/duckdbport for more details.",
+    "version": "0.9.2.0"
+  },
+  {
+    "packageName": "tar",
+    "description": "This is a zopen community port of tar. Visit https://github.com/zopencommunity/tarport for more details.",
+    "version": "1.35"
+  },
+  {
+    "packageName": "nghttp2",
+    "description": "This is a zopen community port of nghttp2. Visit https://github.com/zopencommunity/nghttp2port for more details.",
+    "version": "1.69.0"
+  },
+  {
+    "packageName": "libpipeline",
+    "description": "This is a zopen community port of libpipeline. Visit https://github.com/zopencommunity/libpipelineport for more details.",
+    "version": "1.5.7.0"
+  },
+  {
+    "packageName": "jq",
+    "description": "This is a zopen community port of jq. Visit https://github.com/zopencommunity/jqport for more details.",
+    "version": "1.8.2"
+  },
+  {
+    "packageName": "c3270",
+    "description": "This is a zopen community port of c3270. Visit https://github.com/zopencommunity/c3270port for more details.",
+    "version": "4.4.0.0"
+  },
+  {
+    "packageName": "gin",
+    "description": "This is a zopen community port of gin. Visit https://github.com/zopencommunity/ginport for more details.",
+    "version": "1.12.0"
+  },
+  {
+    "packageName": "openssl",
+    "description": "This is a zopen community port of openssl. Visit https://github.com/zopencommunity/opensslport for more details.",
+    "version": "4.0.2"
+  },
+  {
+    "packageName": "gmp",
+    "description": "This is a zopen community port of gmp. Visit https://github.com/zopencommunity/gmpport for more details.",
+    "version": "6.3.0"
+  },
+  {
+    "packageName": "sshpass",
+    "description": "This is a zopen community port of sshpass. Visit https://github.com/zopencommunity/sshpassport for more details.",
+    "version": "1.10"
+  },
+  {
+    "packageName": "git-extras",
+    "description": "This is a zopen community port of git-extras. Visit https://github.com/zopencommunity/git-extrasport for more details.",
+    "version": "1.0.0"
+  },
+  {
+    "packageName": "fx",
+    "description": "This is a zopen community port of fx. Visit https://github.com/zopencommunity/fxport for more details.",
+    "version": "39.2.0"
+  },
+  {
+    "packageName": "sed",
+    "description": "This is a zopen community port of sed. Visit https://github.com/zopencommunity/sedport for more details.",
+    "version": "4.10"
+  },
+  {
+    "packageName": "pinentry",
+    "description": "This is a zopen community port of pinentry. Visit https://github.com/zopencommunity/pinentryport for more details.",
+    "version": "1.3.3"
+  },
+  {
+    "packageName": "lpeg",
+    "description": "This is a zopen community port of lpeg. Visit https://github.com/zopencommunity/lpegport for more details.",
+    "version": "1.0.0.0"
+  },
+  {
+    "packageName": "xmlto",
+    "description": "This is a zopen community port of xmlto. Visit https://github.com/zopencommunity/xmltoport for more details.",
+    "version": "0.0.28.0"
+  },
+  {
+    "packageName": "gawk",
+    "description": "This is a zopen community port of gawk. Visit https://github.com/zopencommunity/gawkport for more details.",
+    "version": "5.4.1"
+  },
+  {
+    "packageName": "libgpgme",
+    "description": "This is a zopen community port of libgpgme. Visit https://github.com/zopencommunity/libgpgmeport for more details.",
+    "version": "2.2.0"
+  },
+  {
+    "packageName": "flex",
+    "description": "This is a zopen community port of flex. Visit https://github.com/zopencommunity/flexport for more details.",
+    "version": "2.6.4"
+  },
+  {
+    "packageName": "dos2unix",
+    "description": "This is a zopen community port of dos2unix. Visit https://github.com/zopencommunity/dos2unixport for more details.",
+    "version": "7.5.7"
+  },
+  {
+    "packageName": "gradle",
+    "description": "This is a zopen community port of gradle. Visit https://github.com/zopencommunity/gradleport for more details.",
+    "version": "8.14.0.0"
+  },
+  {
+    "packageName": "zigi",
+    "description": "This is a zopen community port of zigi. Visit https://github.com/zopencommunity/zigiport for more details.",
+    "version": "3.28"
+  },
+  {
+    "packageName": "redis",
+    "description": "This is a zopen community port of redis. Visit https://github.com/zopencommunity/redisport for more details.",
+    "version": "1.0.0"
+  },
+  {
+    "packageName": "netpbm",
+    "description": "This is a zopen community port of netpbm. Visit https://github.com/zopencommunity/netpbmport for more details.",
+    "version": "11.12.0"
+  },
+  {
+    "packageName": "ntbtls",
+    "description": "This is a zopen community port of ntbtls. Visit https://github.com/zopencommunity/ntbtlsport for more details.",
+    "version": "0.3.2.0"
+  },
+  {
+    "packageName": "check_go",
+    "description": "This is a zopen community port of check_go. Visit https://github.com/zopencommunity/check_goport for more details.",
+    "version": "1.0.0.0"
+  },
+  {
+    "packageName": "ninja",
+    "description": "This is a zopen community port of ninja. Visit https://github.com/zopencommunity/ninjaport for more details.",
+    "version": "1.13.2"
+  },
+  {
+    "packageName": "gn",
+    "description": "This is a zopen community port of gn. Visit https://github.com/zopencommunity/gnport for more details.",
+    "version": "1.0.0.0"
+  },
+  {
+    "packageName": "sudo",
+    "description": "This is a zopen community port of sudo. Visit https://github.com/zopencommunity/sudoport for more details.",
+    "version": "1.9.17"
+  },
+  {
+    "packageName": "procps",
+    "description": "This is a zopen community port of procps. Visit https://github.com/zopencommunity/procpsport for more details.",
+    "version": "4.0.3.0"
+  },
+  {
+    "packageName": "libsasl2",
+    "description": "This is a zopen community port of libsasl2. Visit https://github.com/zopencommunity/libsasl2port for more details.",
+    "version": "2.1.28.0"
+  },
+  {
+    "packageName": "zosnc",
+    "description": "This is a zopen community port of zosnc. Visit https://github.com/zopencommunity/zosncport for more details.",
+    "version": "1.0.0.0"
+  },
+  {
+    "packageName": "libpcre2",
+    "description": "This is a zopen community port of libpcre2. Visit https://github.com/zopencommunity/libpcre2port for more details.",
+    "version": "10.48"
+  },
+  {
+    "packageName": "xxhash",
+    "description": "This is a zopen community port of xxhash. Visit https://github.com/zopencommunity/xxhashport for more details.",
+    "version": "0.8.2.0"
+  },
+  {
+    "packageName": "ttype",
+    "description": "This is a zopen community port of ttype. Visit https://github.com/zopencommunity/ttypeport for more details.",
+    "version": "0.4.0.0"
+  },
+  {
+    "packageName": "victoriametrics",
+    "description": "This is a zopen community port of victoriametrics. Visit https://github.com/zopencommunity/victoriametricsport for more details.",
+    "version": "1.97.1"
+  },
+  {
+    "packageName": "caddy",
+    "description": "This is a zopen community port of caddy. Visit https://github.com/zopencommunity/caddyport for more details.",
+    "version": "2.7.6.0"
+  },
+  {
+    "packageName": "tmux",
+    "description": "This is a zopen community port of tmux. Visit https://github.com/zopencommunity/tmuxport for more details.",
+    "version": "3.7"
+  },
+  {
+    "packageName": "cpio",
+    "description": "This is a zopen community port of cpio. Visit https://github.com/zopencommunity/cpioport for more details.",
+    "version": "2.15"
+  },
+  {
+    "packageName": "uucp",
+    "description": "This is a zopen community port of uucp. Visit https://github.com/zopencommunity/uucpport for more details.",
+    "version": "1.07.0.0"
+  },
+  {
+    "packageName": "bc",
+    "description": "This is a zopen community port of bc. Visit https://github.com/zopencommunity/bcport for more details.",
+    "version": "1.0.0.0"
+  },
+  {
+    "packageName": "git-sizer",
+    "description": "This is a zopen community port of git-sizer. Visit https://github.com/zopencommunity/git-sizerport for more details.",
+    "version": "1.0.0.0"
+  },
+  {
+    "packageName": "lzip",
+    "description": "This is a zopen community port of lzip. Visit https://github.com/zopencommunity/lzipport for more details.",
+    "version": "1.0.0"
+  },
+  {
+    "packageName": "chezmoi",
+    "description": "This is a zopen community port of chezmoi. Visit https://github.com/zopencommunity/chezmoiport for more details.",
+    "version": "2.62.5.0"
+  },
+  {
+    "packageName": "jd",
+    "description": "This is a zopen community port of jd. Visit https://github.com/zopencommunity/jdport for more details.",
+    "version": "2.5.0"
+  },
+  {
+    "packageName": "libarchive",
+    "description": "This is a zopen community port of libarchive. Visit https://github.com/zopencommunity/libarchiveport for more details.",
+    "version": "3.8.7"
+  },
+  {
+    "packageName": "apr",
+    "description": "This is a zopen community port of apr. Visit https://github.com/zopencommunity/aprport for more details.",
+    "version": "1.0.0.0"
+  },
+  {
+    "packageName": "glow",
+    "description": "This is a zopen community port of glow. Visit https://github.com/zopencommunity/glowport for more details.",
+    "version": "2.1.1.0"
+  },
+  {
+    "packageName": "scc",
+    "description": "This is a zopen community port of scc. Visit https://github.com/zopencommunity/sccport for more details.",
+    "version": "3.7.0"
+  },
+  {
+    "packageName": "fish",
+    "description": "This is a zopen community port of fish. Visit https://github.com/zopencommunity/fishport for more details.",
+    "version": "3.7.1"
+  },
+  {
+    "packageName": "gflags",
+    "description": "This is a zopen community port of gflags. Visit https://github.com/zopencommunity/gflagsport for more details.",
+    "version": "1.0.0"
+  },
+  {
+    "packageName": "jemalloc",
+    "description": "This is a zopen community port of jemalloc. Visit https://github.com/zopencommunity/jemallocport for more details.",
+    "version": "1.0.0.0"
+  },
+  {
+    "packageName": "doom-ascii",
+    "description": "This is a zopen community port of doom-ascii. Visit https://github.com/zopencommunity/doom-asciiport for more details.",
+    "version": "0.2.1.0"
+  },
+  {
+    "packageName": "readline",
+    "description": "This is a zopen community port of readline. Visit https://github.com/zopencommunity/readlineport for more details.",
+    "version": "8.3"
+  },
+  {
+    "packageName": "quilt",
+    "description": "This is a zopen community port of quilt. Visit https://github.com/zopencommunity/quiltport for more details.",
+    "version": "0.69"
+  },
+  {
+    "packageName": "snappy-c",
+    "description": "This is a zopen community port of snappy-c. Visit https://github.com/zopencommunity/snappy-cport for more details.",
+    "version": "1.0.0.0"
+  },
+  {
+    "packageName": "ccache",
+    "description": "This is a zopen community port of ccache. Visit https://github.com/zopencommunity/ccacheport for more details.",
+    "version": "1.0.0"
+  },
+  {
+    "packageName": "file",
+    "description": "This is a zopen community port of file. Visit https://github.com/zopencommunity/fileport for more details.",
+    "version": "5.47"
+  },
+  {
+    "packageName": "scdoc",
+    "description": "This is a zopen community port of scdoc. Visit https://github.com/zopencommunity/scdocport for more details.",
+    "version": "1.11.5"
+  },
+  {
+    "packageName": "libpsl",
+    "description": "This is a zopen community port of libpsl. Visit https://github.com/zopencommunity/libpslport for more details.",
+    "version": "1.0.0"
+  },
+  {
+    "packageName": "asio",
+    "description": "This is a zopen community port of asio. Visit https://github.com/zopencommunity/asioport for more details.",
+    "version": "1.0.0"
+  },
+  {
+    "packageName": "metaldio",
+    "description": "This is a zopen community port of metaldio. Visit https://github.com/zopencommunity/metaldioport for more details.",
+    "version": "1.0.0"
+  },
+  {
+    "packageName": "hazelcast",
+    "description": "This is a zopen community port of hazelcast. Visit https://github.com/zopencommunity/hazelcastport for more details.",
+    "version": "5.5.0"
+  },
+  {
+    "packageName": "grpc",
+    "description": "This is a zopen community port of grpc. Visit https://github.com/zopencommunity/grpcport for more details.",
+    "version": "1.0.0"
+  },
+  {
+    "packageName": "mpfr",
+    "description": "This is a zopen community port of mpfr. Visit https://github.com/zopencommunity/mpfrport for more details.",
+    "version": "4.2.2"
+  },
+  {
+    "packageName": "fmt",
+    "description": "This is a zopen community port of fmt. Visit https://github.com/zopencommunity/fmtport for more details.",
+    "version": "12.1.0"
+  },
+  {
+    "packageName": "rpm",
+    "description": "This is a zopen community port of rpm. Visit https://github.com/zopencommunity/rpmport for more details.",
+    "version": "6.1.0"
+  },
+  {
+    "packageName": "tcltls",
+    "description": "This is a zopen community port of tcltls. Visit https://github.com/zopencommunity/tcltlsport for more details.",
+    "version": "1.0.0"
+  },
+  {
+    "packageName": "blis",
+    "description": "This is a zopen community port of blis. Visit https://github.com/zopencommunity/blisport for more details.",
+    "version": "2.0"
+  },
+  {
+    "packageName": "libyaml",
+    "description": "This is a zopen community port of libyaml. Visit https://github.com/zopencommunity/libyamlport for more details.",
+    "version": "0.2.5"
+  },
+  {
+    "packageName": "mkcert",
+    "description": "This is a zopen community port of mkcert. Visit https://github.com/zopencommunity/mkcertport for more details.",
+    "version": "1.4.4"
+  },
+  {
+    "packageName": "libsolv",
+    "description": "This is a zopen community port of libsolv. Visit https://github.com/zopencommunity/libsolvport for more details.",
+    "version": "0.7.40"
+  },
+  {
+    "packageName": "jsonc",
+    "description": "This is a zopen community port of jsonc. Visit https://github.com/zopencommunity/jsoncport for more details.",
+    "version": "0.18"
+  },
+  {
+    "packageName": "openldap",
+    "description": "This is a zopen community port of openldap. Visit https://github.com/zopencommunity/openldapport for more details.",
+    "version": "2.6.10"
+  },
+  {
+    "packageName": "glib",
+    "description": "This is a zopen community port of glib. Visit https://github.com/zopencommunity/glibport for more details.",
+    "version": "2.87.0"
+  },
+  {
+    "packageName": "toml11",
+    "description": "This is a zopen community port of toml11. Visit https://github.com/zopencommunity/toml11port for more details.",
+    "version": "4.4.0"
+  },
+  {
+    "packageName": "check",
+    "description": "This is a zopen community port of check. Visit https://github.com/zopencommunity/checkport for more details.",
+    "version": "0.15.2"
+  },
+  {
+    "packageName": "librepo",
+    "description": "This is a zopen community port of librepo. Visit https://github.com/zopencommunity/librepoport for more details.",
+    "version": "1.21.1"
+  },
+  {
+    "packageName": "clang-format",
+    "description": "This is a zopen community port of clang-format. Visit https://github.com/zopencommunity/clang-formatport for more details.",
+    "version": "23.1.2"
+  },
+  {
+    "packageName": "crush",
+    "description": "This is a zopen community port of crush. Visit https://github.com/zopencommunity/crushport for more details.",
+    "version": "0.11.0"
+  },
+  {
+    "packageName": "libkqueue",
+    "description": "This is a zopen community port of libkqueue. Visit https://github.com/zopencommunity/libkqueueport for more details.",
+    "version": "1.0.0"
+  },
+  {
+    "packageName": "dnf5",
+    "description": "This is a zopen community port of dnf5. Visit https://github.com/zopencommunity/dnf5port for more details.",
+    "version": "5.4.5.0"
+  },
+  {
+    "packageName": "alternatives",
+    "description": "This is a zopen community port of alternatives. Visit https://github.com/zopencommunity/alternativesport for more details.",
+    "version": "1.0.0"
+  },
+  {
+    "packageName": "createrepo_c",
+    "description": "This is a zopen community port of createrepo_c. Visit https://github.com/zopencommunity/createrepo_cport for more details.",
+    "version": "1.0.0"
+  },
+  {
+    "packageName": "clang-tidy",
+    "description": "This is a zopen community port of clang-tidy. Visit https://github.com/zopencommunity/clang-tidyport for more details.",
+    "version": "21.1.8"
+  },
+  {
+    "packageName": "cppunit",
+    "description": "This is a zopen community port of cppunit. Visit https://github.com/zopencommunity/cppunitport for more details.",
+    "version": "1.15.1"
+  },
+  {
+    "packageName": "pv",
+    "description": "This is a zopen community port of pv. Visit https://github.com/zopencommunity/pvport for more details.",
+    "version": "1.9.34"
+  },
+  {
+    "packageName": "mc",
+    "description": "This is a zopen community port of mc. Visit https://github.com/zopencommunity/mcport for more details.",
+    "version": "4.8.33"
+  },
+  {
+    "packageName": "ruby",
+    "description": "This is a zopen community port of ruby. Visit https://github.com/zopencommunity/rubyport for more details.",
+    "version": "3.4.8"
+  },
+  {
+    "packageName": "check_podman",
+    "description": "This is a zopen community port of check_podman. Visit https://github.com/zopencommunity/check_podmanport for more details.",
+    "version": "1.0.0"
+  },
+  {
+    "packageName": "util-macros",
+    "description": "This is a zopen community port of util-macros. Visit https://github.com/zopencommunity/util-macrosport for more details.",
+    "version": "1.20.2"
+  },
+  {
+    "packageName": "xorgproto",
+    "description": "This is a zopen community port of xorgproto. Visit https://github.com/zopencommunity/xorgprotoport for more details.",
+    "version": "2025.1"
+  },
+  {
+    "packageName": "p7zip",
+    "description": "This is a zopen community port of p7zip. Visit https://github.com/zopencommunity/p7zipport for more details.",
+    "version": "17.06"
+  },
+  {
+    "packageName": "z3",
+    "description": "This is a zopen community port of z3. Visit https://github.com/zopencommunity/z3port for more details.",
+    "version": "5.1.0"
+  },
+  {
+    "packageName": "xtrans",
+    "description": "This is a zopen community port of xtrans. Visit https://github.com/zopencommunity/xtransport for more details.",
+    "version": "1.0.0"
+  },
+  {
+    "packageName": "xcb-proto",
+    "description": "This is a zopen community port of xcb-proto. Visit https://github.com/zopencommunity/xcb-protoport for more details.",
+    "version": "1.0.0"
+  },
+  {
+    "packageName": "libxau",
+    "description": "This is a zopen community port of libxau. Visit https://github.com/zopencommunity/libxauport for more details.",
+    "version": "1.0.12"
+  },
+  {
+    "packageName": "googletest",
+    "description": "This is a zopen community port of googletest. Visit https://github.com/zopencommunity/googletestport for more details.",
+    "version": "1.18.0"
+  },
+  {
+    "packageName": "libpkgmanifest",
+    "description": "This is a zopen community port of libpkgmanifest. Visit https://github.com/zopencommunity/libpkgmanifestport for more details.",
+    "version": "0.5.9"
+  },
+  {
+    "packageName": "yamlcpp",
+    "description": "This is a zopen community port of yamlcpp. Visit https://github.com/zopencommunity/yamlcppport for more details.",
+    "version": "0.8.0"
+  },
+  {
+    "packageName": "liboqs",
+    "description": "This is a zopen community port of liboqs. Visit https://github.com/zopencommunity/liboqsport for more details.",
+    "version": "1.0.0"
+  },
+  {
+    "packageName": "nnn",
+    "description": "This is a zopen community port of nnn. Visit https://github.com/zopencommunity/nnnport for more details.",
+    "version": "5.2"
+  },
+  {
+    "packageName": "oqs-provider",
+    "description": "This is a zopen community port of oqs-provider. Visit https://github.com/zopencommunity/oqs-providerport for more details.",
+    "version": "0.11.0"
+  },
+  {
+    "packageName": "clangd",
+    "description": "This is a zopen community port of clangd. Visit https://github.com/zopencommunity/clangdport for more details.",
+    "version": "21.1.8"
+  },
+  {
+    "packageName": "micro",
+    "description": "This is a zopen community port of micro. Visit https://github.com/zopencommunity/microport for more details.",
+    "version": "2.0.14"
+  },
+  {
+    "packageName": "clang_zos_wrapper",
+    "description": "This is a zopen community port of clang_zos_wrapper. Visit https://github.com/zopencommunity/clang_zos_wrapperport for more details.",
+    "version": "1.0.3"
+  },
+  {
+    "packageName": "hlasm-language-server",
+    "description": "This is a zopen community port of hlasm-language-server. Visit https://github.com/zopencommunity/hlasm-language-serverport for more details.",
+    "version": "1.22.1"
+  },
+  {
+    "packageName": "k6",
+    "description": "This is a zopen community port of k6. Visit https://github.com/zopencommunity/k6port for more details.",
+    "version": "1.5.0"
+  },
+  {
+    "packageName": "botan",
+    "description": "This is a zopen community port of botan. Visit https://github.com/zopencommunity/botanport for more details.",
+    "version": "1.0.0"
+  },
+  {
+    "packageName": "thrift",
+    "description": "This is a zopen community port of thrift. Visit https://github.com/zopencommunity/thriftport for more details.",
+    "version": "1.0.0"
+  },
+  {
+    "packageName": "sqlite-vec",
+    "description": "This is a zopen community port of sqlite-vec. Visit https://github.com/zopencommunity/sqlite-vecport for more details.",
+    "version": "0.1.9"
+  },
+  {
+    "packageName": "z-vector-search",
+    "description": "This is a zopen community port of z-vector-search. Visit https://github.com/zopencommunity/z-vector-searchport for more details.",
+    "version": "1.0.0"
+  },
+  {
+    "packageName": "cbxp",
+    "description": "This is a zopen community port of cbxp. Visit https://github.com/zopencommunity/cbxpport for more details.",
+    "version": "0.0.4"
+  },
+  {
+    "packageName": "trivy",
+    "description": "This is a zopen community port of trivy. Visit https://github.com/zopencommunity/trivyport for more details.",
+    "version": "0.70.0"
+  },
+  {
+    "packageName": "grype",
+    "description": "This is a zopen community port of grype. Visit https://github.com/zopencommunity/grypeport for more details.",
+    "version": "0.112.0"
+  },
+  {
+    "packageName": "rclone",
+    "description": "This is a zopen community port of rclone. Visit https://github.com/zopencommunity/rcloneport for more details.",
+    "version": "1.74.1"
+  },
+  {
+    "packageName": "python-xxhash",
+    "description": "This is a zopen community port of python-xxhash. Visit https://github.com/zopencommunity/python-xxhashport for more details.",
+    "version": "3.8.1"
+  },
+  {
+    "packageName": "openssl3",
+    "description": "This is a zopen community port of openssl3. Visit https://github.com/zopencommunity/openssl3port for more details.",
+    "version": "3.6.0"
+  },
+  {
+    "packageName": "csmith",
+    "description": "This is a zopen community port of csmith. Visit https://github.com/zopencommunity/csmithport for more details.",
+    "version": "2.4.0"
+  },
+  {
+    "packageName": "syft",
+    "description": "This is a zopen community port of syft. Visit https://github.com/zopencommunity/syftport for more details.",
+    "version": "1.44.0"
+  },
+  {
+    "packageName": "confluent-kafka",
+    "description": "This is a zopen community port of confluent-kafka. Visit https://github.com/zopencommunity/confluent-kafkaport for more details.",
+    "version": "2.14.0"
+  },
+  {
+    "packageName": "gdu",
+    "description": "This is a zopen community port of gdu. Visit https://github.com/zopencommunity/gduport for more details.",
+    "version": "5.36.1"
+  },
+  {
+    "packageName": "fd",
+    "description": "This is a zopen community port of fd. Visit https://github.com/zopencommunity/fdport for more details.",
+    "version": "10.3.0"
+  },
+  {
+    "packageName": "ripgrep",
+    "description": "This is a zopen community port of ripgrep. Visit https://github.com/zopencommunity/ripgrepport for more details.",
+    "version": "15.1.0"
+  },
+  {
+    "packageName": "bat",
+    "description": "This is a zopen community port of bat. Visit https://github.com/zopencommunity/batport for more details.",
+    "version": "0.26.0"
+  },
+  {
+    "packageName": "mmh3",
+    "description": "This is a zopen community port of mmh3. Visit https://github.com/zopencommunity/mmh3port for more details.",
+    "version": "5.2.0"
+  },
+  {
+    "packageName": "django",
+    "description": "This is a zopen community port of django. Visit https://github.com/zopencommunity/djangoport for more details.",
+    "version": "6.0.6"
+  },
+  {
+    "packageName": "cookiecutter",
+    "description": "This is a zopen community port of cookiecutter. Visit https://github.com/zopencommunity/cookiecutterport for more details.",
+    "version": "2.7.0"
+  },
+  {
+    "packageName": "versioneer",
+    "description": "This is a zopen community port of versioneer. Visit https://github.com/zopencommunity/versioneerport for more details.",
+    "version": "0.28"
+  },
+  {
+    "packageName": "pydantic-core",
+    "description": "This is a zopen community port of pydantic-core. Visit https://github.com/zopencommunity/pydantic-coreport for more details.",
+    "version": "2.46.4"
+  },
+  {
+    "packageName": "rpds-py",
+    "description": "This is a zopen community port of rpds-py. Visit https://github.com/zopencommunity/rpds-pyport for more details.",
+    "version": "2026.6.3"
+  },
+  {
+    "packageName": "fastapi",
+    "description": "This is a zopen community port of fastapi. Visit https://github.com/zopencommunity/fastapiport for more details.",
+    "version": "0.141.1"
+  },
+  {
+    "packageName": "fastmcp",
+    "description": "This is a zopen community port of fastmcp. Visit https://github.com/zopencommunity/fastmcpport for more details.",
+    "version": "4.0.9"
+  },
+  {
+    "packageName": "uv",
+    "description": "This is a zopen community port of uv. Visit https://github.com/zopencommunity/uvport for more details.",
+    "version": "0.8.13"
+  },
+  {
+    "packageName": "cryptography",
+    "description": "This is a zopen community port of cryptography. Visit https://github.com/zopencommunity/cryptographyport for more details.",
+    "version": "50.0.0"
+  },
+  {
+    "packageName": "watchfiles",
+    "description": "This is a zopen community port of watchfiles. Visit https://github.com/zopencommunity/watchfilesport for more details.",
+    "version": "1.2.0"
+  },
+  {
+    "packageName": "lxml",
+    "description": "This is a zopen community port of lxml. Visit https://github.com/zopencommunity/lxmlport for more details.",
+    "version": "6.1.3"
+  },
+  {
+    "packageName": "bcrypt",
+    "description": "This is a zopen community port of bcrypt. Visit https://github.com/zopencommunity/bcryptport for more details.",
+    "version": "5.0.0"
+  },
+  {
+    "packageName": "libsodium",
+    "description": "This is a zopen community port of libsodium. Visit https://github.com/zopencommunity/libsodiumport for more details.",
+    "version": "1.0.20"
+  },
+  {
+    "packageName": "msgpack",
+    "description": "This is a zopen community port of msgpack. Visit https://github.com/zopencommunity/msgpackport for more details.",
+    "version": "1.2.2"
+  },
+  {
+    "packageName": "regex",
+    "description": "This is a zopen community port of regex. Visit https://github.com/zopencommunity/regexport for more details.",
+    "version": "2026.9.10"
+  },
+  {
+    "packageName": "zstandard",
+    "description": "This is a zopen community port of zstandard. Visit https://github.com/zopencommunity/zstandardport for more details.",
+    "version": "0.25.0"
+  },
+  {
+    "packageName": "simplejson",
+    "description": "This is a zopen community port of simplejson. Visit https://github.com/zopencommunity/simplejsonport for more details.",
+    "version": "4.1.2"
+  },
+  {
+    "packageName": "markupsafe",
+    "description": "This is a zopen community port of markupsafe. Visit https://github.com/zopencommunity/markupsafeport for more details.",
+    "version": "3.0.3"
+  },
+  {
+    "packageName": "pynacl",
+    "description": "This is a zopen community port of pynacl. Visit https://github.com/zopencommunity/pynaclport for more details.",
+    "version": "1.6.2"
+  },
+  {
+    "packageName": "pycryptodome",
+    "description": "This is a zopen community port of pycryptodome. Visit https://github.com/zopencommunity/pycryptodomeport for more details.",
+    "version": "3.23.0"
+  },
+  {
+    "packageName": "paramiko",
+    "description": "This is a zopen community port of paramiko. Visit https://github.com/zopencommunity/paramikoport for more details.",
+    "version": "5.0.0"
+  },
+  {
+    "packageName": "brotli",
+    "description": "This is a zopen community port of brotli. Visit https://github.com/zopencommunity/brotliport for more details.",
+    "version": "1.2.0"
+  },
+  {
+    "packageName": "ujson",
+    "description": "This is a zopen community port of ujson. Visit https://github.com/zopencommunity/ujsonport for more details.",
+    "version": "6.0.0"
+  },
+  {
+    "packageName": "zopeinterface",
+    "description": "This is a zopen community port of zopeinterface. Visit https://github.com/zopencommunity/zopeinterfaceport for more details.",
+    "version": "8.6"
+  },
+  {
+    "packageName": "maturin",
+    "description": "This is a zopen community port of maturin. Visit https://github.com/zopencommunity/maturinport for more details.",
+    "version": "1.14.1"
+  },
+  {
+    "packageName": "pyyaml",
+    "description": "This is a zopen community port of pyyaml. Visit https://github.com/zopencommunity/pyyamlport for more details.",
+    "version": "6.0.3"
+  },
+  {
+    "packageName": "libjpeg-turbo",
+    "description": "This is a zopen community port of libjpeg-turbo. Visit https://github.com/zopencommunity/libjpeg-turboport for more details.",
+    "version": "3.2.0"
+  },
+  {
+    "packageName": "pillow",
+    "description": "This is a zopen community port of pillow. Visit https://github.com/zopencommunity/pillowport for more details.",
+    "version": "12.3.0"
+  },
+  {
+    "packageName": "cffi",
+    "description": "This is a zopen community port of cffi. Visit https://github.com/zopencommunity/cffiport for more details.",
+    "version": "2.0.0"
+  },
+  {
+    "packageName": "numpy",
+    "description": "This is a zopen community port of numpy. Visit https://github.com/zopencommunity/numpyport for more details.",
+    "version": "2.5.2"
+  },
+  {
+    "packageName": "lapack",
+    "description": "This is a zopen community port of lapack. Visit https://github.com/zopencommunity/lapackport for more details.",
+    "version": "3.9.1"
+  },
+  {
+    "packageName": "nlohmann-json",
+    "description": "This is a zopen community port of nlohmann-json. Visit https://github.com/zopencommunity/nlohmann-jsonport for more details.",
+    "version": "3.12.0"
+  },
+  {
+    "packageName": "fortran",
+    "description": "This is a zopen community port of fortran. Visit https://github.com/zopencommunity/fortranport for more details.",
+    "version": "1.0.0"
+  },
+  {
+    "packageName": "scipy",
+    "description": "This is a zopen community port of scipy. Visit https://github.com/zopencommunity/scipyport for more details.",
+    "version": "1.18.0"
+  },
+  {
+    "packageName": "pandas",
+    "description": "This is a zopen community port of pandas. Visit https://github.com/zopencommunity/pandasport for more details.",
+    "version": "3.0.5"
+  },
+  {
+    "packageName": "msgpack-c",
+    "description": "This is a zopen community port of msgpack-c. Visit https://github.com/zopencommunity/msgpack-cport for more details.",
+    "version": "7.0.1"
+  },
+  {
+    "packageName": "jellyfish",
+    "description": "This is a zopen community port of jellyfish. Visit https://github.com/zopencommunity/jellyfishport for more details.",
+    "version": "1.2.1"
+  },
+  {
+    "packageName": "scikit-learn",
+    "description": "This is a zopen community port of scikit-learn. Visit https://github.com/zopencommunity/scikit-learnport for more details.",
+    "version": "1.9.0"
+  },
+  {
+    "packageName": "shap",
+    "description": "This is a zopen community port of shap. Visit https://github.com/zopencommunity/shapport for more details.",
+    "version": "0.52.1.dev42"
+  },
+  {
+    "packageName": "psutil",
+    "description": "This is a zopen community port of psutil. Visit https://github.com/zopencommunity/psutilport for more details.",
+    "version": "7.2.2"
+  },
+  {
+    "packageName": "snowflake-connector-python",
+    "description": "This is a zopen community port of snowflake-connector-python. Visit https://github.com/zopencommunity/snowflake-connector-pythonport for more details.",
+    "version": "4.7.2"
+  },
+  {
+    "packageName": "xsimd",
+    "description": "This is a zopen community port of xsimd. Visit https://github.com/zopencommunity/xsimdport for more details.",
+    "version": "14.3.0"
+  },
+  {
+    "packageName": "greenlet",
+    "description": "This is a zopen community port of greenlet. Visit https://github.com/zopencommunity/greenletport for more details.",
+    "version": "3.5.5"
+  },
+  {
+    "packageName": "snappy",
+    "description": "This is a zopen community port of snappy. Visit https://github.com/zopencommunity/snappyport for more details.",
+    "version": "1.3.1"
+  },
+  {
+    "packageName": "utf8proc",
+    "description": "This is a zopen community port of utf8proc. Visit https://github.com/zopencommunity/utf8procport for more details.",
+    "version": "2.12.0"
+  },
+  {
+    "packageName": "arrow",
+    "description": "This is a zopen community port of arrow. Visit https://github.com/zopencommunity/arrowport for more details.",
+    "version": "25.0.1"
+  },
+  {
+    "packageName": "rapidjson",
+    "description": "This is a zopen community port of rapidjson. Visit https://github.com/zopencommunity/rapidjsonport for more details.",
+    "version": "1.1.0"
+  },
+  {
+    "packageName": "zdnn",
+    "description": "This is a zopen community port of zdnn. Visit https://github.com/zopencommunity/zdnnport for more details.",
+    "version": "1.1.2"
+  },
+  {
+    "packageName": "rpmconfig",
+    "description": "This is a zopen community port of rpmconfig. Visit https://github.com/zopencommunity/rpmconfigport for more details.",
+    "version": "6.1.0"
+  },
+  {
+    "packageName": "pkgconf",
+    "description": "This is a zopen community port of pkgconf. Visit https://github.com/zopencommunity/pkgconfport for more details.",
+    "version": "1.0.0"
+  },
+  {
+    "packageName": "git-secrets",
+    "description": "This is a zopen community port of git-secrets. Visit https://github.com/zopencommunity/git-secretsport for more details.",
+    "version": "1.0.0"
+  }
+]
